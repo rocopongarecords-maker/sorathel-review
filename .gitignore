@@ -1,0 +1,7 @@
+.DS_Store
+._*
+*.swp
+*~
+.claude-conversation/
+Old Documents/
+Downloaded fikes (previous claude session)/
