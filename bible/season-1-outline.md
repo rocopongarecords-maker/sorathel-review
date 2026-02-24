@@ -32,17 +32,17 @@ The reader enters Sorathel. Falls in love with the world, the magic, the team. T
 ---
 
 ### EPISODE 2 — "The Signal"
-*Second deployment. Deeper world. The ceiling. Vardo. The pattern sharpens.*
+*Second deployment. Deeper world. The ceiling. Zethael. The pattern sharpens.*
 
 - New location — different type of community (trading post? route hub? not farming)
 - The anomaly from Ep 1 appears again. Stronger. Connected. Directional.
-- **Vardo introduced properly here.** Working a nearby assignment, overlaps with the team. The three-Solvarei scene (Vardo/Vaelen/Drenna) happens with room to breathe. The reader likes him. The reader almost forgets him. That's the plan.
+- **Zethael introduced properly here.** Working a nearby assignment, overlaps with the team. The three-Solvarei scene (Zethael/Vaelen/Drenna) happens with room to breathe. The reader likes him. The reader almost forgets him. That's the plan.
 - Vaelen solves something nobody else could — competence at its peak. But the victory feels hollow. The ceiling becomes visible: the Solvarei notice him, reward him, and the reward feels like a cage.
 - Drenna sees the systemic pattern sharpening — her evidence and her ambition are both growing
 - Vaelen and Drenna's intellectual partnership deepens — together they see more than either sees alone
 - Concerning reports from the frontier. Amarvel readings that don't match known patterns. The institutional response: "we're monitoring it."
 - **Caeleth scenes:** Build him as the reader's favorite. The funniest line. A specific fear. A kindness. The reader must love this boy.
-- **Vardo's seed:** Offhand mention — he engaged a section of the network differently, instinctively, outside the formal framework, and it responded better. He's curious, not revolutionary. Vaelen files it. The reader files it.
+- **Zethael's seed:** Offhand mention — he engaged a section of the network differently, instinctively, outside the formal framework, and it responded better. He's curious, not revolutionary. Vaelen files it. The reader files it.
 
 **Not yet outlined at chapter level.**
 
@@ -152,7 +152,7 @@ Credential-building → Partnership (genuine AND strategic) → Crisis accelerat
 Junior → Awakening sensitivity → The reader's favorite → "It's beautiful" → Sits down in the Dread and doesn't get up
 *The eyes through which the reader enters. The boy who felt the bees behind the wall. His mother's field journal, binding still stiff, not enough pages filled. It will never be filled now.*
 
-### Vardo
+### Zethael
 Introduced properly (Ep 2) → Warm, direct, liked → Absent during the Dread → Returns when it matters?
 *The friend who's always building something. The reader likes him. The reader almost forgets him. That's the plan.*
 

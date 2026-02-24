@@ -43,6 +43,21 @@
 - **Caeleth:** Sees his younger self. "I was you. I remember being you. I remember the part that came after."
 - **Jorath:** Warm teasing; assigns him work that plays to his strengths
 
+## Jungian Shadow (LOCKED — from Story DNA)
+**FURY.** Not hollowness, not emptiness — that's too passive, too poetic. Vaelen's shadow is rage. The thing underneath the warmth, the thing the Ethura amplifies, is not the void. It's fury at a world that taught him to perform instead of be.
+
+## The Serial Chase (from Story DNA)
+- Chases mastery (Solvarei) → new world (Solcarin) → elite status (Amarith) → love
+- Each time believes the next thing will fill the void. Each time it doesn't.
+- Season 1: Inside the Solvarei. Deployments. The Surge. The Dread. Defers his key insight. Leaves for the Solcarin.
+
+## Five Gifts (from Vaelen Reframe)
+1. Magnetic — people orient toward him without him trying
+2. Funny — real humor, not performed wit
+3. Generous with insight — gives observations freely
+4. Leads without trying — people follow before he asks
+5. Transcendent pattern-reading — the gift that costs him most
+
 ## What the Reader Doesn't Know Yet
 - The full wound, the serial chase pattern, what broke him, his relationship history
 - The ceiling — too good for deployments, not brave enough to reach for more

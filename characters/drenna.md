@@ -45,6 +45,16 @@
 - **Vaelen:** Respects his gift, frustrated he doesn't see its political value. First person to ask the right questions about her data. She shared her father's story — genuinely AND because she knows what that honesty does to a relationship.
 - **Maret:** The neighbor who maintains what Drenna can't. Exchanges are minimal and loaded.
 
+## Jungian Shadow (LOCKED — from Story DNA)
+**GRIEF.** Not ambition — the ambition is surface. Drenna's true shadow is grief. The loss of her father, the loss of her community, the loss of the world she came from. The ambition is how she runs from it.
+
+## Season Arc (from Drenna Complete Arc)
+- Season 1: Credential-building → Partnership → Crisis accelerates timeline → Defining choice → Exit
+- The Dread gives her the most powerful story a frontier politician could carry, and she knows it
+- She grieves Caeleth AND she's already thinking about what this means. Both real.
+- Father killed during the surge (Episode 4-5 timeframe)
+- The Tabata-vote moment: right policy from wrong people, or speaking truth that costs something real
+
 ## What the Reader Doesn't Know Yet
 - Specific patrons, the full exit plan, the scope of her ambition
 - Her relationship to institutional power in Season 2+
