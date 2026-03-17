@@ -2,6 +2,33 @@
 
 ## March 2026
 
+### Ep2 Ch01 Vaelen v4 — Mar 17
+
+**New worldbuilding:**
+- **Ashroot** — Sorathel-native morning drink. Brewed from dried volcanic-region root (Ashara origin). Smoky, deep, bitter. Replaces "coffee" throughout.
+- **Creature dispatch station** — Expanded into full worldbuilding moment. Roost structure with perches by route, handlers bonded to specific creatures, treated cloth message strips, morning rhythm of dispatches. Infrastructure stress hint: eastern corridor creature hasn't returned in three days.
+- **Compound description** — Full GRRM-style sensory treatment. Pale quarry stone (honey/grey-green), worn flagstones, morning light through wide windows, sounds of training yard and workshops, herb-garden smell, polished railing.
+
+**Kitchen revision:**
+- Cut "Not Sorvyn-good" framing (Vaelen sees Sorvyn as an equal, not a reference)
+- Replaced "three kinds of grain porridge" with: warm flatbread with herb oil, roasted root slices, soft eggs in clay cups, honeyed nuts
+
+**Opening logistics fix:**
+- Clarified that Vaelen stops at Sorvyn's apartment on the walk up to the compound each morning — explains how he has ashroot without Sorvyn present
+
+**Essren scene reframe (MAJOR):**
+- Changed from "strategic withholding" to "perception outrunning vocabulary"
+- Vaelen genuinely believed "within parameters" — his professional framework couldn't hold what his gift was showing him
+- Essren isn't catching him in a lie — she's showing him what his own data means
+- "Your readings are telling a story you haven't read yet" / "Yes you do. You just don't trust it yet."
+- His precision IS his blind spot (Ned Stark's honor turned sideways)
+- Seeds Ep8: silence from the gap between perception and articulation, not cowardice
+
+**Terminology:**
+- "headquarters" → "compound" (2 instances removed)
+
+**Files updated:** `drafts/ep02-ch01-vaelen-v4.md` (new), `bible/story-bible.md`, `bible/version-registry.md`, `changelog.md`
+
 ### Major Worldbuilding Corrections + Ep2 Outline v2 — Mar 13
 
 **Conceptual corrections (user feedback):**
