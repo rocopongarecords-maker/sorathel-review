@@ -54,6 +54,6 @@ const epTitle = (manifest.episodeTitles as Record<string, string>)[String(chapte
 const title = `Episode ${chapter.episode}: ${epTitle} — Chapter ${chapter.chapter}`;
 ---
 
-<Layout title={title} character={chapter.character} prevSlug={prevSlug} nextSlug={nextSlug}>
+<Layout title={title} character={chapter.character} prevSlug={prevSlug} nextSlug={nextSlug} slug={chapter.slug}>
   <Fragment set:html={html} />
 </Layout>

@@ -4,9 +4,10 @@ interface Props {
   character: string;
   prevSlug?: string;
   nextSlug?: string;
+  slug: string;
 }
 
-const { title, character, prevSlug, nextSlug } = Astro.props;
+const { title, character, prevSlug, nextSlug, slug } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -16,20 +17,8 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title} — Sorathel</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <script>
-    window.hypothesisConfig = function() {
-      return {
-        openSidebar: false,
-      };
-    };
-  </script>
-  <script src="https://hypothes.is/embed.js" async></script>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       font-family: 'Georgia', 'Times New Roman', serif;
@@ -39,6 +28,54 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       font-size: 18px;
     }
 
+    /* --- Password Gate --- */
+    #gate {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #1a1a2e;
+    }
+    #gate form {
+      text-align: center;
+      color: #c8c8d0;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    #gate h1 {
+      font-family: Georgia, serif;
+      font-weight: normal;
+      letter-spacing: 0.15em;
+      color: #e8e6f0;
+      margin-bottom: 2rem;
+      font-size: 2rem;
+    }
+    #gate input {
+      padding: 0.7rem 1.2rem;
+      font-size: 16px;
+      border: 1px solid #3a3a5e;
+      background: #2a2a4e;
+      color: #e8e6f0;
+      border-radius: 4px;
+      width: 220px;
+      text-align: center;
+    }
+    #gate input:focus { outline: none; border-color: #6a6a9e; }
+    #gate button {
+      margin-left: 0.5rem;
+      padding: 0.7rem 1.5rem;
+      font-size: 16px;
+      background: #4a4a7e;
+      color: #e8e6f0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    #gate button:hover { background: #5a5a8e; }
+    #gate .error { color: #c87070; margin-top: 1rem; font-size: 14px; display: none; }
+
+    #site { display: none; }
+
+    /* --- Header --- */
     .header {
       background: #1a1a2e;
       color: #c8c8d0;
@@ -49,23 +86,16 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       font-family: system-ui, -apple-system, sans-serif;
       font-size: 14px;
     }
+    .header a { color: #a0a0b0; text-decoration: none; }
+    .header a:hover { color: #e0e0e8; }
 
-    .header a {
-      color: #a0a0b0;
-      text-decoration: none;
-    }
-
-    .header a:hover {
-      color: #e0e0e8;
-    }
-
+    /* --- Chapter --- */
     .chapter-header {
       text-align: center;
       padding: 3rem 2rem 2rem;
       border-bottom: 1px solid #e0ddd6;
       margin-bottom: 2rem;
     }
-
     .chapter-header h1 {
       font-size: 1.8rem;
       font-weight: normal;
@@ -73,7 +103,6 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       color: #1a1a2e;
       margin-bottom: 0.5rem;
     }
-
     .chapter-header .character {
       font-size: 1rem;
       color: #6b6b7b;
@@ -87,45 +116,20 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       margin: 0 auto;
       padding: 0 2rem 4rem;
     }
-
-    .content :global(p) {
-      margin-bottom: 1.2em;
-      text-indent: 1.5em;
-    }
-
+    .content :global(p) { margin-bottom: 1.2em; text-indent: 1.5em; }
     .content :global(p:first-child),
-    .content :global(hr + p) {
-      text-indent: 0;
-    }
-
+    .content :global(hr + p) { text-indent: 0; }
     .content :global(p:first-child::first-line) {
       font-variant: small-caps;
       font-size: 1.1em;
       letter-spacing: 0.05em;
     }
+    .content :global(hr) { border: none; text-align: center; margin: 2.5rem 0; }
+    .content :global(hr::after) { content: '* * *'; color: #8a8a9a; letter-spacing: 0.5em; font-size: 0.9rem; }
+    .content :global(em) { font-style: italic; }
+    .content :global(h1), .content :global(h2) { display: none; }
 
-    .content :global(hr) {
-      border: none;
-      text-align: center;
-      margin: 2.5rem 0;
-    }
-
-    .content :global(hr::after) {
-      content: '* * *';
-      color: #8a8a9a;
-      letter-spacing: 0.5em;
-      font-size: 0.9rem;
-    }
-
-    .content :global(em) {
-      font-style: italic;
-    }
-
-    .content :global(h1),
-    .content :global(h2) {
-      display: none;
-    }
-
+    /* --- Navigation --- */
     .nav-footer {
       max-width: 650px;
       margin: 0 auto;
@@ -136,7 +140,6 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       font-family: system-ui, -apple-system, sans-serif;
       font-size: 14px;
     }
-
     .nav-footer a {
       color: #4a4a5a;
       text-decoration: none;
@@ -144,30 +147,178 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
       border: 1px solid #d0cdc6;
       border-radius: 4px;
     }
+    .nav-footer a:hover { background: #eeecea; }
+    .nav-footer .spacer { width: 100px; }
 
-    .nav-footer a:hover {
-      background: #eeecea;
-    }
+    /* --- Annotations --- */
+    ::selection { background: #d4c5a9; }
 
-    .nav-footer .spacer {
-      width: 100px;
+    .annotation-popup {
+      display: none;
+      position: fixed;
+      background: #1a1a2e;
+      color: #e8e6f0;
+      border-radius: 6px;
+      padding: 0.8rem;
+      z-index: 1000;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+      width: 300px;
     }
+    .annotation-popup textarea {
+      width: 100%;
+      height: 60px;
+      background: #2a2a4e;
+      color: #e8e6f0;
+      border: 1px solid #3a3a5e;
+      border-radius: 4px;
+      padding: 0.5rem;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 13px;
+      resize: vertical;
+    }
+    .annotation-popup textarea:focus { outline: none; border-color: #6a6a9e; }
+    .annotation-popup .quote {
+      font-style: italic;
+      font-size: 12px;
+      color: #a0a0b0;
+      margin-bottom: 0.5rem;
+      max-height: 40px;
+      overflow: hidden;
+    }
+    .annotation-popup .btns {
+      display: flex;
+      justify-content: flex-end;
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+    .annotation-popup button {
+      padding: 0.3rem 0.8rem;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .annotation-popup .save-btn { background: #4a7a4a; color: white; }
+    .annotation-popup .save-btn:hover { background: #5a8a5a; }
+    .annotation-popup .cancel-btn { background: #4a4a5e; color: #c8c8d0; }
+    .annotation-popup .cancel-btn:hover { background: #5a5a6e; }
 
-    /* Hide hypothesis highlight tooltip bar in a less intrusive way */
-    ::selection {
-      background: #d4c5a9;
+    .annotated {
+      background: #e8dfc4;
+      border-bottom: 2px solid #c4a84a;
+      cursor: pointer;
     }
+    .annotated:hover { background: #ddd4b0; }
+
+    /* --- Comments Panel --- */
+    .comments-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #1a1a2e;
+      color: #c8c8d0;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 13px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 0.5rem 1rem;
+      gap: 1rem;
+      z-index: 999;
+    }
+    .comments-bar button {
+      padding: 0.4rem 1rem;
+      border: 1px solid #3a3a5e;
+      background: transparent;
+      color: #a0a0b0;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .comments-bar button:hover { background: #2a2a4e; color: #e0e0e8; }
+
+    .comments-panel {
+      display: none;
+      position: fixed;
+      right: 0;
+      top: 0;
+      bottom: 40px;
+      width: 340px;
+      background: #f5f3ee;
+      border-left: 1px solid #d0cdc6;
+      overflow-y: auto;
+      z-index: 998;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 13px;
+      padding: 1rem;
+    }
+    .comments-panel h3 {
+      font-size: 14px;
+      margin-bottom: 1rem;
+      color: #4a4a5a;
+    }
+    .comment-card {
+      background: white;
+      border: 1px solid #e0ddd6;
+      border-radius: 4px;
+      padding: 0.8rem;
+      margin-bottom: 0.8rem;
+    }
+    .comment-card .cq {
+      font-style: italic;
+      color: #6b6b7b;
+      font-size: 12px;
+      margin-bottom: 0.4rem;
+      border-left: 2px solid #c4a84a;
+      padding-left: 0.5rem;
+    }
+    .comment-card .cn { color: #2c2c2c; }
+    .comment-card .cd {
+      font-size: 11px;
+      color: #8a8a9a;
+      margin-top: 0.3rem;
+    }
+    .comment-card .delete-note {
+      float: right;
+      background: none;
+      border: none;
+      color: #aaa;
+      cursor: pointer;
+      font-size: 16px;
+      padding: 0;
+      line-height: 1;
+    }
+    .comment-card .delete-note:hover { color: #c87070; }
 
     @media (max-width: 600px) {
       body { font-size: 16px; }
       .content { padding: 0 1.2rem 3rem; }
       .chapter-header { padding: 2rem 1rem 1.5rem; }
+      .comments-panel { width: 100%; }
     }
   </style>
 </head>
 <body>
+
+<!-- Password Gate -->
+<div id="gate">
+  <form id="gate-form">
+    <h1>SORATHEL</h1>
+    <div>
+      <input type="password" id="pw" placeholder="Password" autocomplete="off" />
+      <button type="submit">Enter</button>
+    </div>
+    <div class="error" id="pw-error">Wrong password</div>
+  </form>
+</div>
+
+<!-- Site Content (hidden until authenticated) -->
+<div id="site">
   <div class="header">
-    <a href="/">← Sorathel</a>
+    <a href={`${import.meta.env.BASE_URL}`}>← Sorathel</a>
     <span>Review Draft — Not for Distribution</span>
   </div>
 
@@ -176,14 +327,239 @@ const { title, character, prevSlug, nextSlug } = Astro.props;
     <div class="character">{character}</div>
   </div>
 
-  <article class="content">
+  <article class="content" id="chapter-content">
     <slot />
   </article>
 
   <nav class="nav-footer">
-    {prevSlug ? <a href={`/${prevSlug}`}>← Previous</a> : <span class="spacer"></span>}
-    <a href="/">Index</a>
-    {nextSlug ? <a href={`/${nextSlug}`}>Next →</a> : <span class="spacer"></span>}
+    {prevSlug ? <a href={`${import.meta.env.BASE_URL}${prevSlug}`}>← Previous</a> : <span class="spacer"></span>}
+    <a href={`${import.meta.env.BASE_URL}`}>Index</a>
+    {nextSlug ? <a href={`${import.meta.env.BASE_URL}${nextSlug}`}>Next →</a> : <span class="spacer"></span>}
   </nav>
+
+  <!-- Annotation popup -->
+  <div class="annotation-popup" id="ann-popup">
+    <div class="quote" id="ann-quote"></div>
+    <textarea id="ann-text" placeholder="Your comment..."></textarea>
+    <div class="btns">
+      <button class="cancel-btn" id="ann-cancel">Cancel</button>
+      <button class="save-btn" id="ann-save">Save</button>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div class="comments-bar">
+    <span id="note-count">0 notes</span>
+    <button id="toggle-panel">View Notes</button>
+    <button id="copy-notes">Copy All to Clipboard</button>
+  </div>
+
+  <!-- Side panel -->
+  <div class="comments-panel" id="comments-panel">
+    <h3>Notes on this chapter</h3>
+    <div id="notes-list"></div>
+  </div>
+</div>
+
+<script define:vars={{ slug }}>
+  // --- Password ---
+  // SHA-256 hash of the password. To change the password, replace this hash.
+  // Current password: "sorathel2026"
+  const HASH = '60db0a7a9b7f688adb15d500eaeb5c2c095e4759d28c0981b049e7c9620ac7cf';
+
+  async function sha256(str) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  const gate = document.getElementById('gate');
+  const site = document.getElementById('site');
+
+  // Check if already authenticated
+  if (sessionStorage.getItem('sorathel_auth') === 'true') {
+    gate.style.display = 'none';
+    site.style.display = 'block';
+    initAnnotations();
+  }
+
+  document.getElementById('gate-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const pw = document.getElementById('pw').value;
+    const hash = await sha256(pw);
+    if (hash === HASH) {
+      sessionStorage.setItem('sorathel_auth', 'true');
+      gate.style.display = 'none';
+      site.style.display = 'block';
+      initAnnotations();
+    } else {
+      document.getElementById('pw-error').style.display = 'block';
+    }
+  });
+
+  // --- Annotations ---
+  function initAnnotations() {
+    const STORAGE_KEY = 'sorathel_notes_' + slug;
+    let notes = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+
+    const popup = document.getElementById('ann-popup');
+    const quoteEl = document.getElementById('ann-quote');
+    const textEl = document.getElementById('ann-text');
+    const panel = document.getElementById('comments-panel');
+    const notesList = document.getElementById('notes-list');
+    const countEl = document.getElementById('note-count');
+
+    function saveNotes() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(notes));
+      renderNotes();
+    }
+
+    function renderNotes() {
+      countEl.textContent = notes.length + ' note' + (notes.length === 1 ? '' : 's');
+      notesList.innerHTML = '';
+      notes.forEach((n, i) => {
+        const card = document.createElement('div');
+        card.className = 'comment-card';
+        card.innerHTML = `
+          <button class="delete-note" data-i="${i}">&times;</button>
+          <div class="cq">"${n.quote.substring(0, 120)}${n.quote.length > 120 ? '...' : ''}"</div>
+          <div class="cn">${n.comment}</div>
+          <div class="cd">${new Date(n.date).toLocaleDateString()}</div>
+        `;
+        card.querySelector('.delete-note').addEventListener('click', () => {
+          notes.splice(i, 1);
+          saveNotes();
+        });
+        // Click card to scroll to approximate position
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('delete-note')) return;
+          const marks = document.querySelectorAll('.annotated');
+          for (const m of marks) {
+            if (m.dataset.noteId === String(i)) {
+              m.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              m.style.background = '#c4a84a';
+              setTimeout(() => m.style.background = '#e8dfc4', 1500);
+              return;
+            }
+          }
+        });
+        notesList.appendChild(card);
+      });
+      highlightAll();
+    }
+
+    function highlightAll() {
+      // Remove existing highlights
+      document.querySelectorAll('.annotated').forEach(el => {
+        const parent = el.parentNode;
+        parent.replaceChild(document.createTextNode(el.textContent), el);
+        parent.normalize();
+      });
+      // Re-apply
+      const content = document.getElementById('chapter-content');
+      notes.forEach((n, i) => {
+        const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT);
+        while (walker.nextNode()) {
+          const node = walker.currentNode;
+          const idx = node.textContent.indexOf(n.quote.substring(0, 60));
+          if (idx !== -1) {
+            const range = document.createRange();
+            range.setStart(node, idx);
+            range.setEnd(node, Math.min(idx + n.quote.length, node.textContent.length));
+            const mark = document.createElement('span');
+            mark.className = 'annotated';
+            mark.dataset.noteId = String(i);
+            mark.title = n.comment;
+            range.surroundContents(mark);
+            break;
+          }
+        }
+      });
+    }
+
+    // Show popup on text selection
+    document.getElementById('chapter-content').addEventListener('mouseup', (e) => {
+      const sel = window.getSelection();
+      const text = sel.toString().trim();
+      if (text.length < 3) return;
+      // Don't show if clicking an existing annotation
+      if (e.target.classList.contains('annotated')) {
+        return;
+      }
+      quoteEl.textContent = '"' + text.substring(0, 150) + (text.length > 150 ? '...' : '') + '"';
+      popup.dataset.quote = text;
+      textEl.value = '';
+      // Position near selection
+      const rect = sel.getRangeAt(0).getBoundingClientRect();
+      popup.style.top = Math.min(rect.bottom + 10, window.innerHeight - 200) + 'px';
+      popup.style.left = Math.min(rect.left, window.innerWidth - 320) + 'px';
+      popup.style.display = 'block';
+      setTimeout(() => textEl.focus(), 50);
+    });
+
+    document.getElementById('ann-save').addEventListener('click', () => {
+      const comment = textEl.value.trim();
+      if (!comment) return;
+      notes.push({
+        quote: popup.dataset.quote,
+        comment: comment,
+        date: new Date().toISOString(),
+      });
+      popup.style.display = 'none';
+      window.getSelection().removeAllRanges();
+      saveNotes();
+    });
+
+    document.getElementById('ann-cancel').addEventListener('click', () => {
+      popup.style.display = 'none';
+      window.getSelection().removeAllRanges();
+    });
+
+    // Close popup on click outside
+    document.addEventListener('mousedown', (e) => {
+      if (!popup.contains(e.target) && popup.style.display === 'block') {
+        popup.style.display = 'none';
+      }
+    });
+
+    // Toggle panel
+    document.getElementById('toggle-panel').addEventListener('click', () => {
+      panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+    });
+
+    // Copy all notes to clipboard
+    document.getElementById('copy-notes').addEventListener('click', () => {
+      if (notes.length === 0) return;
+      const text = notes.map(n =>
+        `"${n.quote.substring(0, 100)}${n.quote.length > 100 ? '...' : ''}"\n→ ${n.comment}\n`
+      ).join('\n');
+      const header = `Notes on: ${document.title}\n${'='.repeat(40)}\n\n`;
+      navigator.clipboard.writeText(header + text).then(() => {
+        const btn = document.getElementById('copy-notes');
+        btn.textContent = 'Copied!';
+        setTimeout(() => btn.textContent = 'Copy All to Clipboard', 2000);
+      });
+    });
+
+    // Show existing annotation on click
+    document.addEventListener('click', (e) => {
+      if (e.target.classList.contains('annotated')) {
+        const idx = parseInt(e.target.dataset.noteId);
+        const n = notes[idx];
+        if (n) {
+          panel.style.display = 'block';
+          const cards = notesList.querySelectorAll('.comment-card');
+          if (cards[idx]) {
+            cards[idx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            cards[idx].style.background = '#f0eee8';
+            setTimeout(() => cards[idx].style.background = 'white', 1500);
+          }
+        }
+      }
+    });
+
+    renderNotes();
+  }
+</script>
+
 </body>
 </html>
