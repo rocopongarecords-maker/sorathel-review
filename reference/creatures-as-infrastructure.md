@@ -29,6 +29,22 @@ The postal service. The internet. Bonded creatures that carry messages between c
 
 Trade, travel, supply chains. Larger creatures bonded to routes, families, or trade guilds. They carry goods, move people, maintain the physical connections between communities. Some are bonded to specific routes the way a horse knows its road — but deeper, because the bond links creature, person, AND the root network path beneath them.
 
+#### Long-Distance Transport — The Commercial Carriers
+
+**Sorathel's commercial airlines.** Not practitioner-specific — this is how EVERYONE travels. Merchants, families, officials, Solvarei teams tucked into one section. Routes, schedules, docking platforms in cities. Fares calculated by distance and weight.
+
+**Design:** A mix of Dutch merchant ship and futuristic drone. Broad-bodied flying creatures — not birds, more like something vast and stable. The body IS the hull. A deck/cabin structure built onto or into its back — organic, grown, not constructed. Multiple sets of wings for stability and propulsion (the drone element). Crew of handler/pilots who guide the creature through rapport, not reins. The creature navigates by network currents AND wind — reading the Amarvel's flow from above the way a ship reads ocean currents.
+
+**The journey feel:** Not a quick hop. Hours in the air. Passengers sit, talk, eat, sleep. Cargo below, passengers above. The voyage is part of the experience. The creature makes decisions about turbulence and routing — its intelligence is part of the navigation.
+
+**Key constraint for practitioners:** The Amarvel is in the roots, in the ground. From altitude, practitioners are disconnected from the network. Vaelen can't read from the air. The man who reads everything is just a passenger up here. This is a vulnerability — and a rare moment of enforced normalcy.
+
+**The world from above:** Sorathel's landscape visible at scale. The network faintly visible as patterns in the land — green where it's strong, grey where it's weak. The macro view nobody gets from the ground.
+
+#### Ground/Route Transport
+
+Local and regional. Smaller transport creatures bonded to routes, families, or trade guilds. They carry goods, move people, maintain the physical connections between communities. Some are bonded to specific routes the way a horse knows its road.
+
 **When bonds weaken:** Trade slows. Supplies don't arrive. A community that imported grain from three regions away suddenly can't get it. Prices rise. Scarcity breeds tension. Travel becomes dangerous — not just from the Ethura, but because the transport creatures that made long journeys safe are no longer reliable. People stop moving. Communities contract.
 
 **What this feels like for the reader:** Supply chain collapse. Empty shelves. The slow constriction of a world getting smaller.

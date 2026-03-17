@@ -1,3 +1,8 @@
+# ⚠️ SUPERSEDED — Do not use for writing decisions
+*Replaced by `bible/season-1-outline.md` (v2). This doc has a 7-chapter Ep1 structure and still includes Doumm (eliminated). Kept for historical reference only.*
+
+---
+
 # SORATHEL — SEASON 1, ACT 1
 ## Episodes 1-3: Complete Outline (Story DNA Aligned v4)
 ### "The Deployment → The Missing Team → The Port"

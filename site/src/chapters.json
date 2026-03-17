@@ -1,0 +1,69 @@
+{
+  "episodeTitles": {
+    "1": "The Deployment",
+    "2": "The Base",
+    "3": "The Signal",
+    "4": "The Cascade",
+    "5": "The Dread",
+    "6": "The Mobilization",
+    "7": "The Elite",
+    "8": "The Silence",
+    "9": "The Door"
+  },
+  "chapters": [
+    {
+      "slug": "ep1-ch01",
+      "episode": 1,
+      "chapter": 1,
+      "character": "Caeleth",
+      "label": "Ch01 — Caeleth",
+      "file": "drafts/ch01-caeleth-v2.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch01-caeleth-v2.md"
+    },
+    {
+      "slug": "ep1-ch02",
+      "episode": 1,
+      "chapter": 2,
+      "character": "Drenna",
+      "label": "Ch02 — Drenna",
+      "file": "drafts/ch02-drenna-v2.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch02-drenna-v2.md"
+    },
+    {
+      "slug": "ep1-ch03",
+      "episode": 1,
+      "chapter": 3,
+      "character": "Vaelen",
+      "label": "Ch03 — Vaelen",
+      "file": "drafts/ch03-vaelen-v3.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch03-vaelen-v3.md"
+    },
+    {
+      "slug": "ep1-ch04",
+      "episode": 1,
+      "chapter": 4,
+      "character": "Vaelen",
+      "label": "Ch04 — Vaelen",
+      "file": "drafts/ch04-vaelen-v2.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch04-vaelen-v2.md"
+    },
+    {
+      "slug": "ep2-ch01",
+      "episode": 2,
+      "chapter": 1,
+      "character": "Vaelen",
+      "label": "Ep2 Ch01 — Vaelen",
+      "file": "drafts/ep02-ch01-vaelen-v3.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ep02-ch01-vaelen-v3.md"
+    },
+    {
+      "slug": "ep2-ch02",
+      "episode": 2,
+      "chapter": 2,
+      "character": "Jorath",
+      "label": "Ep2 Ch02 — Jorath",
+      "file": "drafts/ep02-ch02-jorath-v2.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ep02-ch02-jorath-v2.md"
+    }
+  ]
+}

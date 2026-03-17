@@ -1,6 +1,6 @@
 # CAELETH — Junior Practitioner (POV Character, Ch 1)
 
-**Dies in Episode 4. Every scene must make the reader carry him.**
+**Dies in Episode 5. Every scene must make the reader carry him.**
 
 ## Physical
 - Not described in detail (he's the lens in Ch 1)
@@ -22,11 +22,12 @@
 - His first word for the Amarvel experience: "beautiful"
 - Vaelen sees his younger self in him
 
-## What Makes Him Beloved (NEEDS STRENGTHENING IN REVISION)
-- The funniest line (not yet written — needs addition)
-- A specific fear (not generic belonging anxiety — something particular and endearing)
-- A kindness that costs him something
-- His mother's journal inscription (needs to be seen so reader remembers when it goes home unfilled)
+## What Makes Him Beloved
+- **The Jorath dynamic** (Ep2 Ch2): the man who measures everything in value and the boy who can't stop giving value away. Overpays, over-tips, can't haggle. Jorath's horror.
+- **A specific fear** (Ep2 Ch2): Large transport creatures in the city. His Amarvel sensitivity makes their network presence overwhelming — pressure in his teeth, a hum climbing his spine. Not afraid of being hurt — afraid of being FELT. Drawn to them AND terrified. Seen through Jorath's eyes.
+- **A kindness that costs him** (Ep2 Ch2): Helps someone at the market without calculating the cost. Baffles Jorath.
+- **His mother's journal** (filling across episodes — seen through Vaelen in Ep2 Ch4)
+- NOTE: beloved-building in Ep2 is ALL through witnesses (Vaelen in Ch1, Jorath in Ch2, Vaelen in Ch4). No Caeleth POV in Ep2. The reader falls in love with him the way the team does.
 
 ## Key Relationships
 - **Vaelen:** Drawn to his warmth, slightly uneasy about it. Watches for the performance. Can't find it (because it's not a performance).

@@ -22,8 +22,9 @@ Before writing ANY prose:
 ## Writing Process
 1. If a spec/outline exists for this chapter, follow its beats
 2. Draft the full chapter in `drafts/`
-3. Self-check against Writing Rules
-4. Present to user for review
+3. **SIMILE AUDIT** — grep for "like ", "as if", "as though", "the way" in the draft. Count all similes. Hard limit: 3 per chapter, 1 per scene break. If over, replace with direct description before proceeding.
+4. Self-check against Writing Rules
+5. Present to user for review
 5. After approval, move to `episodes/ep##/`
 6. Update Story Bible and character sheet
 7. Log in `changelog.md`
@@ -35,6 +36,7 @@ Before writing ANY prose:
 - **Zethael:** Energetic, scattered. Ideas pile up faster than sentences. Talks with hands even in his own head. Direct. Frustrated with anything that moves slowly. Hyperfocus on whatever's caught his attention — the rest of the world disappears.
 
 ## Common Mistakes to Catch
+- **SIMILE OVERUSE** — the #1 recurring problem. "The way X does Y," "like X," "as if X." Count them. Max 3 per chapter. Replace with direct naming.
 - Analytical vocabulary in character voice ("perform," "institution," "framework")
 - Interpreting gestures ("the look said:" → just describe the look)
 - Drenna with a political document (NEVER)

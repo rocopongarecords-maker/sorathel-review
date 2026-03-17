@@ -1,0 +1,4 @@
+[build]
+  base = "site"
+  command = "node scripts/build-chapters.mjs && npx astro build"
+  publish = "dist"

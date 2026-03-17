@@ -1,0 +1,189 @@
+---
+interface Props {
+  title: string;
+  character: string;
+  prevSlug?: string;
+  nextSlug?: string;
+}
+
+const { title, character, prevSlug, nextSlug } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title} — Sorathel</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <script>
+    window.hypothesisConfig = function() {
+      return {
+        openSidebar: false,
+      };
+    };
+  </script>
+  <script src="https://hypothes.is/embed.js" async></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: #faf9f6;
+      color: #2c2c2c;
+      line-height: 1.8;
+      font-size: 18px;
+    }
+
+    .header {
+      background: #1a1a2e;
+      color: #c8c8d0;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+    }
+
+    .header a {
+      color: #a0a0b0;
+      text-decoration: none;
+    }
+
+    .header a:hover {
+      color: #e0e0e8;
+    }
+
+    .chapter-header {
+      text-align: center;
+      padding: 3rem 2rem 2rem;
+      border-bottom: 1px solid #e0ddd6;
+      margin-bottom: 2rem;
+    }
+
+    .chapter-header h1 {
+      font-size: 1.8rem;
+      font-weight: normal;
+      letter-spacing: 0.05em;
+      color: #1a1a2e;
+      margin-bottom: 0.5rem;
+    }
+
+    .chapter-header .character {
+      font-size: 1rem;
+      color: #6b6b7b;
+      font-style: italic;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .content {
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 0 2rem 4rem;
+    }
+
+    .content :global(p) {
+      margin-bottom: 1.2em;
+      text-indent: 1.5em;
+    }
+
+    .content :global(p:first-child),
+    .content :global(hr + p) {
+      text-indent: 0;
+    }
+
+    .content :global(p:first-child::first-line) {
+      font-variant: small-caps;
+      font-size: 1.1em;
+      letter-spacing: 0.05em;
+    }
+
+    .content :global(hr) {
+      border: none;
+      text-align: center;
+      margin: 2.5rem 0;
+    }
+
+    .content :global(hr::after) {
+      content: '* * *';
+      color: #8a8a9a;
+      letter-spacing: 0.5em;
+      font-size: 0.9rem;
+    }
+
+    .content :global(em) {
+      font-style: italic;
+    }
+
+    .content :global(h1),
+    .content :global(h2) {
+      display: none;
+    }
+
+    .nav-footer {
+      max-width: 650px;
+      margin: 0 auto;
+      padding: 2rem;
+      display: flex;
+      justify-content: space-between;
+      border-top: 1px solid #e0ddd6;
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 14px;
+    }
+
+    .nav-footer a {
+      color: #4a4a5a;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border: 1px solid #d0cdc6;
+      border-radius: 4px;
+    }
+
+    .nav-footer a:hover {
+      background: #eeecea;
+    }
+
+    .nav-footer .spacer {
+      width: 100px;
+    }
+
+    /* Hide hypothesis highlight tooltip bar in a less intrusive way */
+    ::selection {
+      background: #d4c5a9;
+    }
+
+    @media (max-width: 600px) {
+      body { font-size: 16px; }
+      .content { padding: 0 1.2rem 3rem; }
+      .chapter-header { padding: 2rem 1rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="/">← Sorathel</a>
+    <span>Review Draft — Not for Distribution</span>
+  </div>
+
+  <div class="chapter-header">
+    <h1>{title}</h1>
+    <div class="character">{character}</div>
+  </div>
+
+  <article class="content">
+    <slot />
+  </article>
+
+  <nav class="nav-footer">
+    {prevSlug ? <a href={`/${prevSlug}`}>← Previous</a> : <span class="spacer"></span>}
+    <a href="/">Index</a>
+    {nextSlug ? <a href={`/${nextSlug}`}>Next →</a> : <span class="spacer"></span>}
+  </nav>
+</body>
+</html>

@@ -1,3 +1,8 @@
+# ⚠️ OUTDATED — Uses "Vardo" (old name for Zethael)
+*Useful structure but needs terminology update before use. Check `bible/season-1-outline.md` for canonical Episode 2 plan.*
+
+---
+
 # EPISODE 2 — "The Signal"
 ## Revised Outline v2 | Three POV Structure
 

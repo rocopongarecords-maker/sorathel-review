@@ -1,0 +1,178 @@
+---
+import manifest from '../chapters.json';
+
+const { episodeTitles, chapters } = manifest as any;
+
+// Group chapters by episode
+const episodes: Record<string, any[]> = {};
+for (const ch of chapters) {
+  const ep = String(ch.episode);
+  if (!episodes[ep]) episodes[ep] = [];
+  episodes[ep].push(ch);
+}
+
+const epTitles: Record<string, string> = episodeTitles;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sorathel — Review Drafts</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: #faf9f6;
+      color: #2c2c2c;
+      line-height: 1.6;
+    }
+
+    .hero {
+      background: #1a1a2e;
+      color: #c8c8d0;
+      padding: 4rem 2rem 3rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: normal;
+      letter-spacing: 0.15em;
+      color: #e8e6f0;
+      margin-bottom: 0.5rem;
+    }
+
+    .hero .subtitle {
+      font-size: 1rem;
+      color: #8a8a9a;
+      font-style: italic;
+      letter-spacing: 0.05em;
+    }
+
+    .hero .season {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: #6b6b7b;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    .episode {
+      margin-bottom: 2.5rem;
+    }
+
+    .episode-title {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: #6b6b7b;
+      font-family: system-ui, -apple-system, sans-serif;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #e0ddd6;
+    }
+
+    .chapter-list {
+      list-style: none;
+    }
+
+    .chapter-list li {
+      margin-bottom: 0.5rem;
+    }
+
+    .chapter-list a {
+      display: block;
+      padding: 0.8rem 1rem;
+      color: #2c2c2c;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background 0.15s;
+    }
+
+    .chapter-list a:hover {
+      background: #eeecea;
+    }
+
+    .chapter-list .ch-number {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 0.75rem;
+      color: #8a8a9a;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .chapter-list .ch-character {
+      font-size: 1.1rem;
+      margin-top: 0.15rem;
+    }
+
+    .note {
+      margin-top: 3rem;
+      padding: 1.5rem;
+      background: #f0eee8;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      color: #5a5a6a;
+      font-family: system-ui, -apple-system, sans-serif;
+      line-height: 1.6;
+    }
+
+    .note strong {
+      color: #3a3a4a;
+    }
+
+    .note a {
+      color: #4a4a6a;
+    }
+
+    @media (max-width: 600px) {
+      .hero { padding: 3rem 1.5rem 2rem; }
+      .hero h1 { font-size: 2rem; }
+      .container { padding: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>SORATHEL</h1>
+    <div class="subtitle">The World Cracks Open</div>
+    <div class="season">Season One — Review Drafts</div>
+  </div>
+
+  <div class="container">
+    {Object.entries(episodes).map(([epNum, chs]) => (
+      <div class="episode">
+        <div class="episode-title">
+          Episode {epNum} — {epTitles[epNum] || ''}
+        </div>
+        <ul class="chapter-list">
+          {chs.map((ch) => (
+            <li>
+              <a href={`/${ch.slug}`}>
+                <div class="ch-number">Chapter {ch.chapter}</div>
+                <div class="ch-character">{ch.character}</div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+
+    <div class="note">
+      <strong>How to leave comments:</strong> Highlight any text to annotate it using
+      the Hypothesis sidebar (appears on the right). You'll need a free
+      <a href="https://hypothes.is">Hypothesis</a> account. Select our private group
+      when posting so only we can see your notes.
+    </div>
+  </div>
+</body>
+</html>

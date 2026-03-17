@@ -1,3 +1,8 @@
+# ⚠️ ELIMINATED — Character removed from story
+*Doumm's roles (creature-bond specialist, the heart, Mirathyn joke, Ep4 death) have been redistributed — primarily to Caeleth. This file kept for reference only.*
+
+---
+
 # DOUMM — Creature-Bond Specialist (Not Yet On Page)
 
 ## Core Concept

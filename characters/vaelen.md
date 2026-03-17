@@ -26,6 +26,7 @@
 - Headache behind left eye, metallic taste, hand tremors
 - Getting worse with repeated use — "It took longer than it used to"
 - Surface reads easy (walking, talking); deep reads replace his senses entirely
+- From altitude (commercial transport), disconnected from roots — minor limitation, rarely relevant.
 
 ## The Warmth
 - The warmth IS genuine. He discovered at sixteen that his natural warmth could be deployed deliberately
@@ -46,6 +47,11 @@
 ## Jungian Shadow (LOCKED — from Story DNA)
 **FURY.** Not hollowness, not emptiness — that's too passive, too poetic. Vaelen's shadow is rage. The thing underneath the warmth, the thing the Ethura amplifies, is not the void. It's fury at a world that taught him to perform instead of be.
 
+## The Ceiling (LOCKED)
+- Vaelen is a STAR at the Solvarei. Not the most senior, but one of the best. Respected, sought out, people defer to him. He's comfortable here.
+- The ceiling is NOT the Solvarei — it's the AMARITH. Looking outward, not upward. The institution where pattern-readers like him become something more. He has the talent for it. He doesn't have the willingness to reach.
+- The Amarith are McKinsey to his talented Accenture partner. He can see them from where he stands. He judges them as even more than they could be.
+
 ## The Serial Chase (from Story DNA)
 - Chases mastery (Solvarei) → new world (Solcarin) → elite status (Amarith) → love
 - Each time believes the next thing will fill the void. Each time it doesn't.
@@ -60,7 +66,7 @@
 
 ## What the Reader Doesn't Know Yet
 - The full wound, the serial chase pattern, what broke him, his relationship history
-- The ceiling — too good for deployments, not brave enough to reach for more
+- The ceiling — Amarith, not Solvarei. Looking outward, not upward.
 - The creature rapport (Season 3 warging/bond seed)
 
 ## Voice (for POV chapters)

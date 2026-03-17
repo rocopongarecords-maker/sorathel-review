@@ -1,0 +1,59 @@
+---
+import Layout from '../layouts/Chapter.astro';
+import manifest from '../chapters.json';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+export function getStaticPaths() {
+  return manifest.chapters.map((ch: any, i: number) => ({
+    params: { slug: ch.slug },
+    props: {
+      chapter: ch,
+      prevSlug: i > 0 ? manifest.chapters[i - 1].slug : null,
+      nextSlug: i < manifest.chapters.length - 1 ? manifest.chapters[i + 1].slug : null,
+    },
+  }));
+}
+
+const { chapter, prevSlug, nextSlug } = Astro.props as any;
+
+// Read the markdown file from the project root
+const projectRoot = join(process.cwd(), '..');
+const mdContent = readFileSync(join(projectRoot, chapter.file), 'utf-8');
+
+// Strip frontmatter-like headers (# Title, ## Character, *Version*, ---)
+const lines = mdContent.split('\n');
+let contentStart = 0;
+for (let i = 0; i < Math.min(lines.length, 10); i++) {
+  const line = lines[i].trim();
+  if (line.startsWith('#') || line.startsWith('*Version') || line.startsWith('*Created') || line === '---' || line === '') {
+    contentStart = i + 1;
+  } else {
+    break;
+  }
+}
+const cleanContent = lines.slice(contentStart).join('\n');
+
+// Simple markdown to HTML: paragraphs, em, hr, scene breaks
+function mdToHtml(md: string): string {
+  const blocks = md.split(/\n\n+/);
+  return blocks.map(block => {
+    const trimmed = block.trim();
+    if (!trimmed) return '';
+    if (trimmed === '---') return '<hr />';
+    // Handle italics
+    let html = trimmed
+      .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+      .replace(/\n/g, ' ');
+    return `<p>${html}</p>`;
+  }).join('\n');
+}
+
+const html = mdToHtml(cleanContent);
+const epTitle = (manifest.episodeTitles as Record<string, string>)[String(chapter.episode)] || '';
+const title = `Episode ${chapter.episode}: ${epTitle} — Chapter ${chapter.chapter}`;
+---
+
+<Layout title={title} character={chapter.character} prevSlug={prevSlug} nextSlug={nextSlug}>
+  <Fragment set:html={html} />
+</Layout>
