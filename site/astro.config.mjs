@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
   site: 'https://rocopongarecords-maker.github.io',
-  base: '/sorathel-review',
+  base: '/sorathel-review/',
   vite: {
     assetsInclude: ['**/*.md'],
   },
