@@ -1,6 +1,6 @@
 # SORATHEL — RUNNING STORY BIBLE
 ### Canon Tracker · Updated After Each Chapter
-*Last updated: Ep2 Ch1 (Draft)*
+*Last updated: Ep2 Ch2 (Draft)*
 
 ---
 
@@ -38,6 +38,7 @@
 **Behavior on page:** Counts coins on his thigh during bumpy transit (12 silver, 4 copper, 1 tarnished half-mark with unrecognized mint guild seal). Ledger with tiny precise figures. Mapped a faster route two deployments ago that Hathren refuses to use — the unsolved problem clearly bothers him more than the ride. Spots drainage problems from a moving carriage and immediately sketches solutions. Shifts instantly to deployment mode when stakes appear — coins away, posture changes. Argues about irrigation fixes at dinner with Torven's daughter — can't leave a problem unsolved, even someone else's. Carries equipment with efficient irritated movements.
 **Key line:** "Only if it gets interesting. So far you're all predictable."
 **What the reader knows:** Problem-solver, resourceful, can't resist a challenge (even stupid ones). Money-aware but not money-obsessed. Survived a 40-foot crevasse fall (Veldryn deployment) — first words were about hazard pay.
+**What the reader now knows (Ep2 Ch2):** First POV chapter. Building a mechanical land-skiff in a rented workshop on Cartway Street (lower Darachet) — ironwood frame, pedal-and-gear mechanism, collapsible sail mast. In a creature-bonded world, this is eccentric. People think he's lost his mind. The project is pure craft joy (he'd call it "not being bored"). Economical with mundane things; spends freely on skiff components — rejected cheaper springs because the temper was wrong. Knows the Darachet market intimately: every vendor's markup, every negotiation angle. Teaches Caeleth how things actually work ("Academy-standard probes are calibrated for textbook readings. Every practitioner worth their salt modifies theirs in the first month"). Sees Caeleth as an economic disaster — overpays, helps strangers for zero return, can't pass a torn grain sack without stopping. But the boy's hands are steady, and when Jorath calculates the cost of Caeleth's kindness the numbers don't balance, and something in that imbalance is difficult to look away from. Bought Caeleth a tuber without negotiating. Grandmother farmed a settlement in the eastern valleys — told him Amarwen could be felt in the ground on certain nights, a presence in the next room with the door closed. He doesn't know if it's real. He remembers her certainty.
 **What the reader doesn't know yet:** His survival motivation, his lack of philosophical investment, his natural Ethura resistance.
 
 ### CAELETH — Junior Practitioner (POV Character)
@@ -100,7 +101,10 @@
 - **Velanthra:** [Ch 4] Trading hub on the main route. Network connection interrupted, source unknown. South-southwest of Torven's community. Team's next assignment. Not yet visited on page.
 - **Delverath:** [Ch 4] Referenced by Zethael — where he acquired the Mirathyn root he shared. Location not described.
 - **Ashervel:** [Ch 4] Referenced in shared memory — past deployment where Vaelen and Zethael worked together. A ridge with frost and a lateral root growing sideways. Where Vaelen first sensed the lateral resonance.
-- **Darachet:** [Ep2 Ch1] City below the Solvarei compound. Where practitioners live — apartments in the lower city. Market district with grain stalls, spice vendors. Sorvyn's apartment: third floor, five streets from the market, ten-minute walk to compound. Chose it for the kitchen.
+- **Darachet:** [Ep2 Ch1] City below the Solvarei compound. Where practitioners live — apartments in the lower city. Sorvyn's apartment: third floor, five streets from the market, ten-minute walk to compound. Chose it for the kitchen.
+- **Jorath's workshop:** [Ep2 Ch2] Ground floor of a storage building on Cartway Street, lower city. Rented from Hassin (retired wheelwright) — 2 marks/month + 0.5 for forge rights (unused but held). Ten paces deep, eight wide. Workbench along back wall, tools on pegs by frequency, shelving Jorath built (Hassin's was crooked). Front door props open onto the street. Tannery smell from two buildings east. Land-skiff on blocks in the center.
+- **Darachet market:** [Ep2 Ch2] Three connected squares in the lower city. **Creature square** (first): open to sky, stone-walled stalls with ironwood gates. Creature vendors, diagnostic creature demonstrations (color-shifting scales), companion creatures seeking bonds (bonding moments visible), bonding oils and rootwood whistles. Sounds: calls, warbles, low rumbles through cobblestones. **Provisions square** (second): connected by covered walkway where blanket-vendors sell. Mirathyn vendor with glass vessels (pale gold to deep amber, region-specific — Ashara mineral/smoky, northern plain lighter/sweeter). Ashroot vendor with clay brazier. Dried-goods vendor (leathery man, son was a practitioner — no markup). Fruit vendors. **Hardware square** (third): metalwork, leather, tool vendors. Rootwood carvings (grain follows network flow). Practitioner instruments on dark felt (humming — network resonance through stone). Warm quarry stone tiles. Fabric that shifts color (Amarvel-proximity trick). Orvel's stall in the back (salvage metalwork).
+- **Transport hub:** [Ep2 Ch2] Northern edge of market district. Staging yard, loading platforms, covered pen-bays. Commercial carriers: 30 feet at shoulder, blunt wide heads, dark ridged skin, patient stillness. Handlers checking harness tension. Smell: warm, loamy, faintly sweet. Where Caeleth freezes ("Present").
 - **Solvarei compound:** [Ep2 Ch1] Above Darachet on a hillside. Pale local quarry stone — honey-colored where the sun hits, grey-green in shadow. Thick walls built to last generations. Flagstones worn smooth along the central path between main hall and workshops (twelve years of boots). A WORKPLACE, not a residence — nobody lives here. Main hall (north): double doors propped with an iron wedge that has dished the stone beneath it, wide windows designed to pull morning light in. Kitchen on ground floor (good food — a perk). Assignment board on west wall (slate surface, postings by region). Training yards (east): wooden practice frames simulating root junctions, drills. Workshops (west): hammering, oil/metal smell, equipment repair. Courtyard garden between them: dark turned soil, early shoots, herb beds. **Creature dispatch station** (eastern perimeter): covered roost, open-sided, perches at different heights by route (local low, regional mid, long-distance high). Each creature bonded to a specific handler — not interchangeable. Messages on treated cloth strips fixed to leg bands. Handlers have private language with their creatures. The Solvarei's entire communication network runs through this roost. [v4: infrastructure stress hint — a creature on the eastern corridor route hasn't returned in three days.]
 - **Essren's office:** [Ep2 Ch1] Small, full of maps. Wall charts pinned edge to edge, thread connecting locations (red = anomalies, green = stable, blue = Amarith). Desk with reading notes in tight handwriting. Hard chair, hard light.
 - **Hearthlands:** Referenced as where three families relocated. "Inner Hearthlands" = safer, more central.
@@ -114,10 +118,14 @@
 - **Community stew:** Root vegetables and smoked grain. Hot, filling. Should taste like more than it does.
 - **Community water:** Tastes like nothing. Not bad, not mineral. "Like drinking the memory of water." Started 4 weeks ago. People already used to it.
 - **Community breakfast:** [Ch 2] Boiled grain, dried fruit, tea brewed from something local that tastes like warm earth.
+- **Mirathyn regional varieties:** [Ep2 Ch2] Sold in the Darachet market in glass vessels. Ashara root-country: mineral, smoky, deep amber — "you'll taste the volcanic soil." Northern plain: lighter, sweeter, nearly colorless gold — "farmers drink it with breakfast." Vendor sells with sommelier specificity.
+- **Roasted tubers:** [Ep2 Ch2] Street vendor near compound gate. Skin-on, clay oven. Caramelized starch. Jorath paid without negotiating. "Don't tell Sorvyn."
 
 ### Creatures
 - **Bond-runners:** Transport creatures. Different temperaments (Ylveth = 140 years old, calm grandmother; Korveth = 19, wild). Bonded to handlers, not passengers. Bond visible through behavior — creature's responsiveness, attentiveness, physical ease with handler.
 - **Companion creatures (personal bonds):** [Ch 2] Smaller than runners. Drenna's father's creature — medium-sized, furred, broad-headed. Bond formed young (father bonded at 17). Bond persists even when person deteriorates. Creature waits indefinitely.
+- **Diagnostic creatures:** [Ep2 Ch2] Small, iridescent, scales shift between copper and deep green. Brighten to gold-green near healthy node markers, dull to grey-brown near damaged ones. Sold in Darachet creature market — going for 40 marks (15 more than last season).
+- **Commercial carriers (city):** [Ep2 Ch2] Thirty feet at shoulder, blunt wide heads, deep-set eyes. Dark ridged skin thick enough to carry deck structures. Patient stillness. Staged at transport hub between routes. Warm, loamy, faintly sweet smell. Caeleth's reaction: "Present" — not fear, something about their bond-presence overwhelms his sensitivity.
 
 ### Magic/Network
 - **Network nodes:** Faint shimmer in the air above concentration points. Supposed to pulse gold-green with Amarwen's rhythm. This one's pulse is irregular.
@@ -183,6 +191,17 @@ NOTE: Chapter 2 timeline (Day 2 Drenna POV) — Drenna visits father pre-dawn, b
 - Sorvyn at his apartment in Darachet: third floor, chose it for the kitchen. Cooks tuber in his seasoned clay pot. Detail: drying rack has three plates — two mismatched ceramic, a third from a different set entirely. Sorvyn/Jorath banter (food vs budget).
 - Velanthra assignment arrives: network connection interrupted in commercial district. Standard deployment.
 
+**Episode 2 Chapter 2 (Jorath POV):**
+- Between deployments. Jorath at his workshop on Cartway Street, building the land-skiff (mechanical, pedal/sail, no creature bond). Working a bearing sleeve bore from oval to round.
+- Caeleth arrives — needs deployment supplies. Jorath explains: firm provides tools, you source personal gear. Deployment shopping (satchel strap, rations — not whetstone or water skins, those are in stores).
+- Market together — three squares. Creature square: diagnostic creature demo, companion creatures seeking bonds, bonding moment witnessed by Caeleth (breathing changes, matching rhythm). Fewer creatures for sale than last season (stalls empty — new detail). Provisions: Mirathyn vendor (regional varieties, glass vessels), ashroot vendor, dried goods. Fruit vendor: Caeleth pays 7 marks for 4-mark fruit because the woman's hands reminded him of Maret. "Is it seven-mark good?" / "I don't know what seven-mark good tastes like." Hardware: rootwood carvings (grain follows network flow), humming practitioner instruments, warm quarry stone, color-shifting fabric.
+- Transport hub: Caeleth freezes before commercial carrier. Not fear — "Present." Jorath can't see what the boy sees. Practical kindness: "They're calmer after they've eaten."
+- Orvel's stall: springs negotiated (10.5/spring + bushings at cost = 48 total). "Still building that thing?" / "People already think that."
+- Tool vendor: Caeleth nearly buys a field file he doesn't need because the vendor has ink on her hands and is trying. Jorath saves him.
+- Grain hauler: Caeleth helps a stranger for 40 seconds, zero return. Jorath calculates the cost. The numbers don't balance.
+- Amarwen scene: Caeleth asks "Have you ever seen her?" Jorath's grandmother farmed the eastern valleys — felt Amarwen's presence in the ground on certain nights. Certainty, not wonder. Caeleth goes quiet (listening stillness, not fear stillness).
+- Tubers: Jorath pays without negotiating. "Don't tell Sorvyn." The numbers didn't balance, and he let them not.
+
 ---
 
 ## 4. PLANTED SEEDS (Must Pay Off)
@@ -233,6 +252,11 @@ NOTE: Chapter 2 timeline (Day 2 Drenna POV) — Drenna visits father pre-dawn, b
 | **Sorvyn's third plate** | **Ep2 Ch1 — apartment** | **Drying rack beside the basin: three plates, two mismatched ceramic, a third larger and darker from a different set. For the attentive reader.** |
 | **Renathi client contract** | **Ep2 Ch1 — Essren** | **Farming cooperative, wants senior verification assessment. Essren managing client relationships — the Solvarei runs on reputation and referrals. Shows the business side.** |
 | **Vaelen's perception blind spot** | **Ep2 Ch1 — Essren** | **He told her "within parameters" — genuinely believed it, because the node was stable. His raw readings tell a story his professional framework can't hold. He recorded everything but couldn't articulate what it meant because it didn't fit any known pattern. Essren shows him what his own data says: "Your readings are telling a story you haven't read yet." His precision IS his blind spot — Ned Stark's honor turned sideways. Seeds Ep8: doesn't speak not from cowardice but from the gap between perception and articulation.** |
+| **Jorath's land-skiff** | **Ep2 Ch2 — workshop** | **Mechanical craft: pedal/gear + sail. No creature bond. In a creature-bonded world, this is eccentric. Seeds Zethael's independent-of-Amarvel tech. The radical idea: you can move without a bond.** |
+| **Fewer creatures for sale** | **Ep2 Ch2 — creature market** | **Three stalls that were full on Jorath's last visit now have gates open and bedding fresh but empty. Fewer creatures to sell. Infrastructure stress visible in the market.** |
+| **Caeleth's bonding resonance** | **Ep2 Ch2 — creature market** | **Watching a bonding, Caeleth's breathing matched the woman's — deep, slow. At the transport hub: "Present." His sensitivity reads creature presence physically. Seeds deeper creature rapport.** |
+| **Jorath's grandmother / Amarwen felt** | **Ep2 Ch2 — walking back** | **Eastern valleys settlement. Certain nights, Amarwen felt in the ground — a presence in the next room with the door closed. Grandmother spoke with certainty, not wonder. Jorath doesn't know if it's real. Cultural depth: Amarwen is personal for farming communities.** |
+| **Caeleth's generosity economics** | **Ep2 Ch2 — grain hauler** | **40 seconds, zero return, numbers don't balance. Jorath calculated the cost and couldn't dismiss it. The beloved beat: the reader sees Caeleth through someone who measures everything and finds the boy unmeasurable.** |
 
 ---
 

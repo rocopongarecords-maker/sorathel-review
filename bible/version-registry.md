@@ -48,7 +48,7 @@
 | Ch03 — Vaelen | `episodes/ep01/ch03-vaelen.md` | `drafts/ch03-vaelen-v3.md` | **v3 is latest** (v2 intermediate, skip it) |
 | Ch04 — Vaelen | — | `drafts/ch04-vaelen-v2.md` | **v2 is latest** (Zethael Mirathyn fix, show-don't-tell, simile) |
 | Ep2 Ch01 — Vaelen | — | `drafts/ep02-ch01-vaelen-v4.md` | **v4 is latest** (coffee→ashroot, GRRM compound description, creature dispatch expanded, Essren reframed: perception > vocabulary) |
-| Ep2 Ch02 — Jorath | — | `drafts/ep02-ch02-jorath-v2.md` | **v2 is latest** (first Jorath POV — garage, market, Caeleth beloved-building) |
+| Ep2 Ch02 — Jorath | — | `drafts/ep02-ch02-jorath-v3.md` | **v3 is latest** (land-skiff, Diagon Alley market, Amarwen scene, passion reframe, deployment shopping) |
 
 *When a draft is approved, promote it to `episodes/ep01/` (or `ep02/`) and remove old versions from `drafts/`.*
 

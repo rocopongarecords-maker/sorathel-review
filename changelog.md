@@ -2,6 +2,23 @@
 
 ## March 2026
 
+### Ep2 Ch02 Jorath v3 — Mar 17
+
+**Major rewrite from v2. Key changes:**
+
+- **Vehicle → land-skiff:** Motor vehicle with axle housings replaced by mechanical land-skiff (ironwood frame, pedal-and-gear mechanism, collapsible sail mast). No creature bond. Eccentric in a creature-bonded world. Seeds Zethael's independent-of-Amarvel tech.
+- **All automotive terminology removed:** "Axle housing" → "bearing sleeve." "Steering column" → "tiller arm." "Suspension system" → "spring cradles." "Vehicle" → "land-skiff/skiff."
+- **Investment → pure craft joy:** Removed all "investment" framing of the skiff. Jorath does this for the satisfaction of a problem with edges. "He'd never call it joy. He'd call it not being bored." Economical with mundane things, spends freely on what he loves.
+- **Deployment shopping explained:** Jorath teaches Caeleth — "The Solvarei provides team equipment. Everything else is yours to source." The whetstone and water skins are in stores.
+- **Market → Diagon Alley:** Three generic squares replaced by three distinct Sorathel-specific squares. Creature square: bonding demonstrations, diagnostic creatures (color-shifting scales), companion creatures seeking partners. Provisions: Mirathyn sommelier vendor (regional varieties in glass vessels), ashroot vendor, dried goods. Hardware: rootwood carvings (grain follows network flow), humming practitioner instruments (network resonance), warm quarry stone tiles, color-shifting Amarvel-proximity fabric.
+- **Jorath as teacher:** Woven through market walk. "They teach you about node stability indices at the Solcarin. Out here, you look at the Mirathyn color and you know." Academy probes need modification. Market knowledge = real knowledge.
+- **Amarwen mythology scene (NEW):** Caeleth asks "Have you ever seen her?" Jorath shares grandmother's memory — felt Amarwen's presence in the ground on certain nights, certainty not wonder. Caeleth goes quiet (listening stillness). "I build things out of wood and metal. She builds things out of roots and dirt. We're not that different."
+- **Infrastructure stress hint:** Fewer creatures for sale — three stalls empty that were full last visit. Diagnostic creatures priced 15 marks higher than last season.
+
+**Preserved from v2:** Fruit vendor dialogue (7-mark scene), transport hub/Caeleth's fear ("Present"), Orvel spring negotiation, tool vendor rescue, grain hauler kindness, tubers closing ("the numbers didn't balance, and he let them not").
+
+**Files updated:** `drafts/ep02-ch02-jorath-v3.md` (new), `characters/jorath.md`, `bible/story-bible.md`, `bible/version-registry.md`, `changelog.md`
+
 ### Ep2 Ch01 Vaelen v4 — Mar 17
 
 **New worldbuilding:**
