@@ -77,3 +77,7 @@ One simile per scene break, maximum. Three per chapter, absolute ceiling. A simi
 
 ## 25. Build the World the Reader Sees
 Every new location needs physical description — architecture, light, smell, sound, the texture of the street under boots. Every new person needs a face — one or two details that stick, that the reader carries. The reader can't love a world they can't picture. Don't skip the city to get to the conversation — the city IS the story. A street has width, has vendors, has noise. A room has walls, has light from a specific direction, has the smell of what was cooked there last. A person has a jaw, has hands, has the way they stand when they think nobody's watching. Ground every scene in the physical world first. Then let the characters move through it.
+
+## 26. No Lazy Repetition
+NEVER reuse a distinctive phrase, image, or construction within the same chapter. If you've used "rooms like this" once, find a different way the second time. Repetition of common words (he, she, the) is fine — repetition of DISTINCTIVE phrases is lazy writing. Every sentence earns its place through specificity. When you reach for a phrase you've already used, that's the signal to think harder. After drafting, search for repeated distinctive phrases and vary every one.
+*Origin: Ep2 Ch3 v1 — "rooms like this" used three times in one chapter.*

@@ -42,7 +42,7 @@
 - The tragedy: both of them were using each other to avoid their own inadequacies. Vaelen needed someone whose belief made the performance feel real. Sorvyn needed someone whose competence meant he never had to risk on his own.
 
 ## Relationships
-- **Vaelen:** Believes in him the way some people believe in the Amarvel — as a given, as a foundation. His faith is the most visible thing about him. But the faith is a cage for both of them.
+- **Vaelen:** Believes in him the way some people believe in the Amarvel — as a given, as a foundation. His faith is the most visible thing about him. But the faith is a cage for both of them. He notices Vaelen's jealousy toward Drenna — the subtle undercurrent when she mentions the gray fox opportunities. He sees things Vaelen doesn't know he's showing.
 - **Caeleth:** Assessed him plainly (the way you'd look at a horse to see if it was sound) and found him satisfactory.
 - **Jorath:** Tolerant. Almost smiled at Jorath's drinking bet expression.
 
@@ -50,8 +50,9 @@
 Idealized trust (Ep 1-3) → Trust tested (Ep 4) → Faith strains — Caeleth's death (Ep 5) → Can't read Vaelen anymore (Ep 6-7) → The idol fails — resentment (Ep 8) → Lets Vaelen go (Ep 9)
 
 - **Eps 1-3:** Faith as gravity. "He always figures it out." The reader sees devotion and warmth.
+  - **Ep2-3 detail:** Watches Vaelen's performance for the Amarith Practitioner. Sees the jaw, the half-second pause before warmth arrives. Files it. The first micro-fractures in faith.
 - **Ep 4 (Cascade):** The first crack. Vaelen makes a call Sorvyn doesn't understand. Sorvyn's trust holds, but it's no longer automatic — there's a beat where he has to choose to trust instead of simply trusting.
-- **Ep 5 (The Dread):** Caeleth dies. Sorvyn's faith demands that Vaelen could have prevented this. When he can't reconcile "he always figures it out" with the boy in the chair, the idol starts to crack.
+- **Ep 5 (The Dread):** Caeleth dies. Sorvyn's faith demands that Vaelen could have prevented this. When he can't reconcile "he always figures it out" with the boy in the chair, the idol cracks. Not a question — a verdict. The worshipper beginning to resent the god.
 - **Eps 6-7:** The distance. Vaelen is pulled into the Amarith operation. Sorvyn watches the man he followed become someone he doesn't recognize. The warmth is still there but it's directed elsewhere — toward the Amarith, toward the operation, toward people with power. The man who looked out for the team is looking out for himself. Or so it seems from where Sorvyn stands.
 - **Ep 8:** The resentment breaks into the open. When Vaelen chooses silence before the Amarith — sees the truth and doesn't speak it — Sorvyn doesn't grieve. He resents. The worshipper whose idol has failed doesn't mourn the idol. He punishes it. Sorvyn chooses his own interests above the partnership with Vaelen. A specific action — something that costs Vaelen, that Vaelen feels as betrayal.
 - **Ep 9:** Vaelen leaves for the Solcarin. Sorvyn doesn't try to stop him. The most painful beat: losing the one person whose belief made the performance feel real. Mutual loss, mutual betrayal, neither one fully wrong.

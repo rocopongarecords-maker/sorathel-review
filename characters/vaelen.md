@@ -43,9 +43,19 @@
 - **Drenna:** She looks past the warmth. She told him something about his own gift nobody ever had. He admitted "I don't know how to do that" — the most honest thing he's said in months
 - **Caeleth:** Sees his younger self. "I was you. I remember being you. I remember the part that came after."
 - **Jorath:** Warm teasing; assigns him work that plays to his strengths
+- **Amarith Practitioner:** Born-Amarith, indifferent to Vaelen. The ceiling made flesh. His indifference is a mirror showing Vaelen how small his world is. Vaelen performs harder for this person than anyone and receives crumbs — a professionally neutral nod, one question that reveals mild curiosity. Then back to work. Vaelen carries that nod for days.
+- **Caeleth's death:** Deployed Caeleth because that's what an impressive leader would do. Something whispered DON'T. The whisper had no practice being heard. The antenna was louder. Carries the mark on his cheek — one second of full Ohn signal — for the rest of the series.
 
 ## Jungian Shadow (LOCKED — from Story DNA)
 **FURY.** Not hollowness, not emptiness — that's too passive, too poetic. Vaelen's shadow is rage. The thing underneath the warmth, the thing the Ethura amplifies, is not the void. It's fury at a world that taught him to perform instead of be.
+
+## The Jungian Core (LOCKED — Arc Redesign)
+- He figured it out at sixteen — not consciously, like a body learning a reflex. When he gave people what they wanted, they gave him warmth, attention, safety. He got very good at reading what people wanted. Not manipulatively — instinctively. The way a plant turns toward light.
+- The warmth is REAL. He genuinely cares. The performance isn't a lie — it's a FILTER. Everything authentic passes through "how will this land?" before it reaches the world. The caring is real, but shaped for impact. The generosity is real, but calibrated for reception.
+- **The filter ate the source.** He can't make a decision from his gut. He doesn't HAVE a gut anymore. Just a sophisticated antenna that picks up what the people around him think the right decision is. When Essren says "trust your readings," he hears the instruction but doesn't know HOW. He's never trusted his own perception without validation.
+- **His gift IS his flaw.** Pattern-reading (reading external signals) is the literal, magical expression of his psychological wound. He can read EVERYTHING except himself. A mirror that needs something to reflect.
+- In dead zones with no signal: empty. Not frightened — EMPTY. The Persona with no audience. The antenna with nothing to receive.
+- NEVER use the word "framework" when describing this flaw. It's human, not institutional.
 
 ## The Ceiling (LOCKED)
 - Vaelen is a STAR at the Solvarei. Not the most senior, but one of the best. Respected, sought out, people defer to him. He's comfortable here.
@@ -56,6 +66,11 @@
 - Chases mastery (Solvarei) → new world (Solcarin) → elite status (Amarith) → love
 - Each time believes the next thing will fill the void. Each time it doesn't.
 - Season 1: Inside the Solvarei. Deployments. The Surge. The Dread. Defers his key insight. Leaves for the Solcarin.
+- **The catastrophe pattern:**
+  - **Ep 1:** Works perfectly. Familiar room, clear signals. Star.
+  - **Ep 3 — First cost:** In the dead zone, no network signal. His antenna locks onto "what would the impressive call look like?" Makes the wrong call. Someone gets hurt. Performing competence instead of BEING competent.
+  - **Ep 5 — Caeleth:** His antenna produces the "impressive" call: deploy Caeleth's sensitivity. Use the asset. Something whispers DON'T. The whisper has no practice being heard. The antenna is louder. He follows competence. Caeleth dies.
+  - **Ep 8 — The silence:** Working alongside the Amarith, antenna locked onto the most powerful signal he's ever encountered. His gift shows him the Amarith's approach is wrong. But he can't tell if what he's seeing is REAL or his own noise. He's never trusted his own perception without validation. He can't locate the self that would speak.
 
 ## Five Gifts (from Vaelen Reframe)
 1. Magnetic — people orient toward him without him trying

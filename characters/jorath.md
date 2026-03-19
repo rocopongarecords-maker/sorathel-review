@@ -35,6 +35,16 @@
 - **Caeleth:** [Ep2 Ch2] An economic disaster — overpays, over-tips, helps strangers for zero return. But his hands are steady and the numbers don't tell the whole story. Jorath bought him a tuber without negotiating and didn't look at him while he did it.
 - **Sorvyn:** Old friction, worn smooth. Sorvyn's silence to his economics speech = volumes.
 
+## Beyond the Ledger (LOCKED — Arc Redesign)
+- NOT the money-comedy-bit character. Money is ONE trait, not the defining one.
+- **PHYSICAL COMPETENCE and RESOURCEFULNESS** are his defining traits.
+- Checks creature rigging — doesn't trust others' knots. Assesses structural integrity with his hands.
+- Brings good food on journeys (he and Sorvyn argue about provisions — this is how they express affection).
+- Punctures pretension: the "engagement" running joke. The Amarith calls their work "engagements." Jorath deploys it mercilessly: "Critical engagement with the dried fruit vendor." "I'm on engagement with this buckle."
+- **In the Dread (Ep5):** Terrified — not for himself, but watching others dissolve. The man who fixes things, holding a boy his hands can't fix. "Kid. KID." The voice cracking. Almost nothing happens to HIM in the Dread — self-constructed identity, the Dread has nothing to dissolve.
+- His discomfort in transit: NOT about cost. About being surrounded by things he can't repair if they break.
+- His contradiction (Rule 3): moments of hidden generosity he'd never frame as generosity. The tuber for Caeleth. The springs he spent freely on. Quality non-negotiable where it matters.
+
 ## What the Reader Doesn't Know Yet
 - His survival motivation
 - His lack of philosophical investment

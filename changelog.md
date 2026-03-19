@@ -2,6 +2,78 @@
 
 ## March 2026
 
+### Ep2 Ch03 Drenna "The Room" v2 — Mar 19
+
+**Revised draft:** `drafts/ep02-ch03-drenna-v2.md` (~4,900 words)
+
+Major revision based on user feedback. Key changes from v1:
+- **Maarthen van der Hoeven → Maarthen Daervos** (Sorathel-native surname)
+- **Thalvaren** named as the prestigious Solcarin (Sorathel's Harvard). Maarthen heard Drenna speak there, sees her as a talent not a practitioner.
+- **Lucro asks if she's with the Amarith** — she says Solvarei, he doesn't know them. Class/prestige gap established.
+- **Drink = Mirathyn (Delverath caves)** — Drenna hates Mirathyn, always has. Physical aversion shown not told.
+- **Korvathi expanded:** Eat creatures (taboo — Devriis uncomfortable, Lucro "savages"). Don't follow the Turnings (new mythology: First Root, Branching, Long Silence). Own cosmology. Viking energy. Range of reactions at table (admiration/excitement/contempt).
+- **Restless man's three questions as actual dialogue** (transport infrastructure).
+- **Korvaan named throughout** (not "the Commander"). Wears impeccable tailored clothes (McKinsey elegance).
+- **Maarthen says "shame you haven't recruited her"** — not "my frontier practitioner."
+- **New entrance exchange:** "I'd like to be considered for the Amarith." / "You hated the Mirathyn. Nobody at that table noticed. That's your answer." Bene Gesserit perception. Ambiguous.
+- **Walk-home = career-focused reflection.** Two kinds of power, frontier crisis as strategic advantage, "She wanted what he had." One subtle vine sign (not two).
+- Removed "she didn't connect" tell-paragraph. Removed simile-adjacent constructions. Varied "rooms like this" repetition.
+
+**Post-revision updates:**
+- `characters/drenna.md` — Maarthen Daervos, Thalvaren, hates Mirathyn, ambition scope expanded (wants to RUN things), new entrance exchange
+- `characters/amarith-commander.md` — Elegant clothes, entrance exchange updated, no personal origin disclosure
+- `bible/story-bible.md` — Full Ep2 Ch3 rewrite (Drenna section, summary, seeds, terminology: Thalvaren, Turnings, Telvareth, Valeth-na, Korvathi culture), Maarthen Daervos, food corrected
+- `bible/version-registry.md` — v2 is latest
+- `episodes/ep02/outline.md` — "Mentor diminished" corrected to "NOT diminished"
+- `.claude/rules/writing-rules.md` — Rule 26 added: No Lazy Repetition
+
+### Ep2 Ch03 Drenna "The Room" v1 — Mar 19
+
+**First draft:** `drafts/ep02-ch03-drenna-v1.md` (~4,800 words). Superseded by v2.
+
+Drenna's first POV chapter. Gray fox dinner at Maarthen's estate. All men at the table. Korvathi trade route story. Torven's valley as trade problem. Unstrategic grief moment: father's heel-tapping. Amarith Commander (Korvaan) — meritocracy speech, THE LOOK. Tile game. Entrance exchange. Walk-home reflection.
+
+---
+
+### Arc Redesign — Mar 19
+
+**Major structural redesign based on Harry Potter / Game of Thrones / Lord of the Rings / Dune comparative analysis. Seven structural problems identified and solved.**
+
+**New documents created:**
+- `bible/arc-redesign-s1.md` — Master document capturing ALL locked decisions (15 sections, source of truth)
+- `characters/amarith-commander.md` — Drenna's Snape. Born in dirt, runs the Amarith. Meritocracy as brand.
+- `characters/amarith-practitioner.md` — Vaelen's Malfoy. Born Amarith, indifference as antagonism.
+- `characters/outer-culture-leader.md` — Brief sheet. Revealed late. "Your tree is dying. We've been waiting."
+- `characters/gray-fox-entrepreneur.md` — Defense contractor. Builds protection force after Ep5.
+
+**Major rewrites:**
+- `bible/season-1-outline.md` v2.1 → **v3.0** — Threat hierarchy (outer cultures/Amarith/Ethura), antagonists, society without army, Vaelen Jungian flaw, Dread as reality distortion, Caeleth death, hollow victory ending.
+- `bible/anomaly-bible.md` v2 → **v3** — Dread section rewritten (reality distortion, not behavioral). Caeleth's death mechanics (fractures, light, touch). New sections: the Breach, Early Signs vs Dread.
+- `episodes/ep02/outline.md` v2 → **v3** — Commander at gray fox dinner, outer culture rumors, "engagement" joke, Drenna departure, Sorvyn micro-fractures.
+- `episodes/ep03/outline.md` v1 → **v2** — Amarith Practitioner in Velanthra, dead zone + outer culture encounter, Vaelen's first catastrophic choice, wave signal as lifeline.
+
+**Character sheet updates (5 existing):**
+- `characters/vaelen.md` — Added "The Jungian Core (LOCKED)" section, Amarith Practitioner relationship, Caeleth's death beat, catastrophe pattern (Ep1/3/5/8).
+- `characters/drenna.md` — Added Amarith Commander to relationships, Commander dismissal in gray fox mentor section, "The Departure (Ep2)" section.
+- `characters/caeleth.md` — Added Dread zone guidance beat, "Death — The First Violence in Sorathel" section (full sequence: veins darken, skin fractures, light, touch, mark).
+- `characters/jorath.md` — Added "Beyond the Ledger (LOCKED)" section: physical competence, "engagement" joke, Dread reaction, transit discomfort reframed.
+- `characters/sorvyn.md` — Added Ep2-3 micro-fractures detail, expanded Ep5 beat, jealousy-noticing in Vaelen relationship.
+
+**Key decisions locked:**
+- Threat hierarchy: outer cultures (Lannisters) → Amarith (Snape+Malfoy) → Ethura (White Walkers)
+- Outer cultures have WEAPONS — Sorathel has no concept of organized violence
+- "War on drugs" framing — institutions minimize the threat
+- Society without army → Gray Fox Entrepreneur improvises protection force after Ep5
+- Vaelen's flaw is Jungian (lost self through performance), NEVER say "framework"
+- The Dread = reality distortion (space folds, time layers, interior→exterior, Ohn hum) — NOT behavioral
+- Early signs (Ep1-4) are behavioral; the Dread (Ep5) is a completely different category
+- Caeleth's death = first violence in Sorathel (skin fractures like porcelain, light through cracks)
+- Institutions misattribute Dread to outer culture "weapons" — prevents investigation
+- Season 1 ends with hollow "victory" over outer cultures
+- Prologue decision: TBD (three options under consideration)
+
+**Files updated:** version-registry.md, changelog.md, MEMORY.md
+
 ### Ep2 Ch02 Jorath v3 — Mar 17
 
 **Major rewrite from v2. Key changes:**

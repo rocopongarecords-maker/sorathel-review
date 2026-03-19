@@ -1,7 +1,7 @@
-# SORATHEL — ANOMALY BIBLE v2
+# SORATHEL — ANOMALY BIBLE v3
 ### Author-Level Truth · Not For The Reader
 *This document answers questions the characters can't. It ensures consistency across all seasons.*
-*Replaces v1. Corrects philosophical foundations, Amarwen's choice, and Revelation Engine mechanics.*
+*Replaces v2. Integrates arc redesign: the Dread as reality distortion, Caeleth's death mechanics, the Breach, Early Signs vs. Dread distinction, Ohn conductor mechanics.*
 
 ---
 
@@ -83,7 +83,7 @@ This maps to the real-world pattern: revolutions that destroy the old system but
 **The Destroyers are the narrative priority.** They're the most dramatic, the most sympathetic, the most terrifying — because every reader knows a good person who, under enough pressure, reached for something ugly. And every reader is afraid they might be that person.
 
 ### Response 2: REBUILD
-The rare person who generates meaning from inside. Finds a small, genuine thing — a purpose, a connection, a task that matters — and builds new scaffolding from authentic material instead of inherited structure. 
+The rare person who generates meaning from inside. Finds a small, genuine thing — a purpose, a connection, a task that matters — and builds new scaffolding from authentic material instead of inherited structure.
 
 This is what the story ultimately argues for. This is the libertarian ideal — the individual who doesn't need the system. But the story is honest about how HARD this is and how few people can do it without preparation. Eduardo/Zethael can do it because he was always somewhat outside the system. Most people can't. That's not a moral failure — it's a preparation failure. The system never taught them this skill.
 
@@ -147,36 +147,113 @@ In the Dread zone, this dynamic is supercharged. Everyone simultaneously dealing
 
 ---
 
-## THE DREAD
+## EARLY SIGNS vs. THE DREAD — DISTINCT CATEGORIES
 
-**What it is:** A zone where Ethura concentration reaches critical mass. The simulation of normalcy breaks down — the cast cracks, the void shows through. Amarwen's presence is ZERO.
+**This distinction is structurally critical.** The early signs and the Dread are not points on a spectrum. They are DIFFERENT CATEGORIES of experience. The gap between them is the gap between "concerning situation" and "the rules of reality have changed."
 
-**Physical effects — all map to emotional truth:**
+### Early Signs (Episodes 1-4): Behavioral. Social. Comprehensible.
 
-- **Terrain collapse:** Amarwen was literally holding the ground together. Root collapse = sinkholes, structural failure, ground that shifts and drops. = The ground beneath your life giving way.
-- **Perception distortion:** Colors drain. Sound dampens then distorts. Time feels wrong. The senses lose calibration because the network was part of how humans processed reality. = Depression's literal effect on senses.
-- **Bond severance:** Creature bonds weaken or sever. Professional bonds fail first. Deep generational bonds resist longer but eventually go silent. = Relationships dissolving when you can't feel anything.
-- **Hushed convergence:** People going Hushed in the zone. Bodies continuing without the person inside. They drift toward warmth, toward practitioners. Their proximity drains. = Depressed people unconsciously draining those around them.
-- **Team fracture:** Both tracks supercharged. Everyone simultaneously losing coherence AND having suppressed selves amplified. The team becomes unreliable — dangerous to each other — at the worst possible moment. = The way crisis fractures even strong groups when individual demons surface.
-- **The void itself:** At center, absence so complete that a person must generate their own reason to exist, moment by moment, with nothing supporting them. Most can't. = The existential question made literal: can you exist without external structure?
+The network weakening causes:
+- **People behaving differently.** A father acting strangely. A professional losing precision. Personality shifts — subtle at first, then undeniable. Attributed to stress, overwork, the frontier crisis.
+- **Creatures becoming wilder.** Loss of the "civilizatory" domestication the network sustained. Feral bond incidents — a creature reverts suddenly, someone gets hurt. Instinct reasserting itself.
+- **Communities fracturing under stress.** Neighbors turning on each other. Old disputes resurfacing with new venom. Social fabric thinning.
+- **Infrastructure failing.** Routes unreliable. Bonds weakening. Readings inconsistent. The system that sustained everything becoming patchy, unpredictable.
 
-**The elegance:** Nothing in the Dread is spectacle for its own sake. Every physical effect IS the void made visible. Every danger IS the emotional truth of meaninglessness, given teeth. The Dread works because it doesn't invent new threats — it manifests the ones we already know.
+These are concerning but COMPREHENSIBLE. People explain them — the outer culture threat, economic stress, frontier hardship, bad luck. The early signs fit within known categories of trouble. Institutions can respond with known tools: send practitioners, stabilize routes, reinforce bonds. Everyone believes the situation is difficult but manageable.
 
-**The cost:** Every engagement with the Dread costs the root network. Using Amarwen's energy to fight the Ethura drains Amarwen further. Heroism has consequences. Triage decisions are real — save this community, but that energy could have sustained ten others. Every victory accelerates the larger defeat.
+Nothing in the early signs prepares anyone — character or reader — for what comes next.
+
+### The Dread (Episode 5): Reality breaking. Incomprehensible. Unprecedented.
+
+A completely DIFFERENT category of experience. Not behavioral changes amplified. Not the early signs turned up to eleven. Something that has no precedent in Sorathel's history, no framework for understanding, no institutional response. The moment the team enters a full dead zone, the rules of reality change.
+
+See: **THE DREAD** section below for full mechanics.
+
+### Why the gap matters
+
+The reader who experiences Episode 5 knows that the dead zones — currently small, currently contained — contain THAT. And they're growing. The institutions, having never entered a full Dread zone, classify the effects as "outer culture weapons" and perimeter the area. They think they're containing a security threat. The reader knows they're ignoring a hole in reality.
+
+This gap — between what the institutions believe and what the reader has seen — is the engine that drives Season 1's ending and Season 2's escalation.
 
 ---
 
-## CAELETH'S HUSHING
+## THE DREAD
 
-**Why him:** His gift is his vulnerability. "Bees behind a wall." He is MORE connected to the Amarwen than most practitioners twice his age. He experiences the network as sensation, wonder, beauty — not data. He found a trunk-branch junction. He said "it's beautiful." The door that let the beauty in lets the void in too.
+**What it is:** A zone where Amarwen's presence has reached absolute zero. Not thinning — GONE. The simulation of normalcy doesn't just crack here. It dissolves. What replaces it is not the void made visible. It is reality without the Amarwen's interpretation — raw, layered, unfiltered. Stephen King meets Inception meets Dune.
 
-**How it happens:** In the Dread zone, Amarwen's presence is zero. For most people, that's disorienting, frightening. For Caeleth, whose sensitivity means he's OPEN to the network the way a door left ajar is open to the wind — the void pours through the connection. He doesn't just experience absence. He experiences the void THROUGH the space where the Amarwen used to be. His entire sensory relationship with the world collapses.
+**The Dread is not a stronger version of the early signs.** The early signs are social and behavioral — people acting differently because the scaffolding is weakening. The Dread is REALITY DISTORTION. Space, time, the boundary between interior and exterior — all of these were sustained by the Amarwen's presence, and in the Dread zone, they stop working.
 
-**What it looks like:** He doesn't scream. He doesn't collapse dramatically. He slows. His eyes change — not vacant immediately, but as if he's looking at something very far away. He sits down. He may say something — quiet, maybe directed at Vaelen, maybe "it's..." without finishing. And then the boy who wanted to belong is finally, terribly, absorbed into the thing he was most connected to.
+### The Layers
 
-**Why Vaelen can't save him:** Vaelen's only tool is pushing Amarwen energy toward the problem. In the Dread, there IS no Amarwen energy. The network is zero. Trying to reach Caeleth through the roots is filling a cup from a dry well. And disconnecting Caeleth from the network — severing the bond that makes him sensitive — is something nobody knows how to do. The system was built to connect. There is no off switch.
+**SPACE FOLDS.** You walk toward a building and it's farther than it was. Turn around and the path you came from is gone — not hidden, GONE. The landscape rearranges when you're not looking. There's a LOGIC you can almost grasp and then CAN'T. Like a language you can hear the grammar of but can't translate. Trying to understand it makes your teeth ache. Directions stop meaning what they meant. The geometry of the world follows rules that aren't yours.
 
-**The guilt:** Vaelen brought Caeleth to the junction. He praised the boy's sensitivity. He said "try." He opened the door wider, made the connection stronger, and that stronger connection killed him. The mentor's gift became the vector of the student's destruction.
+**TIME LAYERS.** You see the same place at different times simultaneously. A woman setting a table — alive, warm, calling her children. And the table is decayed. The food is ash. The children are gone. She's still calling. Both states coexist. Not flickering — LAYERED. Double exposure. You hear conversations from weeks ago. Laughter from a dinner that already happened. You can't tell NOW from THEN. Time isn't a line here. It's a place. All of it happening at once.
+
+**INTERIOR BECOMES EXTERIOR.** You think about a meal with someone you loved. The meal is THERE. On a table that wasn't there before. Food correct, dishes correct, smell correct. But the person has the expression from your FEAR of what they think of you, not their actual face. The landscape reads your mind — not telepathically, ARCHITECTURALLY. Memories become geography. Fears become weather. The Dread zone is a MIRROR built from whoever is inside it.
+
+Multiple people = interiors COLLIDE. Vaelen's memory of a conversation overlaps with Sorvyn's memory of the same conversation, and both versions are PHYSICALLY PRESENT. The team experiences each other's interior landscapes. Seeing through each other's eyes. Private selves made visible to everyone. The things you never said, manifest as rooms you can walk through.
+
+**THE OHN HUM.** Beneath everything — the substrate. A vibration felt in bones, in teeth. The frequency of reality without interpretation. Without meaning. It makes the chaos feel COHERENT. The hum says: stop resisting. The linear time was a simplification. The private interior was a convenience. The stable geography was a story the Amarwen told. This is what's real. And if you listen long enough, the chaos starts to make sense. The alien logic clicks. And that's when you're lost — because understanding the Dread's logic means your mind has switched to a mode that can't switch back.
+
+### Each character's Dread experience
+
+- **Vaelen:** Mirror with nothing to reflect. The Persona with no audience. His interiors are EXPOSED — his performance mechanics made visible to his team. Emptiness where a self should be, projected onto the landscape as hollow rooms.
+- **Caeleth:** Coherence. He can read the logic. He GUIDES the team through the folded space. The gift that terrified him around large creatures is now the only thing keeping them alive. And the reading pulls him deeper until his body can't contain the signal. (See: CAELETH'S DEATH.)
+- **Sorvyn:** His faith in Vaelen exposed as dependency. Not faith — need. He sees Vaelen's interior and it isn't what he believed. The idol with machinery visible.
+- **Jorath:** Almost nothing. Self-constructed identity. The Dread has nothing to dissolve, no gap between presentation and reality to exploit. Terrified not for himself but watching others dissolve. The man who fixes things, holding a boy his hands can't fix.
+- **Drenna:** NOT PRESENT. She's in a committee room. Reads Caeleth's name on a list.
+
+### The Dread is NOT the outer cultures' weapon
+
+But the institutions classify it as one. This misattribution is critical — it keeps everyone focused on the fightable enemy and prevents investigation of what the Dread actually is. The Dread zone is perimetered, classified, and forgotten. A "dead-zone weapon." The most dangerous thing in Sorathel, filed under someone else's problem.
+
+### The cost
+
+Every engagement with the Dread costs the root network. Using Amarwen's energy to fight the Ethura drains Amarwen further. Heroism has consequences. Triage decisions are real — save this community, but that energy could have sustained ten others. Every victory accelerates the larger defeat.
+
+---
+
+## CAELETH'S DEATH
+
+**The first violence in Sorathel.** No violence has been used in the story until this point. No weapons, no combat, no physical harm inflicted deliberately. The first violence isn't a sword or the outer cultures' blades. It's reality rewriting a boy's body.
+
+### Why him
+
+His gift is his vulnerability. "Bees behind a wall." He is MORE connected to the Amarwen than most practitioners twice his age. He experiences the network as sensation, wonder, beauty — not data. He found a trunk-branch junction. He said "it's beautiful." The door that let the beauty in lets the void in too.
+
+In the Dread zone, that sensitivity becomes something else entirely. Caeleth can read the Dread's alien logic the way he read the Amarvel — through feeling, not analysis. His gift translates the incomprehensible into navigation. He guides the team through folded space. He's calm — calmer than he should be.
+
+### The sequence
+
+Caeleth stops walking. Tilts his head — the student's version of the mentor's gesture. Something is pulling his perception DOWNWARD. Into the substrate. Into the Ohn.
+
+"There's something underneath."
+
+He opens his gift wider. The Ohn responds. **And his body begins to answer.**
+
+**The veins in his wrists darken** — visibly, through the skin. The blood vessels becoming PRONOUNCED. The network pattern — the branching, fractal structure of the Amarvel root system — surfaces under his skin. Tracing up his forearms. Branching. Spreading. His body is mapping the thing he's perceiving. Interior becoming exterior. His gift, which always let the world in, is now letting the Ohn USE him as a conductor — a tuning fork for the substrate signal.
+
+**The lines begin to GLOW.** Not the warm bioluminescence of the Amarvel. Something colder. Bluer. The Ohn's light. His body has become a conductor. The Ohn's frequency resonating through his physical form — every nerve, every vessel, every branching pathway in his body amplifying a signal that was never meant for human anatomy.
+
+**His body begins to VIBRATE** — not shaking, VIBRATING. At a frequency the others feel in their teeth. The air distorts around him. His skin, traced with luminous branching lines, begins to FRACTURE. Not cuts. Not wounds. Fracture lines — like cracks in porcelain. Like glass at its resonant frequency. Light pouring through the cracks — not blood, LIGHT. The Ohn expressing itself through the only medium available: a boy who was too open to close in time.
+
+**Caeleth's hand comes up.** That gesture — the tender one, the goodbye. His fingers find Vaelen's face. And where the cracked, luminous skin touches Vaelen's cheek — Vaelen SEES. One second. The full Ohn signal. Everything. The substrate laid bare. Every root, every bond, every identity — a single unified structure so enormous the human mind recoils. Beautiful the way an ocean is beautiful from inside a drowning. True the way death is true.
+
+**In that second, Vaelen understands why Caeleth can't come back.** The boy hasn't been destroyed. He's been OPENED. What poured through is too vast to close. His sensitivity — the gift that made him beautiful, that made the world pour into him — became a channel for something that doesn't fit in a human body. The signal didn't attack him. It answered his openness. And the answer was too large.
+
+The contact breaks. The fractures stop spreading. The glow dims — doesn't disappear, dims. The branching lines remain, faintly luminous. His eyes are open. He breathes. He stands.
+
+The boy is gone. What remains is a body WRITTEN ON by the Ohn. A human form that became a page for something that needed to be expressed and didn't care what the expression cost. The fracture lines will not heal. They are not wounds. They are a map of something that used to be a person.
+
+**Jorath grabs him.** "Kid. KID." The word cracking in a voice that has never cracked. Caeleth's face turns toward Jorath. Something in those eyes that might be recognition. Might be goodbye. A look of such complete peace that Jorath lets go and steps back, because peace that complete on a face that young is the most terrifying thing he has ever seen.
+
+### The mark on Vaelen
+
+A faint branching line where Caeleth's fingers touched his cheek. It fades over minutes — the physical trace disappearing. But Vaelen felt it — the truth, the full signal — and will carry that second for the rest of the series. The knowledge doesn't fade. The mark was a receipt for something that was deposited permanently.
+
+### The guilt
+
+Vaelen brought Caeleth to the junction. He praised the boy's sensitivity. He said "try." He opened the door wider, made the connection stronger. And in the Dread zone, his antenna locked onto "what would the impressive call look like?" — deploy the asset, use Caeleth's sensitivity to navigate. Something in his chest whispered DON'T. But the whisper had no practice being heard. He followed competence. The mentor's gift became the vector of the student's destruction.
 
 ---
 
@@ -190,7 +267,48 @@ In the Dread zone, this dynamic is supercharged. Everyone simultaneously dealing
 
 This connects to the libertarian foundation: the system's greatest gift was also its greatest harm. It sustained everything — and prevented everyone from learning to sustain themselves. The cure for Hushing is the same as the cure for systemic dependency: building the muscles the system atrophied.
 
-**In Season 1:** Caeleth is declared unrecoverable. Vaelen could have tried disconnecting rather than connecting — but he didn't know how, didn't have time, was terrified. The question hangs unanswered. A seed.
+**Caeleth's case — a different category:** Caeleth isn't simply Hushed. He is a body written on by the Ohn. The fracture lines remain — faintly luminous, branching across his skin like a root map rendered in cold blue light. His eyes are open. He breathes. He walks if led. He stands where placed. He is not dead enough to mourn, not alive enough to save. Not a person in a chair. A wound that walks. Something that used to be a boy and became a page for a signal too vast for human anatomy. The team carries him out of the Dread zone. He is placed in a quiet room. The luminous fractures pulse faintly. He sees something else — whatever it is the Ohn showed him, he is still seeing it.
+
+The standard Hushing question — "can they come back?" — may not apply. Caeleth wasn't emptied. He was FILLED. The signal didn't take something from him. It poured something THROUGH him that his body couldn't contain and his mind couldn't release. Whether what remains is Caeleth or a recording of the Ohn wearing Caeleth's body is a question no one in Season 1 can answer.
+
+**In Season 1:** Caeleth is declared unrecoverable. The question of whether he's Hushed or something else entirely hangs unanswered. A seed.
+
+---
+
+## THE BREACH — WHAT COMES FROM OUTSIDE
+
+**The Amarwen's presence was a boundary.** Not a wall — a pressure. Her signal was hostile to the outer cultures, the peoples who lived beyond the network's reach. They couldn't enter network territory because the network's presence was physically uncomfortable, disorienting, painful for anyone not attuned to it. The Amarwen didn't build a fence. She WAS the fence. Her warmth was their barrier.
+
+**Now the network is retreating.** The pressure drops. The boundary moves inward. And the outer cultures follow.
+
+### Who they are
+
+People from beyond the Amarwen network's reach. Cultures that were pushed to the margins by the network-sustained civilization — into the dead lands, the spaces the Amarwen didn't cover. They adapted. They survived without the network. They're tougher, harder, and they have capabilities the network-dependent people don't.
+
+### They have WEAPONS
+
+This is terrifying because Sorathel has NO weapons. Peace and order have been sustained by the Amarwen for so long that the concept of organized violence has been FORGOTTEN. Nobody carries weapons. Disputes are resolved through mediation, arbitration, Solvarei intervention. The practitioners are problem-solvers, not fighters. The gray foxes are negotiators, not generals.
+
+The outer cultures carry physical, brutal, practical weapons — blades, projectiles, tools designed exclusively to harm. The people of Sorathel haven't seen anything like this in living memory. Early frontier dispatches describe attacks as "armed with sharpened implements" because the vocabulary of war doesn't exist.
+
+### Not villains
+
+From their perspective, this is long-overdue justice. The network-dependent civilization expanded across the continent on the Amarwen's power, pushing everyone else to the margins. Now the margins are pushing back. "Your tree is dying. We've been waiting." Not revenge. SCHEDULE. They've known this was coming.
+
+### The misattribution
+
+After Episode 5, when the Dread manifests, institutions attribute the Dread's effects to the outer cultures — "some kind of dead-zone weapon." This prevents anyone from investigating the Dread as its own phenomenon. The visible, fightable enemy absorbs all institutional attention. The real threat — the holes in reality, growing underneath — is classified and forgotten.
+
+This is the GRRM structure: Lannisters vs. White Walkers. Season 1 fights the outer cultures and "wins." The reader knows the real threat hasn't been addressed. The dead zones are still growing. Caeleth's body is still glowing in a quiet room.
+
+### Season 1 escalation
+
+- **Ep 1-2:** Rumors. Route refusals. Merchants going silent. Frontier silence reports.
+- **Ep 3:** Direct encounter during rescue mission. WEAPONS seen for the first time. The concept of tools designed to harm is alien and obscene.
+- **Ep 4:** Raids escalate. Frontier communities hit. "Frontier incursions" — institutional language minimizing.
+- **Ep 5:** A raid coincides with the Dread zone. Institutions misattribute the Dread to outer culture weapons.
+- **Ep 6-8:** Full mobilization. Gray fox entrepreneur improvises a protection force. Coordinated defense. Major confrontation.
+- **Ep 9:** "Frontier secured." Leader retreated, not defeated. The reader knows they'll be back.
 
 ---
 
@@ -216,6 +334,10 @@ This connects to the libertarian foundation: the system's greatest gift was also
 
 10. **Amarwen chose this.** She's not a passive victim. She broke herself to save her children, she'd do it again, and she's now choosing to finish dying because she believes there's nothing of her left underneath the function. Her choice is the story's deepest mirror of Vaelen's crisis.
 
+11. **The Dread is a DIFFERENT CATEGORY.** Do not write the Dread as "stronger early signs." The early signs are behavioral and social. The Dread is reality distortion — space, time, interior/exterior boundaries breaking. The jump between them should feel like a genre shift. What was psychological drama becomes cosmic horror.
+
+12. **The outer cultures are people, not monsters.** Their grievance is real. Their violence is practical, not sadistic. They are the visible, fightable threat that masks the unfightable one. Write them as GRRM writes the Wildlings — comprehensible, human, with a perspective the reader can hold.
+
 ---
 
 ## THE OHN — WHAT'S UNDERNEATH
@@ -239,10 +361,19 @@ This connects to the libertarian foundation: the system's greatest gift was also
 - **Zethael (Ep 3):** Discovers it independently in a dead zone using rapid iteration. Describes it as "static that almost has a pattern." His creature confirms it. Notes it privately. Does not tell anyone.
 - **Same phenomenon, different angles.** Vaelen senses it through deep reading in the gaps. Zethael encounters it through practical experimentation in collapsed zones. Neither knows the other has found it.
 
+**The Ohn as conductor — what Caeleth's death reveals:**
+
+The Ohn can use a human body as a conductor. Caeleth's extreme sensitivity — his gift, which let the Amarvel pour into him as sensation and beauty — made him a tuning fork for the substrate signal. In the Dread zone, where Amarwen's signal is zero, the Ohn is all that remains. When Caeleth opened his gift to read the Dread's logic, the Ohn answered through the same channels the Amarvel used to use.
+
+The result: the Ohn's frequency resonating through human anatomy. The branching pattern of the nervous system and vasculature — which mirrors the Amarvel's root structure, because the Amarwen BUILT human bodies to interface with her network — becomes visible as the signal amplifies. The body becomes a map of itself. Interior made exterior. The signal at full force exceeds what human tissue can contain, and the body fractures — not wounds, but resonance failure. Porcelain at its breaking frequency.
+
+This is not an attack. The Ohn is neutral. It doesn't care about Caeleth any more than gravity cares about the falling man. But sensitivity + exposure + the Ohn's indifferent signal = a body rewritten by a force that has no concept of "too much."
+
 **Connection to Zethael's tech:**
 - His mechanical communication devices work on the Ohn — vibrations through stone and air, physical resonance independent of the Amarvel.
 - This is why his tech only works where Amarwen is absent — her signal drowns out the Ohn.
 - When Amarwen dies in later seasons, the Ohn is all that's left. Zethael's "useless" tech becomes the foundation of a post-Amarwen technological revolution.
+- Caeleth's death is the first evidence that the Ohn interacts with biological systems, not just mechanical ones. This has implications Zethael will eventually understand.
 
 **Thematic connection:**
 - The Ohn is the physical parallel to the story's core question. When the system that told you who to be (Amarwen) is gone, what's left? The Ethura says: nothing, terror, the void. The Ohn says: something was always there underneath, something real, just drowned out. The question is whether you can build on it.
@@ -251,5 +382,13 @@ This connects to the libertarian foundation: the system's greatest gift was also
 ---
 
 *Document created February 23, 2026. Replaces Anomaly Bible v1.*
-*Updated March 9, 2026: Added The Ohn section.*
-*Corrections: Amarwen's sacrifice as conscious choice, Revelation Engine as stress test not sorting mechanism, four responses as contextual not characterological, dragging dynamic, philosophical connection to libertarian framework, Jorath exception, community as mechanical survival factor.*
+*Updated March 9, 2026 (v2): Added The Ohn section.*
+*Updated March 19, 2026 (v3): Major revision integrating arc redesign decisions. Changes:*
+- *The Dread completely rewritten as reality distortion (space folds, time layers, interior/exterior collapse, Ohn hum) — no longer behavioral changes.*
+- *New section: EARLY SIGNS vs. THE DREAD — establishing distinct categories.*
+- *Caeleth's Hushing rewritten as CAELETH'S DEATH — physical fracturing, Ohn conductor mechanics, luminous branching lines, the touch, Jorath's reaction.*
+- *New section: THE BREACH — outer cultures, weapons in a weaponless world, the misattribution.*
+- *Hushing section updated: Caeleth's state as distinct from standard Hushing (filled, not emptied).*
+- *Ohn section updated: conductor mechanics, biological interaction, connection to Caeleth's death.*
+- *Writing rules updated: two new rules (11, 12) for Dread category distinction and outer culture characterization.*
+- *Source: bible/arc-redesign-s1.md (March 19, 2026).*

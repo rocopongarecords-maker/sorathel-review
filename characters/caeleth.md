@@ -27,6 +27,7 @@
 - **A specific fear** (Ep2 Ch2): Large transport creatures in the city. His Amarvel sensitivity makes their network presence overwhelming — pressure in his teeth, a hum climbing his spine. Not afraid of being hurt — afraid of being FELT. Drawn to them AND terrified. Seen through Jorath's eyes.
 - **A kindness that costs him** (Ep2 Ch2): Helps someone at the market without calculating the cost. Baffles Jorath.
 - **His mother's journal** (filling across episodes — seen through Vaelen in Ep2 Ch4)
+- **In the Dread zone (Ep5):** His sensitivity translates the Dread's logic. He GUIDES the team through folded space — calm, calmer than he should be. The gift that terrified him around large creatures becomes the only thing keeping the team alive. The boy who was told he "lacked instinct" is the only one who can read the alien grammar of a place where reality has stopped making sense.
 - NOTE: beloved-building in Ep2 is ALL through witnesses (Vaelen in Ch1, Jorath in Ch2, Vaelen in Ch4). No Caeleth POV in Ep2. The reader falls in love with him the way the team does.
 
 ## Key Relationships
@@ -40,6 +41,20 @@
 - The flowers — colors that don't pull
 - The water — like drinking the memory of water
 - Drenna looking east, afraid — the chapter's closing image
+
+## Death — The First Violence in Sorathel (Ep5)
+
+No violence has been used in the story until this point. The first violence isn't a sword or the outer cultures' weapons. It's reality rewriting a boy's body.
+
+**The sequence:**
+- He stops walking in the Dread zone. Tilts his head — the student's version of the mentor's gesture. Something pulls his perception DOWNWARD. Into the substrate. Into the Ohn. "There's something underneath."
+- He opens his gift wider. The Ohn responds. His body begins to answer.
+- **Veins darken** — visibly, through the skin. The network pattern — the branching, fractal structure of the Amarvel root system — surfaces under his skin. Tracing up his forearms. Branching. Spreading.
+- **The lines begin to GLOW.** Not warm bioluminescence. Something colder. Bluer. The Ohn's light. His body becoming a conductor. A tuning fork.
+- **Body VIBRATES** — not shaking, VIBRATING. At a frequency the others feel in their teeth. Skin, traced with luminous branching lines, begins to FRACTURE. Not cuts. Not wounds. Fracture lines — like cracks in porcelain. Like glass at its resonant frequency. Light pouring through the cracks — not blood, LIGHT.
+- **Touches Vaelen's face** — the tender gesture, the goodbye. Fingers find Vaelen's cheek. One second of full Ohn signal transmitted. The mark. Everything — the substrate laid bare. Every root, every bond, every identity — a single unified structure so enormous the human mind recoils.
+- **Body remains:** Breathing, luminous fracture lines, eyes open seeing something else. Not dead. Not alive. A wound that walks. The fracture lines will not heal. They are not wounds. They are a map of something that used to be a person.
+- **Jorath:** "Kid. KID." Voice cracking — a voice that has never cracked. Peace on Caeleth's face that is terrifying. Peace that complete on a face that young is the most terrifying thing Jorath has ever seen.
 
 ## Voice (for POV chapters)
 Long sentences, metaphor-rich, atmospheric. He lives in wanting and nervousness and inability to name what's wrong. The world is mysterious through his eyes.
