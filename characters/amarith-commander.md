@@ -19,7 +19,7 @@
 - Eats simply. Picks the plainest thing on the table. Old habit from a time when food was fuel
 
 ## How He Climbed
-- Born frontier. Not gray fox, not Amarith heritage, not even comfortable merchant class. The dirt under his nails was literal before it was metaphorical
+- Born frontier. Not seated, not Amarith heritage, not even comfortable merchant class. The dirt under his nails was literal before it was metaphorical
 - Entered a mid-tier Solcarin on ability alone. Graduated near the top. Joined the Solvarei — excelled
 - Made the leap to the Amarith young. Not on talent alone — on calculation. Read the institution the way Vaelen reads the network: found the gaps, the pressure points, the people who mattered
 - Cut people loose. Swallowed humiliation from people he was smarter than. Became someone his younger self would barely recognize
@@ -34,7 +34,7 @@
 - Does not seek her out. Does not mentor her. Not yet. In Season 1, he is a WEIGHT she feels — a standard she measures herself against without being invited to
 - Seasons 2-3: becomes her actual mentor when she arrives at the Amarith and discovers that getting everything she wanted is its own kind of prison. "You got everything. Now what?" He knows that question. The answer nearly destroyed him
 
-### The Gray Foxes
+### The Seated
 - Among them the way the CEO of McKinsey is at Davos — a different species of power. They have money, land, heritage, political cunning. He has institutional brilliance, the Amarith's reputation, and systematic intelligence
 - They're peers. Different kinds of smart at the same table
 - Some of them remember when he was nobody. He remembers which ones do
@@ -47,10 +47,10 @@
 - Their dynamic: the Commander gives instructions once. The Practitioner obeys or is replaced. This has never needed to be stated because the Practitioner has never been stupid enough to test it
 
 ## Season 1 Arc
-- **Ep2:** Appears at Maarthen Daervos's gray fox dinner. Not there for Drenna — there because the Amarith has business that intersects with the upper class. Meritocracy speech. THE LOOK. Entrance exchange: saw Drenna hating the Mirathyn when nobody else noticed — "You hated the Mirathyn. Nobody at that table noticed. That's your answer." Does NOT volunteer personal origin or geography. Bene Gesserit perception through observation, not disclosure. Two pages of screen time that reshape Drenna's entire trajectory
+- **Ep2:** Appears at Maarthen Daervos's dinner with the seated. Not there for Drenna — there because the Amarith has business that intersects with the upper class. Meritocracy speech. THE LOOK. Entrance exchange: saw Drenna hating the Mirathyn when nobody else noticed — "You hated the Mirathyn. Nobody at that table noticed. That's your answer." Does NOT volunteer personal origin or geography. Bene Gesserit perception through observation, not disclosure. Two pages of screen time that reshape Drenna's entire trajectory
 - **Ep3-4:** Present through reports and institutional responses. His honest language about the outer cultures filters through — "organized armed groups with territorial objectives" — while the political class minimizes
 - **Ep5:** After the Dread, forces institutional engagement. While others classify the Dread as an outer culture weapon, the Commander's reaction is ambiguous — he takes the classification at face value publicly, but his silence when the explanation is offered suggests he's not convinced
-- **Ep6-8:** Forces the Amarith Practitioner into the field. Coordinates with the gray fox entrepreneur's protection force — recognizes the necessity while noting the danger of a single person controlling organized defense. Manages the Amarith's response with the unsentimental clarity of someone who has seen civilizations that aren't guaranteed
+- **Ep6-8:** Forces the Amarith Practitioner into the field. Coordinates with the seated entrepreneur's protection force — recognizes the necessity while noting the danger of a single person controlling organized defense. Manages the Amarith's response with the unsentimental clarity of someone who has seen civilizations that aren't guaranteed
 - **Ep9:** Present at the "victory." His face during the celebration is the reader's cue that this isn't over
 
 ## What He Represents

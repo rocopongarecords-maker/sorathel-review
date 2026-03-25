@@ -1,7 +1,7 @@
 # Sorathel — Document Version Registry
 ### The single source of truth for which version of each document is canonical.
 *Check this file BEFORE reading any planning or reference document.*
-*Last updated: March 19, 2026 (Arc Redesign integration)*
+*Last updated: March 20, 2026 (Brainstorm integration — Season 1 Outline v4.0)*
 
 ---
 
@@ -9,10 +9,11 @@
 
 | Document | File | Version | Last Updated | Notes |
 |----------|------|---------|--------------|-------|
-| Season 1 Outline | `bible/season-1-outline.md` | **v3.0** | Mar 19, 2026 | Arc Redesign integration: threat hierarchy (outer cultures/Amarith/Ethura), antagonists (Commander, Practitioner), society without army, Vaelen Jungian flaw, Dread as reality distortion, Caeleth death mechanics, hollow victory ending. |
-| Story Bible | `bible/story-bible.md` | running | Mar 19, 2026 | Updated after each chapter. Through Ep2 Ch3. Mirathyn/Zethael/Ohn corrections applied. |
-| Anomaly Bible | `bible/anomaly-bible.md` | **v3** | Mar 19, 2026 | Arc Redesign: Dread reimagined (reality distortion), Caeleth death mechanics (fractures/light/touch), the Breach, Early Signs vs Dread distinction, Ohn conductor mechanics. |
+| Season 1 Outline | `bible/season-1-outline.md` | **v4.0** | Mar 20, 2026 | Brainstorm integration: rescue arc spans Ep3-5, new Ep4 "The Outcasts" (outcast collective, Cauim, mechanical culture), anti-climactic war (post-9/11 parallel), two parallel arcs (MACRO society + MICRO Vaelen), Caeleth creature/root split, Vaelen's extract + identity misread, Sorvyn suppressed sexuality. Preserves all Arc Redesign (v3.0) decisions. |
+| Story Bible | `bible/story-bible.md` | running | Mar 19, 2026 | Updated after each chapter. Through Ep2 Ch4. Mirathyn/Zethael/Ohn corrections applied. |
+| Anomaly Bible | `bible/anomaly-bible.md` | **v3.2** | Mar 20, 2026 | v3.2: Dread-as-withdrawal — the Dread is a collision/withdrawal phenomenon, not steady-state Ohn; outer cultures don't experience Dread; speed-of-withdrawal determines outcome. v3.1: Ohn deepening — seductive & corrosive, exposure gradient (acute/working/chronic), outer culture connection. v3: Arc Redesign (Dread, Caeleth death, Breach, Ohn conductor). |
 | Arc Redesign | `bible/arc-redesign-s1.md` | **v1** | Mar 19, 2026 | Master document: all decisions from HP/GoT/LOTR/Dune comparative analysis. Source of truth for v3.0 updates. |
+| Practitioner Toolkit | `bible/practitioner-toolkit.md` | **v1** | Mar 20, 2026 | Magic system reference. "Conducting reality" reframe. Diagnostic toolkit, intervention toolkit, cascade failures, team operations, skill hierarchy. Companion to anomaly-bible.md. |
 | Version Registry | `bible/version-registry.md` | v2 | Mar 19, 2026 | This file. |
 
 ---
@@ -39,7 +40,7 @@
 | Amarith Commander | `characters/amarith-commander.md` | Active | NEW Mar 19. Drenna's Snape. Born in dirt, runs the Amarith. Meritocracy as brand. |
 | Amarith Practitioner | `characters/amarith-practitioner.md` | Active | NEW Mar 19. Vaelen's Malfoy. Born Amarith, indifference as antagonism. |
 | Outer Culture Leader | `characters/outer-culture-leader.md` | Active | NEW Mar 19. Brief — revealed late (Ep6-7). "Your tree is dying. We've been waiting." |
-| Gray Fox Entrepreneur | `characters/gray-fox-entrepreneur.md` | Active | NEW Mar 19. Defense contractor. Builds protection force after Ep5. |
+| Seated Entrepreneur | `characters/seated-entrepreneur.md` | Active | NEW Mar 19. Defense contractor. Builds protection force after Ep5. |
 | Doumm | `characters/doumm.md` | **ELIMINATED** | Character removed from story. Roles redistributed to Caeleth. File kept for reference only. |
 
 ---
@@ -55,6 +56,7 @@
 | Ep2 Ch01 — Vaelen | — | `drafts/ep02-ch01-vaelen-v4.md` | **v4 is latest** (coffee→ashroot, GRRM compound description, creature dispatch expanded, Essren reframed: perception > vocabulary) |
 | Ep2 Ch02 — Jorath | — | `drafts/ep02-ch02-jorath-v3.md` | **v3 is latest** (land-skiff, Diagon Alley market, Amarwen scene, passion reframe, deployment shopping) |
 | Ep2 Ch03 — Drenna | — | `drafts/ep02-ch03-drenna-v2.md` | **v2 is latest** (Maarthen Daervos, Thalvaren named, Drenna hates Mirathyn, Korvathi expanded: eat creatures/Seven Turnings/Viking cosmology, Lucro asks Amarith, Korvaan entrance exchange: "You hated the Mirathyn", career-focused walk-home) |
+| Ep2 Ch04 — Vaelen | — | `drafts/ep02-ch04-vaelen-v1.md` | **v1 is latest** (commercial flight, carrier hunting incident, Sorvyn micro-fractures, Vaelen jealousy, Drenna visible fork, Caeleth journal drawings) |
 
 *When a draft is approved, promote it to `episodes/ep01/` (or `ep02/`) and remove old versions from `drafts/`.*
 
@@ -75,7 +77,8 @@
 | Revision Analysis | `drafts/revision-analysis.md` | **Active** | Ch1-3 revision plan. |
 | Act 1 Outline v4 | `reference/act1-episodes-1to3-v4.md` | **SUPERSEDED** | 7-chapter structure. Still has Doumm. Replaced by season-1-outline v2. |
 | Episode 2 Chapter Outline | `episodes/ep02/outline.md` | **Active v3** | Mar 19. Arc Redesign: Commander at dinner, outer culture rumors, "engagement" joke, Drenna departure/Vaelen jealousy, Sorvyn micro-fractures. |
-| Episode 3 Chapter Outline | `episodes/ep03/outline.md` | **Active v2** | Mar 19. Arc Redesign: Amarith Practitioner in Velanthra, dead zone + outer culture encounter, Vaelen's first catastrophic choice, wave signal as lifeline. |
+| Episode 3 Chapter Outline | `episodes/ep03/outline.md` | **Active v3** | Mar 20. v4.0 integration: rescue arc launch (Ep3-5 spine), Zethael NOT found this episode, Caeleth creature/root split planted, Practitioner forced to field (Ch4), outcasts hinted (Ch4), Drenna political (Ch5). |
+| Ep3 Ch1 Outline | `episodes/ep03/ch01-outline.md` | **v3** | Mar 23. Complete redesign: Caeleth creature incident (accidental bonding, angry trainer), Jorath as economic analyst (commerce timeline before Vaelen reads), no outpost (direct client engagement), McKinsey consulting energy, trunk/branch education (Practitioner's regional projection), rescue seeds only (no mission assignment). |
 | Episode 2 Outline v2 (old) | `reference/episode2-v2-outline.md` | **SUPERSEDED** | Uses "Vardo." Replaced by `episodes/ep02/outline.md`. |
 | Season 1 Outline v2 (original) | `reference/season1-outline-v2.md` | **Promoted** | Promoted to `bible/season-1-outline.md`. This copy is the source. |
 
@@ -99,13 +102,13 @@
 - **Commander echo** — Delivered through silence (not "I need you to trust it too"). Silence echoes in Ep7.
 - **Zethael career** — Same year as Vaelen, same role (practitioner). NOT a researcher or report-filer.
 - **Solvarei** — ~300 people, private firm (Accenture). NOT bureaucracy. No filing culture.
-- **The Ohn** — Physical substrate of reality, independent of Amarwen. Revealed by her absence. Zethael's tech works on it. Added to anomaly bible Mar 9.
+- **The Ohn** — Physical substrate of reality, independent of Amarwen. Revealed by her absence. Zethael's tech works on it. Added to anomaly bible Mar 9. **DEEPENED Mar 20:** From "neutral/mechanical" to "seductive and corrosive." Exposure gradient (acute/working/chronic). Ohn erodes narrative capacity — seductive clarity that dissolves stories, names, meaning. Zethael's tech has a cost. Outer cultures = civilizational chronic saturation. Ethura removes WILL. Ohn removes FRAMEWORK. **The Dread is a WITHDRAWAL phenomenon** (collision between Amarwen's residual imprint and Ohn), NOT steady-state Ohn. Outer cultures don't experience Dread because no prior Amarwen signal. Speed of withdrawal determines Dread vs. adaptation.
 - **Sorvyn arc** — Idealized trust → resentment → mutual betrayal with Vaelen. Outsourced agency.
 - **Father's death** — Episode 5-6 (during Dread/Surge). Drenna reads both Caeleth and father in same cycle.
-- **Episode 2-3 split** — Ep2 "The Base" (4ch, life/society/transport) + Ep3 "The Signal" (5ch, adventure/Zethael). Drenna 1ch gray foxes in Ep2, fuller development Ep4. No Hollows until Ep4 (Cascade). Seed Amarith.
+- **Episode 2-3 split** — Ep2 "The Base" (4ch, life/society/transport) + Ep3 "The Signal" (5ch, adventure/Zethael). Drenna 1ch with the seated in Ep2, fuller development Ep4. No Hollows until Ep4 (Cascade). Seed Amarith.
 - **Solvarei = private firm (Accenture)** — NOT tied to governments. Does NOT contain academies or creature training (separate societal institutions).
-- **Gray foxes = upper class/nobility** — NOT a government committee. Mix politics, business, power. Sometimes hire Solvarei but don't control it.
-- **Drenna's gray fox mentor = Maarthen Daervos** — Heard her speak at Thalvaren. Sees her as a TALENT, not a practitioner. Informal mentorship. She takes benefits, admires his sharpness, wants his power. Foxes see potential but she's "just a girl."
+- **The seated = upper class/nobility** — NOT a government committee. Mix politics, business, power. Sometimes hire Solvarei but don't control it.
+- **Drenna's patron among the seated = Maarthen Daervos** — Heard her speak at Thalvaren. Sees her as a TALENT, not a practitioner. Informal mentorship. She takes benefits, admires his sharpness, wants his power. The seated see potential but she's "just a girl."
 - **Thalvaren** — The most prestigious Solcarin. Sorathel's Harvard. Drenna graduated top of her class.
 - **Drenna hates Mirathyn** — Always has. Swallows it to fit in. Physical aversion. Father's Mirathyn→X destruction unspoken but present.
 - **The Seven Turnings** — Core Sorathel belief/historical framework. Includes the First Root, the Branching, the Long Silence. Korvathi have their own names/meanings.
@@ -119,9 +122,9 @@
 ### Arc Redesign Decisions (LOCKED — Mar 19, 2026)
 - **Threat hierarchy:** Outer cultures (Lannisters/visible) → Amarith antagonists (Snape+Malfoy/personal) → Ethura/Dread (White Walkers/real thing, Season 3 confrontation).
 - **Outer cultures:** People from beyond Amarwen's reach. Have WEAPONS. "War on drugs" framing. Escalation Ep1-9. Season 1 ends with hollow "victory."
-- **Amarith Commander (Drenna's Snape):** Born in dirt, runs the Amarith. At gray fox dinner Ep2. Meritocracy speech. Seasons 2-3: becomes mentor.
+- **Amarith Commander (Drenna's Snape):** Born in dirt, runs the Amarith. At dinner with the seated Ep2. Meritocracy speech. Seasons 2-3: becomes mentor.
 - **Amarith Practitioner (Vaelen's Malfoy):** Born Amarith, indifference as antagonism. First meeting Ep3 Velanthra. "Engagements" = Amarith term, Jorath mocks.
-- **Society without army:** No military, no concept of organized violence. Gray Fox Entrepreneur builds protection force AFTER Ep5.
+- **Society without army:** No military, no concept of organized violence. Seated Entrepreneur builds protection force AFTER Ep5.
 - **Vaelen's Jungian flaw:** Lost self through successful performance. Can't generate internal decisions. Gift IS flaw. NEVER say "framework." Catastrophe pattern: Ep1→Ep3→Ep5→Ep8.
 - **The Dread (Ep5):** Full reality distortion (space folds, time layers, interior→exterior, Ohn hum). NOT behavioral. Early signs (Ep1-4) are behavioral; the Dread is a different category.
 - **Caeleth's death:** First violence in Sorathel. Veins darken, skin fractures like porcelain, light through cracks, touches Vaelen's face transmitting Ohn signal. Not dead, not alive.

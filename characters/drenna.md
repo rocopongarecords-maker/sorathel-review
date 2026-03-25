@@ -46,7 +46,7 @@
 - **Father:** Visits when deployments are close. Carries supplies. Talks to him. Counts three breaths with her hand on his shoulder.
 - **Vaelen:** Respects his gift, frustrated he doesn't see its political value. First person to ask the right questions about her data. She shared her father's story — genuinely AND because she knows what that honesty does to a relationship.
 - **Maret:** The neighbor who maintains what Drenna can't. Exchanges are minimal and loaded.
-- **Amarith Commander:** Rose from nothing, runs the Amarith. At the gray fox dinner — meritocracy speech, the LOOK. Sees what she's doing because he invented that climb. Initially experienced as threat. Seasons 2-3: becomes mentor when she "succeeds" and is miserable. "You got everything. Now what?" He knows that question. The answer nearly destroyed him.
+- **Amarith Commander:** Rose from nothing, runs the Amarith. At the dinner with the seated — meritocracy speech, the LOOK. Sees what she's doing because he invented that climb. Initially experienced as threat. Seasons 2-3: becomes mentor when she "succeeds" and is miserable. "You got everything. Now what?" He knows that question. The answer nearly destroyed him.
 
 ## Jungian Shadow (LOCKED — from Story DNA)
 **GRIEF.** Not ambition — the ambition is surface. Drenna's true shadow is grief. The loss of her father, the loss of her community, the loss of the world she came from. The ambition is how she runs from it.
@@ -58,15 +58,15 @@
 - Father killed during the surge (Episode 5-6 timeframe)
 - The Tabata-vote moment: right policy from wrong people, or speaking truth that costs something real
 
-## The Gray Fox Mentor — Maarthen Daervos
+## Her Patron Among the Seated — Maarthen Daervos
 - **Route Baron.** Merchant archetype. Opened trade routes to communities beyond the network's edge including the Korvathi. Broad, weathered, mid-fifties. Hands that remember work. Full head of graying hair.
 - **Heard her speak at Thalvaren** two years ago. Sees her as a TALENT, not a practitioner — "the sharpest mind to come out of Thalvaren in a generation." Informal mentor/patron relationship, NOT employer. She's his discovery, his interesting project, his exotic bird.
 - Pours her Mirathyn himself (she hates it, drinks it). Introduces her proudly. Walks her out warmly when the men start the tile game.
 - She takes the benefits he provides — access, introductions, seats at tables she'd never reach on her own.
 - She has real admiration for his sharpness, his decisiveness, his comfort with power. She wants to be powerful like him — but Korvaan showed her a DIFFERENT kind of power.
-- The gray foxes see her potential but she is just a girl to them — not an equal. Frontier-born, no name, no land, no wealth. Lucro asked if she was with the Amarith — didn't know the Solvarei.
+- The seated see her potential but she is just a girl to them — not an equal. Frontier-born, no name, no land, no wealth. Lucro asked if she was with the Amarith — didn't know the Solvarei.
 - The dynamic is mutual use with genuine warmth. Both know it. Neither says it.
-- **Maarthen is NOT diminished by Korvaan.** He's an experienced gray fox. Plays the meritocracy speech lightly/jokingly — "You'd have said the same thing about me thirty years ago, Korvaan." Different species of power, mutual respect, different domains.
+- **Maarthen is NOT diminished by Korvaan.** He's an experienced member of the seated. Plays the meritocracy speech lightly/jokingly — "You'd have said the same thing about me thirty years ago, Korvaan." Different species of power, mutual respect, different domains.
 - **Korvaan's LOOK at Drenna:** Corrects Maarthen — "When she's ready, she'll be evaluated. Not before." Looked at HER, not the mentor. Drenna's model of power shifts: there's a different AXIS of power she didn't know existed.
 - **Entrance exchange:** Both leaving when men start tile game. Drenna: "I'd like to be considered for the Amarith." Korvaan: "You hated the Mirathyn." / "Nobody at that table noticed. That's your answer." He saw everything — Bene Gesserit perception. She'll replay it for weeks. Ambiguous: is the answer that she's good at hiding (useful) or that she shouldn't hide (not ready)? Unresolved.
 
@@ -78,7 +78,7 @@
 
 ## What the Reader Doesn't Know Yet
 - The full scope of her ambition (she wants to RUN things, not just sit at the table)
-- Her relationship to the gray fox world in Season 2+
+- Her relationship to the world of the seated in Season 2+
 - Korvaan's full backstory and why the Mirathyn observation cuts so deep
 - Whether "That's your answer" is approval or warning
 

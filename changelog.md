@@ -2,6 +2,155 @@
 
 ## March 2026
 
+### Ep3 Ch1 Outline v3 — Complete Redesign — Mar 23
+
+**Full rewrite of `episodes/ep03/ch01-outline.md`.** Addresses six fundamental problems with v2.
+
+**Key changes from v2:**
+- **Caeleth creature incident:** Replaces vague "sensitivity" with a concrete scene — a juvenile creature in a training yard breaks conditioning and follows Caeleth, trainer is furious, threatens financial consequences. Caeleth didn't do anything on purpose. This is different from reading roots. Contrasted with root overwhelm at a network hub (creatures = effortless magnetism, roots = overwhelmed).
+- **Jorath as economic analyst:** Before Vaelen reads the network, Jorath walks the district and reads the commerce data — dispatch unreliable 11 weeks, food complaints 8 weeks, building maintenance tripled 6 weeks, shipping delays 4 weeks, empty market stalls. Builds the decline timeline from numbers. Two forensic methods, same answer. Not satirical — intelligent, essential.
+- **No outpost:** All outpost references removed. Team deployed by Essren specifically for this engagement. Works directly with client (trade guild / commercial operators' association).
+- **McKinsey consulting energy:** Client comes with systemic complaint (district declining — trade, communication, bonds, food, buildings). Last practitioner caused a cascade. Client is afraid and hostile. The engagement is prestigious, not "call gardeners to fix roots."
+- **Trunk/branch education SHOWN:** Amarith Practitioner has a projection running — trunk-level data showing regional connectivity (5 major hubs, continental flows). Vaelen's entire engagement is one small data point in the corner of a much larger picture. Same skill, different altitude. Not degree — CATEGORY.
+- **Rescue seeds ONLY:** No Zethael, no assignment, no departure from Velanthra. Seeds: the pull documented (south-southwest), a dispatch creature nine days overdue, frontier comms spotty in that direction. Nobody connects them. Chapter ends in the city.
+- **Sorvyn bathhouse:** Sexuality seed planted — gap in his story, Vaelen opens the door ("Some things are just yours"), Sorvyn deflects too fast.
+
+**Scene structure (5 scenes):**
+1. The City — Istanbul vibes, Caeleth creature incident, root overwhelm contrast
+2. The Engagement — McKinsey consulting, Jorath's economic forensics
+3. The Diagnostic and Fix — conducting reality, pull surges, team operations
+4. The Amarith Practitioner — trunk/branch education, Vaelen's ceiling
+5. Aftermath — Sorvyn bathhouse, meal, rescue seeds (background only)
+
+**Files updated:** `episodes/ep03/ch01-outline.md` (v2 → v3), `bible/version-registry.md`, `changelog.md`
+
+---
+
+### Practitioner Toolkit v1 + Ep3 Ch1 Outline v2 — Mar 20
+
+**New document: `bible/practitioner-toolkit.md`** — Magic system reference. Locked.
+
+**Core reframe:** The Amarvel is the operating system of reality. Practitioners don't tend a garden — they CONDUCT reality. When a practitioner restores a failing junction: buildings straighten, bioluminescent streetlights come on, creatures settle, food tastes right, the hum returns, temperature normalizes. The physical world rearranges itself around them.
+
+**Diagnostic toolkit:** Surface read, pattern read (Vaelen's 30-signal processing speed), forensic read (months of history from seconds of contact), projection (making the invisible visible in living light), reading people through the ground (lie detection, stress), deep read as free-diving (dangerous, addictive).
+
+**Intervention toolkit:** Restoring/Conducting (the spectacular work — bringing a block back to life), Anchoring (human buttress), Growing (bypass connections), Severing (amputation with moral weight), Flushing (risky power-wash), Rebonding (creature work).
+
+**Team operations:** Lead practitioner (Vaelen), trunk monitor (Sorvyn), physical infrastructure (Jorath), creature/bond monitor (Caeleth), political/client management (Drenna).
+
+**Ep3 Ch1 outline updated (v1 → v2)** to incorporate the magic system reframe:
+- Scene 3 completely rewritten: dying city block (sagging buildings, dark streetlights, dampened sound, wrong temperature, skittish creatures, tasteless food) → hostile client arc (cascade backstory, fear, reluctant access) → forensic read + projection + ground-reading → spectacular restoration (block comes back to life) → pull surges mid-fix → team working in concert
+- Velanthra sensory world expanded: bioluminescence, root-grown architecture, the hum
+- Scene 5 expanded: junction degrading again despite fix, meal scene added
+
+**Files updated:** `bible/practitioner-toolkit.md` (NEW), `episodes/ep03/ch01-outline.md` (v1 → v2), `bible/version-registry.md`, `changelog.md`
+
+---
+
+### Episode 3 Chapter Outline v3 — Mar 20
+
+**Rewrite of `episodes/ep03/outline.md`.** Integrates v4.0 season outline changes.
+
+**Key changes from v2:**
+- **Zethael NOT found in Ep3.** Finding Zethael, two innovations, Ohn discovery, and Zethael's first POV all move to Ep4 "The Outcasts."
+- **Ch4 "The Edge" (NEW):** Practitioner forced into the field (catches up with team). Deeper into frontier. Outer culture permanent habitation revealed (they've been here for decades — network retreated from them). First hints of the outcasts (hybrid structures, people from both worlds). Wave signal clear and close. Episode ends on threshold.
+- **Ch5 "The Rooms" (NEW):** Drenna political chapter. The seated reading the crisis. Commander's look replaying. Her dual nature (feels AND files). Amarith political reach. Her trajectory forming.
+- **Caeleth creature/root split** planted throughout Ch2 "The Wild": wild creatures respond to him extraordinarily; wild roots overwhelm him. Ch3 sinkhole scene reframed: creature-adjacent instinct, not trained root-reading.
+- **Episode is LAUNCH of rescue arc** (Ep3-5 spine), not self-contained adventure.
+- **"What Moved to Episode 4" section** added — explicitly tracks relocated beats.
+
+**Structure:** 5 chapters. Vaelen 3 / Caeleth 1 / Drenna 1.
+
+**Files updated:** `episodes/ep03/outline.md` (v2 → v3), `bible/version-registry.md`, `changelog.md`
+
+---
+
+### Season 1 Outline v4.0 — Mar 20
+
+**Complete rewrite of `bible/season-1-outline.md`.** Integrates all brainstorm decisions (March 20 session) on top of Arc Redesign (March 19).
+
+**Structural changes:**
+- **Rescue arc spans Ep3-5** (was self-contained in Ep3). Three episodes going deeper into frontier territory.
+- **Episode 4 = NEW: "The Outcasts"** — Full episode with the outcast collective. Zethael found among/near them. Cauim (Mandjioh alcohol), mechanical tech, non-Amarwen architecture. Freedom calcified into orthodoxy.
+- **Anti-climactic war** — Outer cultures contained relatively easily. The REAL danger is what the response does to a peaceful society (post-9/11 parallel). Full war delayed to Season 3.
+- **Act structure revised:** Act 1 (Ep1-2), Rescue Arc (Ep3-5), Act 3 (Ep6-9).
+- **Escalation table** — Added 5th column: "Societal Transformation." Outer culture threat peaks earlier and resolves more easily.
+
+**New thematic architecture:**
+- **Two Parallel Arcs:** MACRO (society braces → mobilizes → reorganizes around violence → "wins" → doesn't realize what it's become) + MICRO (Vaelen encounters outcasts → seduced by "freedom" → picks up new performance → repeats pattern).
+
+**Character additions:**
+- **Caeleth creature/root split:** Root-reading = overwhelming, fails. Creature-bonding = extraordinary, visible. Tragic irony: Vaelen deploys his "sensitivity" in the Dread; creature gift opens him to the Ohn.
+- **Vaelen's extract:** Medication/pills. Hypochondriac — "the problem must be physical." Same pattern: sourcing externally what should come from inside. Appears Ep4-5 onward.
+- **Vaelen's identity misread:** Observes outcast freedom (Ep4), projects meaning, picks up a new way to perform. New mask, not new self.
+- **Sorvyn's suppressed sexuality:** Judges the outcasts' openness from fear, not morality. Dependency on Vaelen gains new dimension.
+
+**World additions:**
+- **The Outcast Collective:** NOT a tribe. Double outcasts (too network-adjacent for Korvathi, too wild for Sorathel). Specific material culture: Cauim, mechanical tech, non-Amarwen architecture. Rejection of performance became performance of rejection.
+- **Cauim:** Literal alcohol from Mandjioh tree (mandioca-inspired). Hits different from Mirathyn. Communal drinking ritual.
+
+**Files updated:** `bible/season-1-outline.md` (v3.0 → v4.0), `bible/version-registry.md`, `changelog.md`
+
+---
+
+### Dread as Withdrawal Phenomenon — Mar 20
+
+**Logical consistency fix.** If the Dread is what happens when Amarwen is absent, how do the outer cultures survive outside her reach?
+
+**Resolution:** The Dread is a WITHDRAWAL phenomenon — the collision between Amarwen's residual imprint and the Ohn rushing into the vacuum. Like decompression sickness. The outer cultures never had Amarwen, so no withdrawal, no collision, no Dread. Their territory is stable Ohn — harsh but coherent. The speed of withdrawal determines whether a community gets the Dread (fast collapse) or adapts (slow transition).
+
+**Files updated:**
+- `bible/anomaly-bible.md` → v3.2. New subsection in THE DREAD: "The Dread is a WITHDRAWAL phenomenon" with three-experiences table. Breach section clarified. Outer culture Ohn connection updated.
+- `bible/season-1-outline.md` — New subsection in Dread mechanics: withdrawal distinction, outer culture exemption, speed-of-withdrawal implication.
+- `characters/outer-culture-leader.md` — Territory clarified as stable Ohn, not Dread. Ohn section: no withdrawal path, baseline reality.
+- `bible/version-registry.md` — Anomaly bible → v3.2, Ohn decision log expanded.
+
+---
+
+### Ohn Deepening — Mar 20
+
+**Concept revision across 7 files.** Source: Frank Herbert critique — the Ohn was too safely "neutral."
+
+**Core change:** The Ohn reframed from "neutral, mechanical, physical resonance" to "seductive and corrosive pre-narrative reality." Still physical, still the substrate — but not safe. Indifferent to the structures that make consciousness bearable.
+
+**New framework — Ohn Exposure Gradient:**
+- **Acute** (Caeleth): body as conductor, fracture. Already documented. No changes.
+- **Working** (Zethael, practitioners): clarity that erodes narrative. Better at tasks, worse at being people. The Amarvel feels cluttered after exposure.
+- **Chronic** (outer cultures): full narrative erosion. Capable, efficient, no stories. Communities function like ant colonies — purpose without narrative.
+
+**Key distinction preserved:** Ethura removes the WILL to continue (despair). Ohn removes the FRAMEWORK for narrative being while leaving capability intact (life without interiority).
+
+**Files updated:**
+- `bible/anomaly-bible.md` → v3.1. Ohn section rewritten. New subsections: The Ohn's Seduction, Ohn Exposure Gradient, Connection to outer cultures. Thematic connection revised.
+- `characters/zethael.md` — Ohn discovery revised (internal feel: silence, clarity, wanting to go back). New section: "The Cost — What the Ohn Does to Zethael" (language changes, stories stop, contempt worsens, partnership question). Flaw #3 expanded.
+- `reference/story-dna-v1.md` — Sartre's nausea added to Ohn description. Operator cost added to Zethael Season 2. Community narrative loss in Season 3. Post-Season 3 open question. Vaelen Ohn temptation seed added.
+- `characters/vaelen.md` — Cheek mark expanded: temptation + seduction. Dead-zone emptiness revised: both terror AND relief.
+- `characters/outer-culture-leader.md` — New section: "The Ohn — What the Outer Cultures Are." Leader's calm as absence of internal narrator. Weapons as Ohn-thinking. Chronic saturation at civilizational scale.
+- `bible/season-1-outline.md` — Three seeds: Ep3 Zethael's internal quiet during contact; Ep5 survivors changed (competent, talk less); Ep9 Zethael's communities thriving AND diminished.
+- `bible/version-registry.md` — Updated anomaly bible to v3.1, Ohn decision log expanded.
+
+---
+
+### Ep2 Ch04 Vaelen "The Voyage" v1 — Mar 19
+
+**First draft:** `drafts/ep02-ch04-vaelen-v1.md` (~5,500 words)
+
+Commercial flight to Velanthra. Key content:
+- **Commercial carrier creature described in full:** 40+ feet, four sets of rotating plated wings, deck grown from creature's back, handler/co-handler pair, organic hull with translucent patches
+- **Carrier hunting incident:** Bonded carrier kills a wild flyer mid-flight. Predatory behavior that breeding should have suppressed. Handler alarmed; co-handler lies. Caeleth: "It was remembering." Bond weakening as infrastructure symptom.
+- **Vaelen's altitude disconnection:** Can't read the Amarvel from the air. Empty-handed. Network visible as landscape: green retreating, grey advancing.
+- **Sorvyn's micro-fractures:** Calls out Vaelen's jaw — "the half-second before it isn't smiling." First cracks in idealized faith.
+- **Vaelen's jealousy toward Drenna:** She enters rooms he won't enter. The kind of reaching he can't do.
+- **Drenna's visible fork:** Separates at Velanthra landing. Upper city (Maarthen's contacts) vs. team to outpost. "I wasn't talking about the Amarvel."
+- **Jorath:** Arrives early for best seats, loves firm-paid luxury, evaluates flight food, checks rigging, finds structural fatigue on disembarkation.
+- **Sorvyn:** 38th flight, hates all of them. Bathhouse in Velanthra (4 years waiting). Spice blend from the market.
+- **Caeleth:** Journal drawings (branching patterns), sensitivity transmits creature's predatory surge.
+- **Civilian passengers:** Family relocating permanently, merchant, students, handlers.
+
+**Post-draft updates:** Story bible (through Ep2 Ch4), changelog, version registry.
+
+---
+
 ### Ep2 Ch03 Drenna "The Room" v2 — Mar 19
 
 **Revised draft:** `drafts/ep02-ch03-drenna-v2.md` (~4,900 words)

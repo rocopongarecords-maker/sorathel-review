@@ -1,20 +1,20 @@
 # EPISODE 3 — "The Signal"
 ## Chapter-Level Outline
-*Adventure, wonder, danger. The team at their best — and the first crack in the leader.*
+*The rescue launches. Dead zone crossing. Weapons seen. The Amarith Practitioner enters. Vaelen's first cost. The team goes deeper — but doesn't arrive.*
 
 ---
 
 ## WHAT THIS EPISODE MUST DO
 
-1. **Make the reader fall in love with Sorathel.** Not through diagnosis — through the world being ALIVE. Dangerous, wondrous, thrilling. The wrongness is background. The foreground is adventure. The more the reader loves what Sorathel IS, the more devastating when the Dread takes it away.
+1. **Launch the rescue arc.** This is the FIRST of three episodes (Ep3-5) that form the mid-season spine. The team goes deeper into frontier territory to find Zethael. They do NOT find him this episode — the wave signal draws them in, and the episode ends with them deeper in the frontier, closer, but not there yet. The rescue arc: Ep3 (launch) → Ep4 (the outcasts, Zethael found) → Ep5 (the Dread).
 
-2. **Make the reader love Caeleth.** He dies in Episode 5. The beloved beats: the funniest moment (Jorath dynamic deepens), a specific fear (large creatures), a kindness that costs him, his journal filling. The reader must LOVE this boy by the end of Episode 3.
+2. **Make the reader fall in love with Sorathel.** Not through diagnosis — through the world being ALIVE. Dangerous, wondrous, thrilling. The wrongness is background. The foreground is adventure. The more the reader loves what Sorathel IS, the more devastating when the Dread takes it away.
 
-3. **Introduce the Amarith Practitioner.** First meeting in Velanthra. Vaelen delivers readings to a man who barely registers him. The indifference that becomes Vaelen's ceiling made flesh.
+3. **Make the reader love Caeleth.** He dies in Episode 5. The beloved beats: the funniest moment (Jorath dynamic deepens), a specific fear (large creatures), a kindness that costs him, his journal filling. The reader must LOVE this boy by the end of Episode 3.
 
-4. **Reveal Zethael's two innovations.** METHOD (rapid iteration — agile vs. McKinsey) and TECH (wave communication — new channel entirely). Both from Ashervel ridge. Separate categories.
+4. **Plant the Caeleth creature/root split clearly.** Root-reading overwhelms him — the wild Amarvel is unmanaged and his sensitivity can't parse the signal (too much noise, too many layers). Creature-bonding is extraordinary — wild creatures respond to him in ways nobody else achieves. Two different gifts. Nobody, including Caeleth, understands this distinction yet. Every root scene = small failure, frustration. Every creature scene = light up, extraordinary connection.
 
-5. **Plant the Ohn seed.** Zethael's private discovery in a dead zone. The reader who remembers Vaelen's "second rhythm" might connect these. Most won't.
+5. **Introduce the Amarith Practitioner.** First meeting in Velanthra. Vaelen delivers readings to a man who barely registers him. The indifference that becomes Vaelen's ceiling made flesh. Later: forced into the field, joins the rescue journey.
 
 6. **Show Vaelen's first catastrophic choice.** In the dead zone, his antenna locks onto "what would the impressive call look like?" He makes the wrong call. Someone gets hurt. The beginning of his catastrophe pattern.
 
@@ -22,27 +22,29 @@
 
 8. **First taste of terrain distortion.** Dead-zone reality folding — NOT full Dread, but enough to unsettle. The reader gets a whisper of what's coming in Episode 5.
 
-9. **No Hollows.** First active Ethura manifestation is Episode 4 (the Cascade). Wrongness here is subtle and environmental, except in the dead zone.
+9. **No Hollows.** First active Ethura manifestation is Episode 5 (the Dread). Wrongness here is subtle and environmental, except in the dead zone where terrain distortion begins.
 
 10. **Return to magic.** The magic system comes back after Episode 2's break. Pattern-reading, diagnostic scenes, creature rapport. The team as practitioners again.
+
+11. **Drenna's political thread.** 1 chapter. Her intelligence at work among the seated. The Commander's look still carried. Separate from the team's physical journey — she's in the rooms.
 
 ---
 
 ## STRUCTURE
 
-**5 chapters.** ~30,000-35,000 words.
+**5 chapters.** ~25,000-30,000 words.
 
-The magic system returns. Wrongness signs. Creature rapport. The Amarith Practitioner. Dead zone crossing. Outer culture encounter. Vaelen's first cost. The two innovations. The Ohn.
+The rescue arc launches. The Amarith Practitioner. Dead zone crossing. Outer culture encounter. Vaelen's first cost. Caeleth creature/root split visible. Drenna political. The episode ends deeper in the frontier, not at a resolution.
 
 | Ch | POV | Working Title | Function |
 |----|-----|---------------|----------|
 | 1 | Vaelen | "Velanthra" | Urban hub. Amarith Practitioner — first meeting, the devastating nod. Different wrongness. Jorath thrives. Mid-deployment pivot to rescue mission. Departure into wild. Beeping begins. |
-| 2 | Caeleth | "The Wild" | THE BELOVED CHAPTER. Journey through wonder-eyes. Fear. Kindness. Journal. Jorath dynamic deepens. |
-| 3 | Vaelen | "The Crossing" | Dead zone entry. Terrain distortion — first taste. Outer culture scouting party — WEAPONS. Vaelen's first catastrophic choice. Someone gets hurt. Creature rapport scene. Zethael's wave signal is the only thing working. |
-| 4 | Vaelen | "The Innovations" | Finding Zethael's team. Two innovations revealed. Beeping explained. Caeleth/Zethael connection. Amarith Practitioner arrives — forced engagement. |
-| 5 | Zethael | "The Pattern in the Static" | FIRST POV. Ohn discovery. Interiority. Departure forming. |
+| 2 | Caeleth | "The Wild" | THE BELOVED CHAPTER. Journey through wonder-eyes. Fear. Kindness. Journal. Jorath dynamic deepens. Creature/root split visible: wild creatures respond to him extraordinarily; wild root network overwhelms him. |
+| 3 | Vaelen | "The Crossing" | Dead zone entry. Terrain distortion — first taste. Outer culture scouting party — WEAPONS. Vaelen's first catastrophic choice. Someone gets hurt. Creature rapport scene (Vaelen). Caeleth's instinct saves the team — creature-adjacent sensitivity, NOT trained reading. |
+| 4 | Vaelen | "The Edge" | Practitioner forced to join. Deeper into frontier. Outer culture territory — more signs of habitation. Wave signal strengthening. First hints of the outcasts (tracks, structures, people who aren't outer cultures). The episode's threshold — something ahead. |
+| 5 | Drenna | "The Rooms" | Political thread. The seated. Commander's look carried. Her intelligence reading the crisis from inside the institution. Separate world from the frontier journey. |
 
-**POV split:** Vaelen 3 (60%) · Caeleth 1 (20%) · Zethael 1 (20%)
+**POV split:** Vaelen 3 (60%) · Caeleth 1 (20%) · Drenna 1 (20%)
 
 ---
 
@@ -82,13 +84,19 @@ South-southwest. The direction of the pull. Vaelen says nothing about the connec
 
 **The wild through wonder-eyes.** Caeleth's voice: long sentences, metaphor-rich, atmospheric. His first time in truly wild territory. The Amarvel out here is unmanaged. It does what it wants.
 
-Root network visible at night — bioluminescent threads in exposed rock, pulsing with their own rhythm. Not the steady managed beat of the city but something wilder, more musical. Creatures moving through the landscape — not bonded, not bred, just living. The beauty is overwhelming and he can FEEL it through his gift in a way nobody else can.
+Root network visible at night — bioluminescent threads in exposed rock, pulsing with their own rhythm. Not the steady managed beat of the city but something wilder, more musical. Creatures moving through the landscape — not bonded, not bred, just living.
 
-**The fear.** Large wild creatures. Caeleth feels them through the network — their signals massive, ancient. His sensitivity amplifies everything. A bonded transport creature had a signal like a candle flame. These wild ones are bonfires. Being near them is like standing inside a bell when it rings. He's terrified — not of attack but of being FELT. The scale of them makes him small.
+**The creature/root split — visible here.**
 
-But he's drawn to them too. He watches a massive creature cross a ridge at sunset — its silhouette against the light, its signal a bass note that makes the ground hum — and he can't look away. The fear and the awe are the same thing. The door that lets the beauty in lets the terror in too.
+*Creatures:* The wild creatures respond to Caeleth in a way they don't respond to anyone else. A furred thing at the camp's edge that skitters from Sorvyn's approach but settles near Caeleth without prompting. A transport creature that won't eat until Caeleth holds the feed. He doesn't DO anything — his presence changes the animal's state. The gift is unmistakable to anyone watching. Vaelen notices. Jorath notices. Neither names it.
 
-(This seeds Episode 5: the Dread pours through the same door the beauty used. The gift kills him.)
+*Roots:* Caeleth tries to read the wild Amarvel and gets swamped. The managed network in Torven was overwhelming — "bees behind a wall." Here, unmanaged, the signal is a storm. He can sense the enormity — the wild root system stretching beyond anything the managed network contains — but he can't PARSE it. Can't separate signals. Can't translate. Standard practitioner instruments amplify what's already too loud. He puts his reading probe down. Rubs his hands. Says nothing. The frustration is private — he assumes this is a failure of training, not a mismatch of gifts. The reader should see: this boy's sensitivity is REAL but it doesn't work through standard channels.
+
+**The fear.** Large wild creatures. Caeleth feels them — not through the root network but through something more direct. Their signals massive, ancient. A bonded transport creature had a signal he could hold in his mind. These wild ones are bonfires. Being near them is standing inside a bell when it rings. He's terrified — not of attack but of being FELT. The scale of them makes him small.
+
+But he's drawn to them too. He watches a massive creature cross a ridge at sunset — its silhouette against the light, its bass note that makes the ground hum — and he can't look away. The fear and the awe are the same thing. The door that lets the beauty in lets the terror in too.
+
+(This seeds Episode 5: the Dread pours through the same door the beauty used. The creature gift kills him.)
 
 **The running joke with Jorath deepens.** On the march. Jorath's "engagement" joke from Velanthra becomes a tool for everything: "Critical engagement with this rockface." "I'm on engagement with the dried fruit." Caeleth keeps doing things that defy practical assessment — stopping to help a frontier family, giving away rations, taking time to feel the network at beautiful spots. Jorath grumbles about Caeleth's latest generosity, and Sorvyn — from under his hat — says: "You're keeping a tab." Jorath: "Somebody has to." The reader should feel: even Jorath, who assesses everything, loves this kid.
 
@@ -98,7 +106,7 @@ But he's drawn to them too. He watches a massive creature cross a ridge at sunse
 
 (The reader holds this: the journal will go home unfilled.)
 
-**Seeds:** Caeleth beloved (fear, kindness, journal, Jorath dynamic), gift as vulnerability (the door works both ways), wild Amarvel beauty (what the reader will mourn), creatures' signals (seeds Dread horror through the same channel).
+**Seeds:** Caeleth beloved (fear, kindness, journal, Jorath dynamic), creature/root split visible (creatures respond to him, roots overwhelm him), gift as vulnerability (the door works both ways), wild Amarvel beauty (what the reader will mourn), creatures' signals (seeds Dread horror through the same channel).
 
 ---
 
@@ -151,7 +159,7 @@ Vaelen goes quiet. The head-tilt. The face empties.
 
 He reads the remnant network — not to diagnose but to COMMUNICATE. He makes himself legible to the creature. Not mind control. Not commands. He signals need through the network's own language. He asks. It understands. The creature shifts — creates a crossing.
 
-Caeleth's reaction (seen through Vaelen): face open, awed. He understood — felt the dialogue through his own sensitivity. The door that was full of silence in the dead zone opens for this.
+Caeleth's reaction (seen through Vaelen): face open, awed. He understood — felt the dialogue through his own sensitivity. The creature channel. The door that was full of silence in the dead zone opens for this.
 
 Jorath: "Is this an engagement or a negotiation?"
 
@@ -159,7 +167,7 @@ Sorvyn watched the whole thing with the particular attention of a man seeing som
 
 **Season 3 warging seed planted.** Vaelen has instinctive rapport with creatures through the network. When the network fails, he'll need to learn to do it WITHOUT the roots.
 
-**Caeleth's sensitivity saves the team.** Later in the chapter. Terrain that Vaelen's reading says is safe — network remnants present, flow patterns look normal. But Caeleth stops. Something doesn't feel right. The bees behind the wall are buzzing differently.
+**Caeleth's instinct saves the team.** Later in the chapter. Terrain that Vaelen's reading says is safe — network remnants present, flow patterns look normal. But Caeleth stops. Something doesn't feel right. Not a root-reading — he can't read these roots, they're too wild, too much. But something in his body responds to the living systems in a way that isn't the standard practitioner channel. The bees behind the wall are buzzing differently — he can't translate what they're saying but he can feel the CHANGE.
 
 Vaelen checks. His method says fine. But Caeleth's constitutional sensitivity catches something the trained reading filters out. The ground ahead: living network a thin veneer over a void. Dead roots holding nothing.
 
@@ -169,118 +177,99 @@ Vaelen: "How did you know?"
 "It felt like the silence had a floor. And the floor was thin."
 Sorvyn: one nod.
 
-This echo matters: Vaelen made the wrong call when he performed competence. Caeleth made the right call by listening to what he felt. The contrast is not stated. The reader assembles it.
+This echo matters: Vaelen made the wrong call when he performed competence. Caeleth made the right call by listening to what he felt — not through trained technique but through a sensitivity that doesn't map to standard practitioner channels. The contrast is not stated. The reader assembles it.
 
 **Beauty texture beat.** Night camp at the dead zone's edge. The Amarvel's wild hum returning faintly. Stars through the canopy. The team around the fire — Jorath checking the rigging on their packs, Sorvyn quiet, Caeleth writing. A moment of peace earned through a terrible day. The beeping steady, closer. South-southwest.
 
-**Seeds:** Outer culture encounter (WEAPONS — alien and obscene), terrain distortion (first taste of what becomes the Dread), Vaelen's first catastrophic choice (performing competence, someone hurt), creature rapport (warging seed), Caeleth's gift beyond Vaelen's trained reading, Zethael's wave signal as dead-zone lifeline, Sorvyn seeing through the performance, team bonds forged under pressure.
+**Seeds:** Outer culture encounter (WEAPONS — alien and obscene), terrain distortion (first taste of what becomes the Dread), Vaelen's first catastrophic choice (performing competence, someone hurt), creature rapport (warging seed), Caeleth's sensitivity beyond standard channels (creature-adjacent instinct, not root technique), Zethael's wave signal as dead-zone lifeline, Sorvyn seeing through the performance, team bonds forged under pressure.
 
 ---
 
-### CHAPTER 4 — VAELEN: "The Innovations"
+### CHAPTER 4 — VAELEN: "The Edge"
 
-**Finding Zethael's team.** Frontier clearing, improvised shelters, scavenged equipment. Everyone alive. Root collapse severed the network path. Zethael grabs Vaelen before the debrief finishes. "You remember Ashervel? The lateral resonance? I've been WORKING on it. LOOK."
+**The Practitioner forced into the field. Deeper into frontier. The threshold of outcast territory.**
 
-**INNOVATION 1: Rapid Iteration — demonstrated.** Zethael finds a damaged node and shows his method. No standard diagnostic. No cascade planning. He nudges. The node CHOOSING to recover. Faster, more alive.
+**The Practitioner arrives — forced engagement.** Word of the dead-zone readings travels. Vaelen's data — terrain distortion, outer culture evidence, wave-propagation measurements from inside a dead zone — is unprecedented. The Practitioner needs it. Dead-zone effects intersect with trunk-level instability he's been tracking in Velanthra.
 
-Caeleth feeling the method through his sensitivity: "It's like he's having a conversation with it."
-Vaelen sees it clearly: the contrast between methodical, planned intervention and this — direct, responsive, alive. Same cycle, 5x faster. It works better.
-
-**INNOVATION 2: Wave Communication — the beeping explained.** "That signal you've been hearing for two days? That was me." Improvised transmitter from scrap. Signals through PHYSICAL WAVES. Not roots. Through the air. A completely new channel.
-
-"It only works where the root network is weak or absent. Strong Amarwen presence drowns it out." This is why nobody takes it seriously. The technology is useless where the institutional system functions. Only valuable in the gaps.
-
-But the team just WALKED through a gap. The technology that nobody takes seriously was their compass, their lifeline, the only signal that worked in the dead zone where everything else went silent. Jorath: "So the one thing that works where nothing works — nobody wants it." Zethael: "Welcome to my career."
-
-**Vaelen's complicated reaction.** The Ashervel ridge. Twenty-three years old. "What if we're only reading half of it?" He noted it. Moved on. Zethael didn't move on. Two innovations from the same curiosity. The door Vaelen chose not to walk through.
-
-And underneath: the first catastrophic choice is still fresh. In the dead zone, he performed competence. Zethael BUILT competence — from scrap, from curiosity, from the willingness to look stupid while trying. The contrast cuts deeper than Vaelen can articulate.
-
-**Caeleth and Zethael.** Zethael watches Caeleth feel the rapid iteration demonstration. "He shouldn't be doing standard diagnostics. He should be doing what I do. He already does it naturally." Echo of their wayhouse conversation: "Don't let the Solvarei grind it into another diagnostic reading." Said twice now. The reader holds both.
-
-**The outer culture debrief.** Vaelen reports what the team encountered in the dead zone — the scouting party, the sharpened implements. Zethael's team has seen signs too: camps, tracks, abandoned gear. More activity near the dead zone's edge. The frontier is not just declining — someone is moving in behind the decline. Zethael's reaction is practical, not panicked: "They've been watching us. They know where the dead zones are. They're using the gaps the same way I am." The implications sit heavy.
-
-**The Amarith Practitioner arrives — forced engagement.** Word travels. Vaelen's team has returned from a dead zone with readings nobody else has — terrain distortion data, outer culture evidence, wave-propagation measurements. The Practitioner needs this data. Dead-zone effects intersect with trunk-level instability he's been tracking in Velanthra.
-
-He arrives at Zethael's camp. The contrast is physical — Amarith standards against frontier grime. He is visibly uncomfortable. Not a complaint — a fact. His body hasn't been conditioned for this. His tools assume stable network access. His methods assume controlled variables. Here, the variables are chaos.
+He catches up with the team at the dead zone's edge. The contrast is physical — Amarith standards against frontier grime. He is visibly uncomfortable. Not a complaint — a fact. His body hasn't been conditioned for this. His tools assume stable network access. His methods assume controlled variables. Here, the variables are chaos.
 
 But the data is real and he's too talented to ignore it. He scans Vaelen's dead-zone readings. That single question again — short, specific, more interested than his manner admits. Then a longer pause. The readings show something that shouldn't be possible at branch level. He doesn't say so. But the pause says it.
 
-They're assigned to the same operation. The Practitioner has institutional resources and trunk-level capabilities. Vaelen has field data and unreplicable readings. They need each other. Neither likes it.
+They're assigned to the same operation now. The Practitioner has institutional resources and trunk-level capabilities. Vaelen has field data and unreplicable readings. They need each other. Neither likes it.
 
 The Practitioner hates fieldwork — brilliant in controlled settings, a lab scientist in a war zone. Resents every minute. But the Commander (Ep2 echo) has made it clear: engage, or explain to the Commander why you didn't.
 
 Jorath, quiet, to Sorvyn: "He's on a critical engagement with the mud."
 
-**Zethael's frustration — shown in behavior.** The improvised equipment. The notes filed and dismissed. The weary shorthand: "Interesting. They'll monitor it." His team's loyalty — they followed him to the frontier edge because they believe in what he's doing.
+**Deeper into the frontier.** The team continues south-southwest. Wave signal strengthening. The dead zone behind them — but the frontier ahead is different too. Not dead. Not alive the way Sorathel is alive. The network is thin here, spotty, irregular. The creatures are wilder. The landscape is harder.
 
-Sorvyn quiet, assessing. Jorath practical, hands busy: "Can that wave thing reach back to Velanthra?"
+**Outer culture territory.** More signs. Not a scouting party this time — permanent habitation. Cleared areas. Structures built from materials Vaelen doesn't recognize. Fire pits used repeatedly. Paths worn into the ground by regular foot traffic. The outer cultures aren't raiding from nowhere — they LIVE here. They've been here. The frontier isn't empty territory being invaded. It's territory that was always occupied by people the network civilization chose not to see.
 
-**Seeds:** Both innovations revealed, Vaelen's roads-not-taken, Caeleth/Zethael connection, wave signal explained, Zethael's frustration (departure forming), Amarith Practitioner forced into field (forced engagement), outer culture evidence accumulating, Practitioner and Vaelen's uneasy collaboration begins.
+This reframes the scouting party from Ch3. Not an incursion — a patrol. Their territory. The team is the one trespassing.
+
+**The Practitioner's reaction.** Different from the team's horror. He catalogs. Assesses. His trunk-level perception picks up things Vaelen can't: the network's historical retreat pattern, the timeline of withdrawal. "This area lost stable coverage sixty to seventy years ago. These settlements are older than that." The outer cultures didn't move into a gap — they were here before the gap. The gap moved to them.
+
+He says this neutrally. The institutional implications — that the network civilization has been retreating for decades while the institutions reported stability — hang in the air. He doesn't follow the thread. Neither does Vaelen. Both file it.
+
+**First hints of the outcasts.** Near the end of the chapter. Signs of habitation that don't match the outer culture camps. Structures that use BOTH network and non-network building methods. Tools that show familiarity with Sorathel's technology, adapted for conditions without network support. People who clearly came from inside the network world and chose to live outside it. Not outer cultures — something else. Someone who knows both worlds.
+
+The team doesn't encounter the outcasts directly — but the evidence is unmistakable. Somebody is living out here who isn't from here and isn't trying to go back.
+
+**Wave signal clear now.** Strong. Close. Coming from the direction of these hybrid structures. Zethael's signal. He's alive. He's near. The episode ends on this threshold — the team on the edge of something, wave signal pulling them forward, the frontier opening into a place they didn't expect.
+
+**Vaelen's internal state.** Carrying the first catastrophic choice. The Practitioner's presence amplifying his insecurity — this is what trunk-level looks like, and he's branch-level forever. But the dead-zone data is HIS. The Practitioner needs what Vaelen found. The ceiling and the leverage exist simultaneously. Vaelen is performing harder than ever, and the reader should see the effort.
+
+**Seeds:** Practitioner forced into field (reluctant colleague), outer culture permanent habitation (reframes the threat), network retreat timeline (decades, not recent), first hints of the outcasts (hybrid structures — people from both worlds), Zethael's signal close, wave signal as compass, Vaelen performing under the Practitioner's gaze, episode ends on threshold.
 
 ---
 
-### CHAPTER 5 — ZETHAEL: "The Pattern in the Static"
+### CHAPTER 5 — DRENNA: "The Rooms"
 
-**FIRST ZETHAEL POV. The reader gets inside the ADHD energy.**
+**Drenna's political world. Separate from the frontier journey. The seated. The Commander's look carried. The crisis as opportunity.**
 
-**His interiority.** Thoughts faster than sentences. Three ideas running simultaneously. Hands moving even sitting still. The world contains too many interesting problems and not enough hours. His voice in his own head: energetic, scattered, hyperfocused. Not disorganized — CHASING. The mind tracking multiple threads, each a piece of a pattern nobody else can see.
+**The physical separation.** Drenna is in Velanthra's upper city — the political rooms, the seated's territory. While the team marches into the frontier, she's working a different kind of terrain. The reader cuts from wilderness to architecture, from physical danger to political maneuvering. The contrast is deliberate.
 
-**Rapid iteration from inside.** How it FEELS. He's at a frontier node. Opens his perception — not Vaelen's way (transcendent, musical, analytical). Something more physical, more conversational. Not reading. Being present. His creature mirrors him. Creature, Zethael, node — a triangle. Not technique. Relationship. The node choosing to recover. The satisfaction: THIS IS WHAT IT SHOULD FEEL LIKE.
+**Her intelligence at work.** The crisis — Zethael's team going dark, frontier instability, outer culture reports filtering in — is creating political space. Information is currency. Drenna has field knowledge nobody else in these rooms possesses. She's the young frontier practitioner who can translate institutional questions into language that maps to real conditions. She's making herself useful. Strategically.
 
-**Wave communication from inside.** The eureka — a memory. Frontier, thin roots, signals propagating through air. First transmitter from scrap. The moment it worked. The isolation of being the only person who's seen something real.
+**The Commander's look — still carried.** The Amarith Commander from Ep2's dinner. His words: "You hated the Mirathyn. Nobody at that table noticed. That's your answer." She replays this. What did it mean? Approval? Warning? Test? The ambiguity is productive — it keeps her sharp.
 
-And now: the dead zone proved him right. Vaelen's team followed his signal through a place where the Amarvel was dead. The wave was their compass. The thing nobody wanted WORKED. The vindication should feel good. It doesn't. It feels like years wasted proving something that should have been obvious.
+**The seated reading the crisis.** Reports arriving: frontier communication disrupted, teams out of contact, outer culture activity confirmed. The seated respond as the seated respond — resource allocation, risk assessment, positioning. Drenna watches how they process threat: not with fear but with calculation. Which investments are at risk. Which trade routes need rerouting. Which political positions strengthen when the frontier is dangerous. She's learning the grammar of a language she's been speaking by instinct.
 
-**The Ohn discovery.** The central seed. This should feel like an accident.
+**Her dual nature — both, always.** She's genuinely concerned about the frontier communities she left behind. She knows the names. She knows the child Caeleth would have stopped for. AND she's mapping which of these concerned faces belong to people who will remember her usefulness. She feels AND files. Both always. Neither is the mask for the other.
 
-Dead zone. Amarwen completely collapsed. Nothing. He's curious: what happens when you nudge the nothing?
+**The Amarith's presence.** The Amarith is now visibly active — the engagement in Velanthra is expanding. Resources being redirected. The Commander's influence tangible. Drenna sees the institutional machinery from the political side — different from how the field practitioners see it. The Amarith isn't just technically superior — it's politically connected in ways the Solvarei isn't. The gap between the organizations isn't just skill. It's power.
 
-Something responds. Not Amarwen's warm signal. Raw. Undifferentiated. His creature reacts — ears flat, body tense, then leaning forward. Something is there. Not network. Not void. Something else.
+**A small scene of genuine feeling.** She hears about the frontier conditions — the dead zone, the terrain distortion, the team going deeper. She thinks of Caeleth. Not strategically. Just: the boy with the journal. The thought arrives unbidden and she lets it sit for a second before returning to the document in front of her. One second. The reader sees it.
 
-Brief. Seconds. Gone. Three more attempts. Nothing. One moment when something opened and closed.
-
-He notes it privately. Does NOT tell anyone. Too strange, too unreplicable. Written in personal notes, not shared.
-
-(The reader who remembers Vaelen's "second rhythm" — the beat underneath, patient, vast, only detectable when not pushing — might connect these. Both in silence. Both where the Amarvel was weakest. Both by people who stopped trying to read and just listened.)
-
-**The frustration.** Not a monologue. Behavior and memory. Years of filing reports that went nowhere. Years of "interesting." Under the sunny builder persona: the contempt. Not conscious. An impatience. An edge in how he thinks about practitioners who go back to standard operations after seeing something extraordinary. About Vaelen — his friend, the most gifted practitioner he knows — who found the lateral resonance first and walked away. The contempt isn't mean. It's the shadow of someone who cares too much about something nobody takes seriously.
-
-**The Practitioner through Zethael's eyes.** Different reaction than Vaelen's. Zethael sees the Practitioner and recognizes the institution's face — the ease of inherited certainty, the trunk-level elegance, the professional neutrality that is also a wall. But Zethael isn't devastated by the indifference. He's amused, then impatient. The Practitioner is everything the system produces at its best: brilliant, precise, completely unprepared for a world that doesn't hold still. Zethael builds for the world that doesn't hold still. The Practitioner's discomfort in the field — his tools failing in degraded conditions, his methods assuming controlled variables — confirms everything Zethael has been saying. Nobody listens.
-
-**The departure forming.** Not dramatic. A quiet knowing. He watches Vaelen's team prepare to leave — competent, warm, professional — and feels the distance. He's not going back to standard operations. Not yet formally (that's Episode 4). But the trajectory is clear.
-
-The outer culture encounter sits differently in him than in the others. Vaelen saw weapons and felt horror. Zethael saw weapons and thought: mechanical. Physical. Tools built without the network. People who survived without the Amarwen. His mind goes there before he can stop it. What else have they built?
-
-**His creature.** Bond beyond protocol. Sleeps near him. Follows when not directed. Responds to mood, not command. He should reassign it. He doesn't.
-
-**Seeds:** Ohn seed (private, unreplicable), creature bond beyond protocol, contempt visible (shadow), departure trajectory, parallel to Vaelen's second rhythm, Practitioner seen through different eyes (amused impatience vs. devastation), outer cultures seen through different eyes (mechanical curiosity vs. horror).
+**Seeds:** Drenna's political intelligence (the grammar of power), Commander's look replaying (ambiguity as productive), the seated's response to crisis (calculation, not fear), Amarith's political reach (power beyond skill), Drenna's dual nature (feels AND files), frontier concern genuine AND strategic, her trajectory toward the other side of the table forming.
 
 ---
 
 ## WHAT THE READER TAKES AWAY FROM EPISODE 3
 
-1. **Caeleth is precious.** The fear and the awe. The kindness. The journal. The running joke with Jorath. The boy who feels things others can't. The reader loves him.
+1. **Caeleth is precious.** The fear and the awe. The kindness. The journal. The running joke with Jorath. The boy who feels things others can't — but differently with creatures than with roots. The reader loves him.
 
-2. **The wrongness is everywhere but different everywhere.** Farming village: tasteless water. Urban hub: degrading precision, dampened sound. Dead zone: terrain distortion, reality folding. Same cause, different manifestations — and getting worse.
+2. **Caeleth's creature/root split is visible.** Wild creatures respond to him extraordinarily. Wild roots overwhelm him. Two different gifts — one that works, one that doesn't. Nobody names this yet. The reader sees it.
 
-3. **Two innovations from one curiosity.** Rapid iteration (method) and wave communication (tech). Both real, both dismissed, both from the same insight Vaelen walked away from. The wave signal saved the team's lives in the dead zone.
+3. **The wrongness is everywhere but different everywhere.** Farming village: tasteless water. Urban hub: degrading precision, dampened sound. Dead zone: terrain distortion, reality folding. Same cause, different manifestations — and getting worse.
 
-4. **The Ohn exists.** Raw, unnamed, unreplicable. Sensed by two people from different angles. Neither told the other.
+4. **Vaelen has instinctive creature rapport.** The warging seed. Through the network now — without it later.
 
-5. **Vaelen has instinctive creature rapport.** The warging seed. Through the network now — without it later.
+5. **Caeleth's sensitivity exceeds Vaelen's trained reading — but through a different channel.** Not technique. Instinct. Creature-adjacent feeling that doesn't map to standard practitioner methods. The gift beyond the method. The door that will kill him.
 
-6. **Caeleth's sensitivity exceeds Vaelen's trained reading.** The gift beyond the method. The door that will kill him.
+6. **Vaelen's antenna is a liability.** First catastrophic choice. Performing competence instead of being competent. Someone got hurt. Sorvyn saw the performance stutter. The pattern has begun.
 
-7. **Vaelen's antenna is a liability.** First catastrophic choice. Performing competence instead of being competent. Someone got hurt. Sorvyn saw the performance stutter. The pattern has begun.
+7. **The Amarith Practitioner is Vaelen's ceiling made flesh.** Indifference as antagonism. Trunk-level capability that makes Vaelen's branch-level work look small. Forced into the field — reluctant, brilliant, uncomfortable. The uneasy collaboration begins.
 
-8. **The Amarith Practitioner is Vaelen's ceiling made flesh.** Indifference as antagonism. Trunk-level capability that makes Vaelen's branch-level work look small. Forced collaboration that neither wants.
+8. **The outer cultures are real.** Armed with weapons. Coordinated. Using the dead zones. Not invaders — they've been living here for generations. The network retreated from THEM, not the other way around.
 
-9. **The outer cultures are real.** Armed with weapons. Coordinated. Using the dead zones strategically. Not monsters — people who survived without the network.
+9. **The wave signal works where nothing else does.** Zethael's dismissed innovation is the team's compass through the dead zone. The thing nobody wanted is the only thing that functions where institutions fail.
 
-10. **Zethael is brilliant, frustrated, and leaving.** The departure is forming. The contempt is visible. The builder can't build inside the institution. And his curiosity about the outer cultures' mechanical technology hints at a trajectory nobody else can see.
+10. **Something else is out there — people from both worlds.** The outcasts hinted. Hybrid structures. People who left the network and built something in the frontier. Not outer cultures. Something new.
 
-11. **Sorvyn is grounded at last.** Back on earth. Back in his element. The contrast with Episode 2's flight. And watching Vaelen more carefully than before.
+11. **Drenna operates in a different world.** Political rooms while the team is in physical danger. She feels AND files. The Commander's look still reverberating. Her trajectory is forming.
+
+12. **Zethael is close.** The wave signal is clear and strong. The rescue arc continues in Episode 4.
 
 ---
 
@@ -288,25 +277,40 @@ The outer culture encounter sits differently in him than in the others. Vaelen s
 
 - Creature rapport through the network (Season 3 warging seed)
 - Caeleth beloved: fear, kindness, journal, Jorath dynamic (building toward Ep5 devastation)
-- Caeleth's sensitivity beyond Vaelen's trained reading (the door that kills him)
-- Two innovations: rapid iteration + wave communication (Zethael's life's work)
+- Caeleth creature/root split: wild creatures respond to him extraordinarily; wild roots overwhelm him (the split that kills him in Ep5)
+- Caeleth's instinct beyond standard practitioner channels (creature-adjacent sensitivity)
 - Wave signal as dead-zone lifeline (the dismissed technology that works where nothing else does)
-- The Ohn — private discovery, unreplicable, parallel to Vaelen's second rhythm
-- The beeping → wave communication (resolved within episode)
 - Urban wrongness different from agricultural wrongness
 - Terrain distortion in dead zones (first taste of what becomes the Dread)
 - Outer culture scouting party — WEAPONS (Season 1's visible threat established)
-- Outer cultures using dead zones strategically
+- Outer cultures as permanent inhabitants, not invaders (network retreated from them)
 - Amarith Practitioner's indifference (Vaelen's ceiling, forced collaboration)
 - Vaelen's first catastrophic choice (performing competence — the pattern begins)
 - Sorvyn seeing the performance stutter (trust fracture beginning)
-- Zethael's creature bond beyond protocol
-- Zethael's contempt (shadow visible)
-- Departure forming (Zethael's trajectory — formalizes in Ep4)
-- Zethael's curiosity about outer cultures' mechanical capabilities
-- Wild Amarvel beauty (what the reader will mourn when the Dread comes)
-- Caeleth/Zethael connection ("Don't let them grind it into another diagnostic reading")
+- Network retreat timeline — decades, not recent (institutional failure to report)
+- First hints of the outcasts (hybrid structures, people from both worlds)
+- Drenna's political intelligence at work (the grammar of power)
+- Commander's look replaying (ambiguity, Drenna's trajectory)
+- Amarith political reach beyond technical superiority
+- Zethael's wave signal close — rescue continues in Ep4
+- The beeping → wave communication (identified but not resolved — Zethael found in Ep4)
 
 ---
 
-*Episode 3 chapter outline v2. Updated March 19, 2026. Five chapters. Integrates arc redesign: Amarith Practitioner (first meeting + forced engagement), outer culture encounter (weapons), Vaelen's first catastrophic choice, dead-zone terrain distortion, wave signal as lifeline. All beloved-building beats preserved. Ready for prose.*
+## WHAT MOVED TO EPISODE 4
+
+The following beats from the v2 outline have been relocated to Ep4 "The Outcasts":
+
+- **Finding Zethael's team.** Zethael is found among/near the outcasts in Ep4, not in Ep3.
+- **Two innovations revealed in full.** METHOD (rapid iteration) and TECH (wave communication). Demonstrated and explained in Ep4 when Zethael is found.
+- **Caeleth/Zethael connection.** "Don't let the Solcarin grind it into another diagnostic reading." Said in Ep4.
+- **Zethael's first POV chapter.** "The Pattern in the Static" — his interiority, ADHD energy, the Ohn discovery. Now in Ep4.
+- **The Ohn discovery.** Zethael's private encounter with the substrate. Now in Ep4.
+- **Zethael's frustration and departure forming.** Now visible in Ep4 context, alongside the outcasts.
+- **The Practitioner through Zethael's eyes.** Now in Ep4.
+
+The wave signal is still heard and followed in Ep3 — but its source (Zethael) is reached in Ep4.
+
+---
+
+*Episode 3 chapter outline v3. Updated March 20, 2026. Five chapters. Integrates v4.0 season outline: rescue arc launch (Ep3-5 spine), Zethael NOT found this episode, Caeleth creature/root split planted throughout, Practitioner forced into field (Ch4), first hints of outcasts (Ch4), Drenna political thread (Ch5). Episode ends deeper in frontier, on the threshold. All beloved-building beats preserved.*

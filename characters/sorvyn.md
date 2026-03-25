@@ -42,7 +42,7 @@
 - The tragedy: both of them were using each other to avoid their own inadequacies. Vaelen needed someone whose belief made the performance feel real. Sorvyn needed someone whose competence meant he never had to risk on his own.
 
 ## Relationships
-- **Vaelen:** Believes in him the way some people believe in the Amarvel — as a given, as a foundation. His faith is the most visible thing about him. But the faith is a cage for both of them. He notices Vaelen's jealousy toward Drenna — the subtle undercurrent when she mentions the gray fox opportunities. He sees things Vaelen doesn't know he's showing.
+- **Vaelen:** Believes in him the way some people believe in the Amarvel — as a given, as a foundation. His faith is the most visible thing about him. But the faith is a cage for both of them. He notices Vaelen's jealousy toward Drenna — the subtle undercurrent when she mentions the opportunities among the seated. He sees things Vaelen doesn't know he's showing.
 - **Caeleth:** Assessed him plainly (the way you'd look at a horse to see if it was sound) and found him satisfactory.
 - **Jorath:** Tolerant. Almost smiled at Jorath's drinking bet expression.
 

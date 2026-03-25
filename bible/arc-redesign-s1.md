@@ -36,7 +36,7 @@ People from beyond the Amarwen network's reach. Cultures that were pushed to the
 The Amarwen's presence was a BOUNDARY. Not a wall — a pressure. Her signal was hostile to these outer cultures. They couldn't enter network territory because the network's presence was physically uncomfortable, disorienting, painful for people not attuned to it. Now the network is retreating. The pressure drops. The boundary moves inward. The outer cultures follow.
 
 ### They have WEAPONS
-This is terrifying because Sorathel has NO weapons. Peace and order have been sustained by the Amarwen for so long that the concept of organized violence has been FORGOTTEN. Nobody carries weapons. Disputes are resolved through mediation, arbitration, Solvarei intervention. The practitioners are problem-solvers, not fighters. The gray foxes are negotiators, not generals.
+This is terrifying because Sorathel has NO weapons. Peace and order have been sustained by the Amarwen for so long that the concept of organized violence has been FORGOTTEN. Nobody carries weapons. Disputes are resolved through mediation, arbitration, Solvarei intervention. The practitioners are problem-solvers, not fighters. The seated are negotiators, not generals.
 
 The outer cultures carry physical, brutal, practical weapons — blades, projectiles, tools designed exclusively to harm. The people of Sorathel haven't seen anything like this in living memory. Early frontier dispatches describe attacks as "armed with sharpened implements" because the vocabulary of war doesn't exist.
 
@@ -74,8 +74,8 @@ The Solvarei is mobilized to help OPERATIONS — logistics, communication, evacu
 ### The Amarith response: Commander vs. Practitioner
 The Amarith Practitioner (Malfoy) receives reports of raids and dismisses them — "a security matter, beneath our scope." He genuinely doesn't comprehend organized violence as a threat. The Commander understands immediately (he grew up in dirt, remembers what the world looks like without guaranteed order) and forces the Practitioner to engage. The Practitioner resents this bitterly — field work, dirty, dangerous, beneath his training.
 
-### The Gray Fox Entrepreneur (Elon Musk type)
-A gray fox who's different from the old guard — self-made, restless intelligence, sees problems as opportunities. When the raids become a clear threat (after Episode 5), he sees the gap and improvises a protection force:
+### The Seated Entrepreneur (Elon Musk type)
+One of the seated who's different from the old guard — self-made, restless intelligence, sees problems as opportunities. When the raids become a clear threat (after Episode 5), he sees the gap and improvises a protection force:
 
 - Transport creature handlers become scouts/rapid-response teams
 - Practitioner tools and construction equipment repurposed as defensive implements
@@ -95,11 +95,11 @@ The Dread episode and the escalating raids create enough crisis to justify the u
 
 ### Amarith Commander — Drenna's Snape
 
-**Who he is:** Born in dirt. Not a gray fox by birth, not Amarith by heritage. He climbed — through calculation, sacrifice, becoming someone his younger self would barely recognize. He cut people loose. He swallowed humiliation from people he was smarter than. And he ARRIVED. He runs the Amarith. The most powerful private organization in Sorathel.
+**Who he is:** Born in dirt. Not seated by birth, not Amarith by heritage. He climbed — through calculation, sacrifice, becoming someone his younger self would barely recognize. He cut people loose. He swallowed humiliation from people he was smarter than. And he ARRIVED. He runs the Amarith. The most powerful private organization in Sorathel.
 
-**His relationship with power:** He's not ABOVE the gray foxes. He's among them the way the CEO of McKinsey is at Davos — a different species of power. The foxes have money, land, heritage, political cunning. He has institutional brilliance, the Amarith's reputation, and systematic intelligence. They're peers. Different kinds of smart at the same table.
+**His relationship with power:** He's not ABOVE the seated. He's among them the way the CEO of McKinsey is at Davos — a different species of power. The seated have money, land, heritage, political cunning. He has institutional brilliance, the Amarith's reputation, and systematic intelligence. They're peers. Different kinds of smart at the same table.
 
-**How he enters (Episode 2, Drenna's dinner chapter):** He's at the gray fox gathering. Not there for Drenna — there because the Amarith has business that intersects with the upper class. One drink. Maybe two.
+**How he enters (Episode 2, Drenna's dinner chapter):** He's at the gathering of the seated. Not there for Drenna — there because the Amarith has business that intersects with the upper class. One drink. Maybe two.
 
 Drenna's mentor introduces her proudly. The Commander cuts him off: "The Amarith doesn't take rotations. We take practitioners who've earned their place through demonstrated excellence at tier. When she's ready, she'll be evaluated. Not before." Meritocracy as brand. The ladder he built, insisted everyone climb the hard way, because that's how HE climbed.
 
@@ -255,7 +255,7 @@ Inspired by GRRM's GoT prologue and HP4's Riddle House opening. Three options un
 | **3** | Direct encounter in dead zone — WEAPONS seen. Scouting party. | Terrain distortion — first taste of reality folding | Amarith Practitioner forced to report. Shock at weapons. |
 | **4** | Raids escalate. Communities hit. | Cascade — behavioral breakdown, attributed to raid stress | "Frontier incursions." Growing concern. |
 | **5** | Raid coincides with Dread zone. Team enters expecting one thing, finds another. | **THE DREAD.** Full mindfuck. Caeleth lost. | "Outer culture weapon." Misattribution. |
-| **6** | Raids organized. Territory claimed. | Contained. Perimetered. Don't talk about it. | Commander forces Amarith response. Gray fox entrepreneur mobilizes protection force. |
+| **6** | Raids organized. Territory claimed. | Contained. Perimetered. Don't talk about it. | Commander forces Amarith response. Seated Entrepreneur mobilizes protection force. |
 | **7** | Protection force assembled. First coordinated defense. | Quiet. Growing underneath. | "We're handling it." |
 | **8** | Major confrontation. Victory over outer cultures. | Vaelen's readings say dead zones still growing beneath the surface. | Celebration. "Containment" declared. |
 | **9** | "Frontier secured." Leader retreated, not defeated. | Caeleth's body in a quiet room. Eyes open. Luminous fractures. Seeing something else. | The crisis is "over." The reader knows it's not. |
@@ -277,7 +277,7 @@ Episode 2 must embed threat and discovery in every scene. No longer a "pause" ep
 ### Key integrations
 - **Compound scenes:** Caeleth's wonder provides discovery (creature dispatch, training yards, kitchen). But the field is "Hogwarts," not the compound — keep compound scenes tight.
 - **Market/transport hub:** Feral bond incident (creature reverts suddenly, someone hurt). Route refusals. Frontier silence reports. DISCOVERY that advances plot.
-- **Drenna's chapter:** The gray fox dinner. The Commander arrives. Meritocracy speech. The LOOK. Amarith seeded through upper-class conversation.
+- **Drenna's chapter:** The dinner with the seated. The Commander arrives. Meritocracy speech. The LOOK. Amarith seeded through upper-class conversation.
 - **Transport flight:** Drenna's departure — she joins the flight to Velanthra, separates at landing. Visible fork. Vaelen's jealousy (subtle — Sorvyn notices). Jorath checking rigging (not calculating fares). Sorvyn and Jorath arguing about provisions.
 - **The "engagement" joke:** Jorath hears what the Amarith calls their work and deploys it mercilessly from this point forward.
 
@@ -359,7 +359,7 @@ The gap between the early signs and the Dread is the gap between "concerning sit
 - Character sheet: Amarith Commander
 - Character sheet: Amarith Practitioner
 - Character sheet: Outer Culture Leader (brief — revealed late)
-- Character sheet: Gray Fox Entrepreneur
+- Character sheet: Seated Entrepreneur
 
 ### Registry and tracking:
 - `bible/version-registry.md` — New versions for all updated docs

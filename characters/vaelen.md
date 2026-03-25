@@ -44,7 +44,7 @@
 - **Caeleth:** Sees his younger self. "I was you. I remember being you. I remember the part that came after."
 - **Jorath:** Warm teasing; assigns him work that plays to his strengths
 - **Amarith Practitioner:** Born-Amarith, indifferent to Vaelen. The ceiling made flesh. His indifference is a mirror showing Vaelen how small his world is. Vaelen performs harder for this person than anyone and receives crumbs — a professionally neutral nod, one question that reveals mild curiosity. Then back to work. Vaelen carries that nod for days.
-- **Caeleth's death:** Deployed Caeleth because that's what an impressive leader would do. Something whispered DON'T. The whisper had no practice being heard. The antenna was louder. Carries the mark on his cheek — one second of full Ohn signal — for the rest of the series.
+- **Caeleth's death:** Deployed Caeleth because that's what an impressive leader would do. Something whispered DON'T. The whisper had no practice being heard. The antenna was louder. Carries the mark on his cheek — one second of full Ohn signal — for the rest of the series. The mark is also a temptation. In that second, no audience, no room to read, no signal to produce. Just truth. For a man whose entire existence is performance, the Ohn's pre-narrative frequency is the most seductive thing imaginable. His fingers find the mark in quiet moments. He does not admit he wants to go back. The guilt and the longing share the same scar.
 
 ## Jungian Shadow (LOCKED — from Story DNA)
 **FURY.** Not hollowness, not emptiness — that's too passive, too poetic. Vaelen's shadow is rage. The thing underneath the warmth, the thing the Ethura amplifies, is not the void. It's fury at a world that taught him to perform instead of be.
@@ -54,7 +54,7 @@
 - The warmth is REAL. He genuinely cares. The performance isn't a lie — it's a FILTER. Everything authentic passes through "how will this land?" before it reaches the world. The caring is real, but shaped for impact. The generosity is real, but calibrated for reception.
 - **The filter ate the source.** He can't make a decision from his gut. He doesn't HAVE a gut anymore. Just a sophisticated antenna that picks up what the people around him think the right decision is. When Essren says "trust your readings," he hears the instruction but doesn't know HOW. He's never trusted his own perception without validation.
 - **His gift IS his flaw.** Pattern-reading (reading external signals) is the literal, magical expression of his psychological wound. He can read EVERYTHING except himself. A mirror that needs something to reflect.
-- In dead zones with no signal: empty. Not frightened — EMPTY. The Persona with no audience. The antenna with nothing to receive.
+- In dead zones with no signal: both terror AND relief. The Persona with no audience. The antenna with nothing to receive. Empty — and for the first time, not performing. The terror is real (who is he without the room to read?). The relief is real (he doesn't have to produce anything). The contradiction is the seed of the Ohn's seduction. After Caeleth's touch, the dead-zone emptiness will carry a different charge — not just absence but the memory of what the absence contained.
 - NEVER use the word "framework" when describing this flaw. It's human, not institutional.
 
 ## The Ceiling (LOCKED)

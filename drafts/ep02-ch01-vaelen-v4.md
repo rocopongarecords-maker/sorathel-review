@@ -3,7 +3,7 @@
 
 *Version 4 — Revision*
 *Created: 2026-03-08 · Revised: 2026-03-17*
-*Changes: Coffee→ashroot, opening logistics clarified, "headquarters"→compound, GRRM-style compound description, kitchen food revised, creature dispatch expanded for worldbuilding, Essren scene reframed (perception outrunning vocabulary, not strategic withholding), simile audit*
+*Changes: Coffee→ashroot, opening logistics clarified, "headquarters"→compound, GRRM-style compound description, kitchen food revised, creature dispatch expanded for worldbuilding, Essren scene reframed (perception outrunning vocabulary, not strategic withholding), simile audit, reader feedback pass (sensory transition expanded, dispatch intro rewritten, Essren identified on first mention, seed-bread exchange tightened)*
 
 ---
 
@@ -17,7 +17,7 @@ Home wasn't the compound — home was Darachet, the city spread below the hillsi
 
 He came through the gate and the compound opened around him. The pale stone caught the early sun on its upper stories — local quarry stone, warm-toned where the light hit it, grey-green where it didn't, with the thickness of walls built by people who expected them to still be standing in a century. At ground level the courtyard was still in shadow, the flagstones cool underfoot, worn smooth along the central path between the main hall and the workshops. Twelve years of boots following the same line had polished a track into the stone — Vaelen's feet knew it without looking.
 
-The main hall anchored the north side, its double doors propped open with an iron wedge that had dished the stone beneath it from use. The morning light came through the wide windows in long, clean bars — the building had been designed for it, the windows positioned to pull the sun in and hold it. Inside, voices, the scrape of benches, the smell of bread and hot fat from the kitchen.
+The main hall anchored the north side, its double doors propped open with an iron wedge that had dished the stone beneath it from use. The morning light came through the wide windows in long, clean bars — the building had been designed for it, the windows positioned to pull the sun in and hold it. Inside, the hall opened up — high-ceilinged, the morning light falling in bars across long wooden tables where practitioners sat shoulder to shoulder, voices overlapping, the scrape of benches on stone, the clatter of ceramic bowls, the smell of bread and hot fat and something herbed drifting from the kitchen at the far end.
 
 To the east, the training yards. Vaelen could hear them before he saw them — the crack of wooden practice frames against each other, a voice correcting someone's stance, the rhythm of drills that hadn't changed since he'd been a junior running them himself. The frames simulated root junctions, and a cluster of second-years were working a branching pattern, their movements too careful, too deliberate. They'd learn. The body had to stop thinking about the form before the form would work.
 
@@ -29,7 +29,7 @@ The assignment board hung on the west wall of the main hall — a wide slate sur
 
 Beyond the board, the creature dispatch station.
 
-It was the compound's nerve center, though it didn't look it — a covered roost structure at the eastern perimeter, open-sided, built from the same pale stone as the rest of the compound but roofed with heavy oilcloth that kept the rain off the perches. The perches climbed the back wall at different heights, each one assigned to a route: local routes low, regional routes higher, the long-distance perches — cross-frontier, multi-day — at the top where the creatures could launch into open air without obstruction. Each creature bonded to a specific handler. Not interchangeable. A handler sent and received through their creature only, the bond ensuring the message went where it was meant to go and came back true. The whole communication network of the Solvarei ran through this roost — field teams reporting in, client requests arriving, deployment orders going out. Every instruction Essren gave to a team in the field passed through a handler's hands and a creature's wings.
+Everything the Solvarei knew about the world outside these walls came through this station. A covered roost structure at the eastern perimeter, open-sided, built from the same pale stone as the rest of the compound but roofed with heavy oilcloth that kept the rain off the perches. The perches climbed the back wall at different heights, each one assigned to a route: local routes low, regional routes higher, the long-distance perches — cross-frontier, multi-day — at the top where the creatures could launch into open air without obstruction. Each creature bonded to a specific handler. Not interchangeable. A handler sent and received through their creature only, the bond ensuring the message went where it was meant to go and came back true. The whole communication network of the Solvarei ran through this roost — field teams reporting in, client requests arriving, deployment orders going out. Every instruction Commander Essren — the woman who ran the Solvarei's field operations from her map-covered office on the second floor — gave to a team in the field passed through a handler's hands and a creature's wings.
 
 Vaelen watched the morning rhythm of it. A handler at the low perches was preparing a dispatch — a woman with close-cropped hair and sun-darkened hands, murmuring to a dark-plumed bird pressed against the hollow of her throat. The private language between handler and creature, built over years: specific tones, specific cadences, words that meant nothing to anyone else. She fixed a thin strip of treated cloth to the creature's leg band — the message, written in the compact notation that handlers used, dense with abbreviation. Then she tossed the bird upward with a practiced motion of her forearm and it caught the air and banked east and was gone. Across the roost, a different handler was receiving — stepping forward as a creature landed on the mid-level perches, the bird agitated, feathers ruffled from a long flight. The handler read the cloth strip, frowned, read it again. Walked it toward the assignment board.
 
@@ -299,15 +299,9 @@ Jorath reached for the seed bread again.
 
 "More than the seeds."
 
-Jorath put the bread down. Picked up the dark bread instead. Calculated something silently. Then: "I'll buy the spice if you make the flatbread tonight instead of tomorrow. Because if we're flying tomorrow, I want something for the transit, and the compound kitchen travel rations are —"
+Jorath put the bread down. Picked up the dark bread instead. Calculated something silently — the cost of the spice against the value of the flatbread against the indignity of compound travel rations. Vaelen could see the arithmetic happening behind his eyes.
 
-"Overpriced."
-
-"I was going to say that."
-
-"You were going to say terrible. I was being charitable."
-
-Vaelen ate and listened to them negotiate — Sorvyn's food against Jorath's budget, quality against economy, the steady warmth of a man who cared about meals against the restless efficiency of a man who cared about margins. Neither won. Neither lost. The friction between them was worn smooth from years of use, and the smoothness was its own kind of warmth.
+Vaelen ate and listened to them settle it — Sorvyn's food against Jorath's budget, quality against economy. Neither won. Neither lost. The friction between them was worn smooth from years of use, and the smoothness was its own kind of warmth.
 
 When the plates were empty and Sorvyn was wrapping a portion in cloth — for Caeleth, without asking, without commenting on Vaelen's decision not to invite him — Vaelen stood.
 

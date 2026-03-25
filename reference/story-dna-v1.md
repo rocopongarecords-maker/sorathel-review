@@ -148,7 +148,7 @@ Three forces in tension. None evil. All necessary.
 
 **Ethura (the absence):** What fills the space Amarwen can no longer occupy. Not attacking her — filling the void of her dying. Born in the Sixth Turning as corruption within her own roots. Doesn't attack — removes the will to continue. Frankl's existential vacuum made tangible. The Hushed aren't victims of a monster — they're people who lost their reason to continue.
 
-**Ohn (the new unknown):** Raw potential growing in the gaps between the other two. Undifferentiated. Most of what it produces is empty — Hollows, mimicry, noise. But some of it, emerging from genuine intention and authentic engagement, is real. New meaning. Self-generated. Sartre's radical freedom made tangible — becomes whatever authentic engagement shapes it into. Can't be faked, institutionalized, or controlled.
+**Ohn (the new unknown):** Raw potential growing in the gaps between the other two. Undifferentiated. Most of what it produces is empty — Hollows, mimicry, noise. But some of it, emerging from genuine intention and authentic engagement, is real. New meaning. Self-generated. Sartre's radical freedom made tangible — becomes whatever authentic engagement shapes it into. Can't be faked, institutionalized, or controlled. And radical freedom has a cost Sartre himself identified: nausea. The vertigo of realizing that nothing is given, nothing is essential, everything is chosen — including whether to keep choosing. The Ohn provides freedom from narrative. It does not provide freedom from the consequences of narrativelessness. Prolonged exposure erodes the capacity for story, for naming, for the irrational conviction that things matter. Technology works on it (technology doesn't need meaning — it needs physics). Consciousness doesn't survive it intact.
 
 **The AI parallel:** Amarwen = old institutional order (reliable, warm, dying). Ethura = the void when the old order fails (not the new thing — the absence of the old thing). Ohn = AI / the genuinely new force (undifferentiated potential, most is noise, some is transformative).
 
@@ -360,6 +360,8 @@ Breaking point: discovers everything he learned was built on a method killing Am
 
 **Season 3 — Surviving becoming himself:** The boring recovery. Zethael reaches out with presence, not answers. Team assembles voluntarily. Investigation connects the pieces. The Amarwen confrontation: offering incomplete proof that becoming yourself is worth the cost.
 
+**The Ohn temptation (runs underneath Seasons 2-3):** Vaelen carries the mark on his cheek — one second of full Ohn signal from Caeleth's touch. It was the most honest moment of his life. For one second, no audience, no room to read, no performance. Just truth. For a man whose entire existence is the gap between the produced signal and the authentic self, the Ohn's pre-narrative frequency is the most seductive thing imaginable. His fingers find the mark in quiet moments. He does not admit he wants to go back. The mark is not a wound — it's a door he wants to walk through again. This must be answered, not avoided: the person who proves to Amarwen that selfhood is worth it must be someone who has FELT the Ohn's argument that it isn't, and chosen stories anyway.
+
 ---
 
 ## 13. DRENNA — ARCHITECTURE & ARC (LOCKED)
@@ -418,11 +420,11 @@ In dead zones where Amarwen's network has collapsed, Zethael discovers that info
 
 **Season 1:** The accident. Working a dead zone, tries his rapid iteration on the void itself. Something responds. Faint. Unreliable. A seed.
 
-**Season 2:** The crude prototype. Frontier communities cut off. Through dozens of failures with his partner, learns to send basic signals through the Ohn. Ugly. Unreliable. Revolutionary when a village can send a distress signal through a dead zone no messenger creature can cross.
+**Season 2:** The crude prototype. Frontier communities cut off. Through dozens of failures with his partner, learns to send basic signals through the Ohn. Ugly. Unreliable. Revolutionary when a village can send a distress signal through a dead zone no messenger creature can cross. But the operators — the people who sit with the Ohn's frequency to transmit and receive — change. They become the infrastructure. Efficient. Reliable. Forgettable. The first operator who can no longer remember his daughter's name is the moment Zethael understands he has built something that works AND something that devours.
 
-**Season 3:** After the cascade collapses Amarwen's network, Zethael's communities are the only ones still communicating. Reality proves him right. Methods spread person to person.
+**Season 3:** After the cascade collapses Amarwen's network, Zethael's communities are the only ones still communicating. Reality proves him right. Methods spread person to person. But the communities themselves are changed — purposeful, resilient, and something is missing that nobody on the inside can name. The children grow up capable. They do not tell stories around the fire.
 
-**Post Season 3:** Ohn-based communication becomes new infrastructure. Deep bonds still matter for genuine relationship. But everyday functions no longer hold civilization hostage to a dying system. The civilization is no longer dependent on Amarwen to exist.
+**Post Season 3:** Ohn-based communication becomes new infrastructure. Deep bonds still matter for genuine relationship. But everyday functions no longer hold civilization hostage to a dying system. The question the story leaves open: can you build on the Ohn without the Ohn dissolving what made building worthwhile? The civilization is no longer dependent on Amarwen to exist. Whether it remains recognizably human is the next question.
 
 ### Why Institutions Resist
 

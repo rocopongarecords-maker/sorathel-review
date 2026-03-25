@@ -54,11 +54,22 @@ Both grew from the Ashervel ridge lateral resonance that Vaelen discovered and a
 ## The Ohn Discovery (Seed — Episode 3)
 - Applies rapid iteration to a dead zone where Amarwen has collapsed
 - Something responds — not Amarwen's warm signal. The Ohn: the physical substrate of reality, always there, drowned out by Amarwen's signal
-- Raw. Undifferentiated. Mechanical. "Like static that almost has a pattern."
+- Raw. Undifferentiated. Pre-linguistic. "Like static that almost has a pattern."
+- **What it FEELS like internally:** The moment of contact, his three simultaneous ADHD tracks — always running, always colliding — go quiet. ONE thought. Singular. Clear. The silence is beautiful. It feels like the first honest thing he has experienced. The Amarvel always felt like a conversation. The Ohn feels like the silence after the conversation stops and you realize you were talking to avoid something. He wants to go back.
 - His creature confirms it. Cannot replicate. Notes it privately.
 - Does NOT mention this to anyone. Too strange, too unreplicable.
 - **Same phenomenon Vaelen detects in Ch4** — "a vibration so low it was almost geological" in the gaps between the Amarvel's pulses
 - This seeds the entire Season 2-3 arc with the Ohn.
+
+## The Cost — What the Ohn Does to Zethael (Season 2-3)
+
+The Ohn is necessary for Zethael's revolution. It is also changing him. The cost is invisible because the first thing it erodes is the capacity to notice what you've lost.
+
+- **His language changes.** Sentences get shorter. Metaphors drop out. By Season 2, his POV chapters should read differently from Season 1 — clipped, functional, precise. The ADHD energy is still there, but the PLAY is gone. Ideas still come fast, but they are all engineering ideas now. Diagrams, not stories. Plans, not possibilities.
+- **He stops telling stories.** He used to be the one around the fire who said "What if we tried—" with that spark of delight. By mid-Season 2, the spark is a schematic. He still proposes. He no longer imagines. The distinction is invisible to him and devastating to the reader.
+- **His contempt worsens.** Not because the Ohn makes him cruel — because the Ohn makes everyone else look like they're performing. From the Ohn's frequency, narrative IS performance. Everyone who speaks in metaphor, who cares about tradition, who grieves with ritual — they look like they're putting on a show. His shadow (contempt) becomes the default lens and he cannot see that it's the Ohn stripping the empathy from his perception, not his intelligence seeing through pretense.
+- **The partnership survives.** Eduardo and Gabriel. It survives as function, as complementarity, as the project. Whether it survives as love — whether it remains a relationship between two people who matter to each other or becomes a collaboration between two components of the same machine — is the question the Ohn asks and Zethael cannot answer. Because answering it would require the narrative framework the Ohn has been quietly dissolving.
+- **His communities are resilient AND diminished.** The frontier communities he builds are the proof of concept — they communicate, they survive, they solve problems. They also stop singing. The children grow up purposeful and capable and something is missing that nobody on the inside can name. Zethael, inside it, sees efficiency. Vaelen, carrying the mark, might be the only person who can see what's been lost.
 
 ## Mirathyn
 - Does NOT drink Mirathyn. Period. Full abstention. Would never bring a bottle, would never pour, would never partake.
@@ -90,7 +101,7 @@ Both grew from the Ashervel ridge lateral resonance that Vaelen discovered and a
 ## Three Things Zethael Is Wrong About (per GRRM Fix Plan)
 1. Confuses independence with isolation
 2. Underestimates pressures faced by those inside the system
-3. His building has collateral damage he doesn't see
+3. His building has collateral damage he doesn't see — including the Ohn's erosion of the people who work closest to his technology. The communities he saves are resilient AND diminished. They survive AND they stop singing. He can't see this because the Ohn has eroded his capacity to notice what narrative loss looks like.
 
 ## Voice (for POV chapters)
 Energetic, scattered. Ideas faster than words. Talks with hands even in his own head. Direct. Frustrated with anything that moves slowly. Hyperfocus on whatever's caught his attention — the rest of the world disappears.

@@ -43,8 +43,8 @@ Core question: "When the world stops telling you who to be, can you survive beco
 - **No filing culture.** No reports, appendices, protocol-required attachments, deployment summaries, forms. Information flows through conversation and verbal debrief. The Solvarei are consultants, not Soviet bureaucrats.
 - **Nobody lives at Solvarei HQ.** It's a workplace. Practitioners have homes/apartments in Darachet. They commute. HQ has: workspaces, practitioner training yards, workshops, a good kitchen, equipment storage, creature dispatch (messaging). Not quarters or barracks.
 - **The Solvarei is a PRIVATE organization.** Not tied to governments or politicians. Sometimes hired for public projects, but fully independent. Think Accenture — a private firm that takes clients, not a government agency. Does NOT contain academies (Solcarin are separate), creature breeding/training (separate industry), or other societal functions. The Solvarei solves problems for clients. That's it.
-- **Solvarei and Amarith are independent organizations.** Neither reports to the other. Both are private firms hired by communities, governments, or gray foxes independently. Different scope: Amarith = trunk-level (systemic, McKinsey), Solvarei = branch/capillary (community-level, Accenture). Not hierarchy — parallel firms.
-- **Gray foxes are NOT bureaucrats.** They are the upper class — nobility that mixes politics, business, and power. They sometimes hire the Solvarei to solve problems, but they do not control each other. Think of them as the powerful elite, not a government committee.
+- **Solvarei and Amarith are independent organizations.** Neither reports to the other. Both are private firms hired by communities, governments, or the seated independently. Different scope: Amarith = trunk-level (systemic, McKinsey), Solvarei = branch/capillary (community-level, Accenture). Not hierarchy — parallel firms.
+- **The seated are NOT bureaucrats.** They are the upper class — nobility that mixes politics, business, and power. They sometimes hire the Solvarei to solve problems, but they do not control each other. Think of them as the powerful elite, not a government committee.
 - **Simile restraint — HARD LIMIT.** See Writing Rule 24. Maximum 3 similes per chapter, 1 per scene break. After drafting, grep for "like ", "as if", "as though", "the way" and count every simile. If over 3, cut until under. "The way X does Y" is a simile. "Smelled like X" is a simile. Name things directly — don't compare them to other things.
 
 ## Voice Calibration
@@ -58,8 +58,8 @@ Core question: "When the world stops telling you who to be, can you survive beco
 - Amarvel = the root network (what characters interact with)
 - Mirathyn = extracted substance (addictive, from the roots)
 - Amarith = elite private firm (McKinsey of Sorathel). Independent of Solvarei — neither reports to the other.
-- Solvarei = private practitioner firm (Accenture of Sorathel). Independent. Takes clients — communities, governments, gray foxes. Does NOT contain academies or creature training.
-- Gray foxes = the upper class / nobility. Mix politics, business, power. Sometimes hire the Solvarei. Not a government body — a social class.
+- Solvarei = private practitioner firm (Accenture of Sorathel). Independent. Takes clients — communities, governments, the seated. Does NOT contain academies or creature training.
+- The seated = the upper class / nobility. People who have seats at tables of power. Mix politics, business, power. Sometimes hire the Solvarei. Not a government body — a social class.
 - Solcarin = training institutions (multiple exist)
 - Ethura = the threat (AUTHOR TERM ONLY — never in prose)
 - Hushed = people who freeze (Ethura response 3)

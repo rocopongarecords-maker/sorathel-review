@@ -22,7 +22,7 @@ After reviewing the full transcript and past conversations, the revisions are NO
 
 7. **The Drenna political document zombie.** Writing Rule says NEVER give her a secret notebook/document/binding. Her ambition lives in behavior, not props. Check all three chapters for any trace of this.
 
-8. **Drenna's departure to gray foxes foreshadowed.** She leaves the team in Ch4 — the reader needs breadcrumbs in Ch1-3 so it doesn't come from nowhere.
+8. **Drenna's departure to the seated foreshadowed.** She leaves the team in Ch4 — the reader needs breadcrumbs in Ch1-3 so it doesn't come from nowhere.
 
 ---
 
