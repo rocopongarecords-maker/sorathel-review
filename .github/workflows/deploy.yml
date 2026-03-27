@@ -28,9 +28,18 @@ jobs:
         working-directory: site
         run: npm ci
 
+      - name: Install Calibre
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq calibre > /dev/null 2>&1
+
       - name: Build chapters manifest
         working-directory: site
         run: node scripts/build-chapters.mjs
+
+      - name: Generate MOBI downloads
+        working-directory: site
+        run: node scripts/build-mobi.mjs
 
       - name: Build site
         working-directory: site

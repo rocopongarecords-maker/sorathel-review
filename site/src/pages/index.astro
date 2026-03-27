@@ -105,8 +105,13 @@ const epTitles: Record<string, string> = episodeTitles;
 
     .chapter-list { list-style: none; }
     .chapter-list li { margin-bottom: 0.5rem; }
+    .chapter-list li {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
     .chapter-list a {
-      display: block; padding: 0.8rem 1rem; color: #2c2c2c;
+      flex: 1; display: block; padding: 0.8rem 1rem; color: #2c2c2c;
       text-decoration: none; border-radius: 4px; transition: background 0.15s;
     }
     .chapter-list a:hover { background: #eeecea; }
@@ -115,6 +120,22 @@ const epTitles: Record<string, string> = episodeTitles;
       font-size: 0.75rem; color: #8a8a9a; text-transform: uppercase; letter-spacing: 0.1em;
     }
     .chapter-list .ch-character { font-size: 1.1rem; margin-top: 0.15rem; }
+    .dl-btn {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border: 1px solid #d0cdc6;
+      border-radius: 4px;
+      color: #6b6b7b;
+      background: #f0eeea;
+      text-decoration: none;
+      transition: background 0.15s, color 0.15s;
+    }
+    .dl-btn:hover { background: #e4e2dc; color: #3a3a4a; }
+    .dl-btn svg { width: 16px; height: 16px; }
 
     .note {
       margin-top: 3rem; padding: 1.5rem; background: #f0eee8; border-radius: 6px;
@@ -164,6 +185,9 @@ const epTitles: Record<string, string> = episodeTitles;
               <a href={`${import.meta.env.BASE_URL}${ch.slug}/`}>
                 <div class="ch-number">Chapter {ch.chapter}</div>
                 <div class="ch-character">{ch.character}</div>
+              </a>
+              <a class="dl-btn" href={`${import.meta.env.BASE_URL}downloads/${ch.slug}.mobi`} download title="Download .mobi">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               </a>
             </li>
           ))}
