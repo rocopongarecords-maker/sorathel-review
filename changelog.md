@@ -2,7 +2,21 @@
 
 ## March 2026
 
-### Ep3 Ch1 Outline v3 — Complete Redesign — Mar 23
+### Continuous Chapter Numbering + Chapter Titles + Reader Feedback — Mar 28
+
+**Chapters now numbered continuously across episodes** (not resetting per episode). Episode 1 = Ch1-4, Episode 2 = Ch5-8, Episode 3 = Ch9-13.
+
+**Chapter titles added.** Each chapter has a name (e.g., "The Ridge," "The Base," "Velanthra") with POV character as subtext. Episode 1 titles proposed: The Ridge (Caeleth), The Path (Drenna), The Node (Vaelen), The Wayhouse (Vaelen).
+
+**New header format:** `# Episode One — Chapter One` / `## The Ridge` / `*Caeleth*`
+
+**Files renamed:** All Ep2 draft files (`ep02-ch01-vaelen-v4.md` → `ch05-vaelen-v4.md`, etc.) and Ep2 episode files. All prose headers updated (8 drafts + 5 episode files). Outlines updated (ep02, ep03, ep03/ch01). Version registry updated. Build script updated to parse chapter titles.
+
+**Reader feedback applied to Ch5 (Ep2 Ch1):** Sensory transition expanded (main hall interior), dispatch station intro rewritten (significance before description), Essren identified on first mention (Commander who runs field operations), seed-bread exchange tightened (removed 8 lines of back-and-forth).
+
+---
+
+### Ep3 Ch9 Outline v3 — Complete Redesign — Mar 23
 
 **Full rewrite of `episodes/ep03/ch01-outline.md`.** Addresses six fundamental problems with v2.
 

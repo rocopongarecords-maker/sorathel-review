@@ -1,5 +1,6 @@
-# Episode Two — Chapter Four
-## Vaelen
+# Episode Two — Chapter Eight
+## The Voyage
+*Vaelen*
 
 *Version 1 — First Draft*
 *Created: 2026-03-19*

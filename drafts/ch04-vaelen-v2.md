@@ -1,5 +1,6 @@
-# Chapter Four
-## Vaelen
+# Episode One — Chapter Four
+## The Wayhouse
+*Vaelen*
 
 *Version 2 — Rewrite (Zethael scene, show-don't-tell, simile reduction)*
 *Created: 2026-02-27 · Revised: 2026-03-09*

@@ -1,5 +1,6 @@
-# Episode Two — Chapter Two
-## Jorath
+# Episode Two — Chapter Six
+## The Garage
+*Jorath*
 
 *Version 3 — Land-skiff, Diagon Alley market, Amarwen scene*
 *Created: 2026-03-17*

@@ -1,12 +1,13 @@
-# Episode 3 — Chapter 1 Outline
-## Vaelen: "Velanthra"
+# Episode 3 — Chapter Nine Outline
+## Velanthra
+*Vaelen*
 *The reader enters urban Sorathel. A city block is dying. The Amarith Practitioner. Seeds of something wrong to the south.*
 
 ---
 
 ## PICKUP
 
-Ep2 Ch4 ended on the Velanthra docking platform. Drenna walked north toward Maarthen's contacts. The team headed south into the commercial city toward the client district. Carrier hunting incident still in the air. Sorvyn's "half-second before it isn't smiling" observation fresh. The reader has seen Velanthra from the air — pale stone, tall structures, wide streets. Now they're on the ground.
+Chapter 8 ended on the Velanthra docking platform. Drenna walked north toward Maarthen's contacts. The team headed south into the commercial city toward the client district. Carrier hunting incident still in the air. Sorvyn's "half-second before it isn't smiling" observation fresh. The reader has seen Velanthra from the air — pale stone, tall structures, wide streets. Now they're on the ground.
 
 No Solvarei outpost — the Solvarei has one headquarters in Darachet, nowhere else. The team was deployed by Essren specifically for this engagement. They report directly to the client.
 

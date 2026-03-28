@@ -1,5 +1,6 @@
-# Chapter Two
-## Drenna
+# Episode One — Chapter Two
+## The Path
+*Drenna*
 
 *First Draft — Final*
 

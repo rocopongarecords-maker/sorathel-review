@@ -1,5 +1,6 @@
-# Chapter Two
-## Drenna
+# Episode One — Chapter Two
+## The Path
+*Drenna*
 
 *Version 2 — Revised Draft*
 *Created: 2026-02-24*

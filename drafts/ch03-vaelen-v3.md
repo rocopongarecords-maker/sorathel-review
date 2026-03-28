@@ -1,5 +1,6 @@
-# Chapter Three
-## Vaelen
+# Episode One — Chapter Three
+## The Node
+*Vaelen*
 
 *Version 3 — Revised Draft*
 *Created: 2026-02-25*

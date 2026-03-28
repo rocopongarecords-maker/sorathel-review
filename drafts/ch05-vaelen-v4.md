@@ -1,5 +1,6 @@
-# Episode Two — Chapter One
-## Vaelen
+# Episode Two — Chapter Five
+## The Base
+*Vaelen*
 
 *Version 4 — Revision*
 *Created: 2026-03-08 · Revised: 2026-03-17*

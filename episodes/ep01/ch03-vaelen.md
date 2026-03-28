@@ -1,5 +1,6 @@
-# Chapter Three
-## Vaelen
+# Episode One — Chapter Three
+## The Node
+*Vaelen*
 
 *First Draft*
 

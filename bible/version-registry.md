@@ -49,14 +49,14 @@
 
 | Chapter | Original (episodes/) | Latest Draft (drafts/) | Status |
 |---------|---------------------|----------------------|--------|
-| Ch01 — Caeleth | `episodes/ep01/ch01-caeleth.md` | `drafts/ch01-caeleth-v2.md` | **v2 is latest** |
-| Ch02 — Drenna | `episodes/ep01/ch02-drenna.md` | `drafts/ch02-drenna-v2.md` | **v2 is latest** |
-| Ch03 — Vaelen | `episodes/ep01/ch03-vaelen.md` | `drafts/ch03-vaelen-v3.md` | **v3 is latest** (v2 intermediate, skip it) |
-| Ch04 — Vaelen | — | `drafts/ch04-vaelen-v2.md` | **v2 is latest** (Zethael Mirathyn fix, show-don't-tell, simile) |
-| Ep2 Ch01 — Vaelen | — | `drafts/ep02-ch01-vaelen-v4.md` | **v4 is latest** (coffee→ashroot, GRRM compound description, creature dispatch expanded, Essren reframed: perception > vocabulary) |
-| Ep2 Ch02 — Jorath | — | `drafts/ep02-ch02-jorath-v3.md` | **v3 is latest** (land-skiff, Diagon Alley market, Amarwen scene, passion reframe, deployment shopping) |
-| Ep2 Ch03 — Drenna | — | `drafts/ep02-ch03-drenna-v2.md` | **v2 is latest** (Maarthen Daervos, Thalvaren named, Drenna hates Mirathyn, Korvathi expanded: eat creatures/Seven Turnings/Viking cosmology, Lucro asks Amarith, Korvaan entrance exchange: "You hated the Mirathyn", career-focused walk-home) |
-| Ep2 Ch04 — Vaelen | — | `drafts/ep02-ch04-vaelen-v1.md` | **v1 is latest** (commercial flight, carrier hunting incident, Sorvyn micro-fractures, Vaelen jealousy, Drenna visible fork, Caeleth journal drawings) |
+| Ep1 Ch01 "The Ridge" — Caeleth | `episodes/ep01/ch01-caeleth.md` | `drafts/ch01-caeleth-v2.md` | **v2 is latest** |
+| Ep1 Ch02 "The Path" — Drenna | `episodes/ep01/ch02-drenna.md` | `drafts/ch02-drenna-v2.md` | **v2 is latest** |
+| Ep1 Ch03 "The Node" — Vaelen | `episodes/ep01/ch03-vaelen.md` | `drafts/ch03-vaelen-v3.md` | **v3 is latest** (v2 intermediate, skip it) |
+| Ep1 Ch04 "The Wayhouse" — Vaelen | — | `drafts/ch04-vaelen-v2.md` | **v2 is latest** (Zethael Mirathyn fix, show-don't-tell, simile) |
+| Ep2 Ch05 "The Base" — Vaelen | `episodes/ep02/ch05-vaelen.md` | `drafts/ch05-vaelen-v4.md` | **v4 is latest** (coffee→ashroot, GRRM compound description, creature dispatch expanded, Essren reframed: perception > vocabulary, reader feedback pass) |
+| Ep2 Ch06 "The Garage" — Jorath | — | `drafts/ch06-jorath-v3.md` | **v3 is latest** (land-skiff, Diagon Alley market, Amarwen scene, passion reframe, deployment shopping) |
+| Ep2 Ch07 "The Room" — Drenna | — | `drafts/ch07-drenna-v2.md` | **v2 is latest** (Maarthen Daervos, Thalvaren named, Drenna hates Mirathyn, Korvathi expanded: eat creatures/Seven Turnings/Viking cosmology, Lucro asks Amarith, Korvaan entrance exchange: "You hated the Mirathyn", career-focused walk-home) |
+| Ep2 Ch08 "The Voyage" — Vaelen | — | `drafts/ch08-vaelen-v1.md` | **v1 is latest** (commercial flight, carrier hunting incident, Sorvyn micro-fractures, Vaelen jealousy, Drenna visible fork, Caeleth journal drawings) |
 
 *When a draft is approved, promote it to `episodes/ep01/` (or `ep02/`) and remove old versions from `drafts/`.*
 
@@ -78,7 +78,7 @@
 | Act 1 Outline v4 | `reference/act1-episodes-1to3-v4.md` | **SUPERSEDED** | 7-chapter structure. Still has Doumm. Replaced by season-1-outline v2. |
 | Episode 2 Chapter Outline | `episodes/ep02/outline.md` | **Active v3** | Mar 19. Arc Redesign: Commander at dinner, outer culture rumors, "engagement" joke, Drenna departure/Vaelen jealousy, Sorvyn micro-fractures. |
 | Episode 3 Chapter Outline | `episodes/ep03/outline.md` | **Active v3** | Mar 20. v4.0 integration: rescue arc launch (Ep3-5 spine), Zethael NOT found this episode, Caeleth creature/root split planted, Practitioner forced to field (Ch4), outcasts hinted (Ch4), Drenna political (Ch5). |
-| Ep3 Ch1 Outline | `episodes/ep03/ch01-outline.md` | **v3** | Mar 23. Complete redesign: Caeleth creature incident (accidental bonding, angry trainer), Jorath as economic analyst (commerce timeline before Vaelen reads), no outpost (direct client engagement), McKinsey consulting energy, trunk/branch education (Practitioner's regional projection), rescue seeds only (no mission assignment). |
+| Ep3 Ch9 Outline | `episodes/ep03/ch01-outline.md` | **v3** | Mar 23. "Velanthra." Complete redesign: Caeleth creature incident (accidental bonding, angry trainer), Jorath as economic analyst (commerce timeline before Vaelen reads), no outpost (direct client engagement), McKinsey consulting energy, trunk/branch education (Practitioner's regional projection), rescue seeds only (no mission assignment). |
 | Episode 2 Outline v2 (old) | `reference/episode2-v2-outline.md` | **SUPERSEDED** | Uses "Vardo." Replaced by `episodes/ep02/outline.md`. |
 | Season 1 Outline v2 (original) | `reference/season1-outline-v2.md` | **Promoted** | Promoted to `bible/season-1-outline.md`. This copy is the source. |
 

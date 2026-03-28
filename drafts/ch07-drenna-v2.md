@@ -1,5 +1,6 @@
-# Chapter Three
-## Drenna
+# Episode Two — Chapter Seven
+## The Room
+*Drenna*
 
 *Version 2 — Revised Draft*
 *Created: 2026-03-19*

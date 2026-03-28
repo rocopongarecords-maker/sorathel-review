@@ -38,17 +38,17 @@ The rescue arc launches. The Amarith Practitioner. Dead zone crossing. Outer cul
 
 | Ch | POV | Working Title | Function |
 |----|-----|---------------|----------|
-| 1 | Vaelen | "Velanthra" | Urban hub. Amarith Practitioner — first meeting, the devastating nod. Different wrongness. Jorath thrives. Mid-deployment pivot to rescue mission. Departure into wild. Beeping begins. |
-| 2 | Caeleth | "The Wild" | THE BELOVED CHAPTER. Journey through wonder-eyes. Fear. Kindness. Journal. Jorath dynamic deepens. Creature/root split visible: wild creatures respond to him extraordinarily; wild root network overwhelms him. |
-| 3 | Vaelen | "The Crossing" | Dead zone entry. Terrain distortion — first taste. Outer culture scouting party — WEAPONS. Vaelen's first catastrophic choice. Someone gets hurt. Creature rapport scene (Vaelen). Caeleth's instinct saves the team — creature-adjacent sensitivity, NOT trained reading. |
-| 4 | Vaelen | "The Edge" | Practitioner forced to join. Deeper into frontier. Outer culture territory — more signs of habitation. Wave signal strengthening. First hints of the outcasts (tracks, structures, people who aren't outer cultures). The episode's threshold — something ahead. |
-| 5 | Drenna | "The Rooms" | Political thread. The seated. Commander's look carried. Her intelligence reading the crisis from inside the institution. Separate world from the frontier journey. |
+| 9 | Vaelen | "Velanthra" | Urban hub. Amarith Practitioner — first meeting, the devastating nod. Different wrongness. Jorath thrives. Mid-deployment pivot to rescue mission. Departure into wild. Beeping begins. |
+| 10 | Caeleth | "The Wild" | THE BELOVED CHAPTER. Journey through wonder-eyes. Fear. Kindness. Journal. Jorath dynamic deepens. Creature/root split visible: wild creatures respond to him extraordinarily; wild root network overwhelms him. |
+| 11 | Vaelen | "The Crossing" | Dead zone entry. Terrain distortion — first taste. Outer culture scouting party — WEAPONS. Vaelen's first catastrophic choice. Someone gets hurt. Creature rapport scene (Vaelen). Caeleth's instinct saves the team — creature-adjacent sensitivity, NOT trained reading. |
+| 12 | Vaelen | "The Edge" | Practitioner forced to join. Deeper into frontier. Outer culture territory — more signs of habitation. Wave signal strengthening. First hints of the outcasts (tracks, structures, people who aren't outer cultures). The episode's threshold — something ahead. |
+| 13 | Drenna | "The Rooms" | Political thread. The seated. Commander's look carried. Her intelligence reading the crisis from inside the institution. Separate world from the frontier journey. |
 
 **POV split:** Vaelen 3 (60%) · Caeleth 1 (20%) · Drenna 1 (20%)
 
 ---
 
-### CHAPTER 1 — VAELEN: "Velanthra"
+### CHAPTER 9 — VAELEN: "Velanthra"
 
 **The city.** Velanthra is a trading hub — creatures bred for transport, network infrastructure serving commerce and communication instead of agriculture. The team's assignment: network connection interrupted, source unknown. Standard deployment, different setting. The reader enters an urban Sorathel.
 
@@ -78,7 +78,7 @@ South-southwest. The direction of the pull. Vaelen says nothing about the connec
 
 ---
 
-### CHAPTER 2 — CAELETH: "The Wild"
+### CHAPTER 10 — CAELETH: "The Wild"
 
 **THE BELOVED CHAPTER. The reader must love this boy by the end.**
 
@@ -110,7 +110,7 @@ But he's drawn to them too. He watches a massive creature cross a ridge at sunse
 
 ---
 
-### CHAPTER 3 — VAELEN: "The Crossing"
+### CHAPTER 11 — VAELEN: "The Crossing"
 
 **Two crises in one chapter: the dead zone and the outer cultures. Vaelen's first catastrophic choice.**
 
@@ -185,7 +185,7 @@ This echo matters: Vaelen made the wrong call when he performed competence. Cael
 
 ---
 
-### CHAPTER 4 — VAELEN: "The Edge"
+### CHAPTER 12 — VAELEN: "The Edge"
 
 **The Practitioner forced into the field. Deeper into frontier. The threshold of outcast territory.**
 
@@ -205,7 +205,7 @@ Jorath, quiet, to Sorvyn: "He's on a critical engagement with the mud."
 
 **Outer culture territory.** More signs. Not a scouting party this time — permanent habitation. Cleared areas. Structures built from materials Vaelen doesn't recognize. Fire pits used repeatedly. Paths worn into the ground by regular foot traffic. The outer cultures aren't raiding from nowhere — they LIVE here. They've been here. The frontier isn't empty territory being invaded. It's territory that was always occupied by people the network civilization chose not to see.
 
-This reframes the scouting party from Ch3. Not an incursion — a patrol. Their territory. The team is the one trespassing.
+This reframes the scouting party from Ch11. Not an incursion — a patrol. Their territory. The team is the one trespassing.
 
 **The Practitioner's reaction.** Different from the team's horror. He catalogs. Assesses. His trunk-level perception picks up things Vaelen can't: the network's historical retreat pattern, the timeline of withdrawal. "This area lost stable coverage sixty to seventy years ago. These settlements are older than that." The outer cultures didn't move into a gap — they were here before the gap. The gap moved to them.
 
@@ -223,7 +223,7 @@ The team doesn't encounter the outcasts directly — but the evidence is unmista
 
 ---
 
-### CHAPTER 5 — DRENNA: "The Rooms"
+### CHAPTER 13 — DRENNA: "The Rooms"
 
 **Drenna's political world. Separate from the frontier journey. The seated. The Commander's look carried. The crisis as opportunity.**
 
@@ -313,4 +313,4 @@ The wave signal is still heard and followed in Ep3 — but its source (Zethael) 
 
 ---
 
-*Episode 3 chapter outline v3. Updated March 20, 2026. Five chapters. Integrates v4.0 season outline: rescue arc launch (Ep3-5 spine), Zethael NOT found this episode, Caeleth creature/root split planted throughout, Practitioner forced into field (Ch4), first hints of outcasts (Ch4), Drenna political thread (Ch5). Episode ends deeper in frontier, on the threshold. All beloved-building beats preserved.*
+*Episode 3 chapter outline v3. Updated March 20, 2026. Five chapters. Integrates v4.0 season outline: rescue arc launch (Ep3-5 spine), Zethael NOT found this episode, Caeleth creature/root split planted throughout, Practitioner forced into field (Ch12), first hints of outcasts (Ch12), Drenna political thread (Ch13). Continuous chapter numbering: Ch9-13. Episode ends deeper in frontier, on the threshold. All beloved-building beats preserved.*

@@ -1,5 +1,6 @@
-# Chapter One
-## Caeleth
+# Episode One — Chapter One
+## The Ridge
+*Caeleth*
 
 *First Draft — Final*
 

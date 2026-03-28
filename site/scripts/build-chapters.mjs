@@ -38,21 +38,21 @@ for (const line of lines) {
       let chapterNum = 0;
       let character = '';
 
+      // Label format: 'Ep1 Ch01 "The Ridge" — Caeleth'
       const epMatch = label.match(/Ep(\d+)\s+Ch(\d+)/i);
-      const chMatch = label.match(/^Ch(\d+)/i);
 
       if (epMatch) {
         episode = parseInt(epMatch[1]);
         chapterNum = parseInt(epMatch[2]);
-      } else if (chMatch) {
-        episode = 1;
-        chapterNum = parseInt(chMatch[1]);
       }
 
       const charMatch = label.match(/—\s*(\w+)/);
       if (charMatch) {
         character = charMatch[1];
       }
+
+      const titleMatch = label.match(/"([^"]+)"/);
+      const title = titleMatch ? titleMatch[1] : '';
 
       // Build the slug
       const slug = `ep${episode}-ch${String(chapterNum).padStart(2, '0')}`;
@@ -62,6 +62,7 @@ for (const line of lines) {
         episode,
         chapter: chapterNum,
         character,
+        title,
         label,
         file: filePath,
         fullPath: join(projectRoot, filePath),

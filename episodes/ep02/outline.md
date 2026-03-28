@@ -18,7 +18,7 @@
 
 6. **Seed the outer culture threat.** Background throughout: route refusals (merchants won't take certain paths anymore), handlers reporting creature unease, a creature reversion incident at the transport hub (creature suddenly loses its bond — handler hurt). Not the main story, but present in every chapter as growing unease.
 
-7. **Land the "engagement" joke.** Jorath hears the Amarith term for their work and deploys it mercilessly from Chapter 2 forward. Running joke that carries through the season.
+7. **Land the "engagement" joke.** Jorath hears the Amarith term for their work and deploys it mercilessly from Chapter 6 forward. Running joke that carries through the season.
 
 8. **Stage Drenna's departure.** Drenna is on the flight to Velanthra with the team. She separates at landing — upper city, not the Solvarei outpost. The visible fork. Vaelen's jealousy. Sorvyn notices.
 
@@ -34,16 +34,16 @@ No pattern-reading. No diagnostic scenes. Focus on characters as people, the Sol
 
 | Ch | POV | Working Title | Function |
 |----|-----|---------------|----------|
-| 1 | Vaelen | "The Base" | Solvarei compound. Daily life. Vaelen as star. Commander Essren: silence. Ceiling = Amarith. Sorvyn cooking at home. Assignment briefing for Velanthra. Caeleth navigating the compound (seen through Vaelen). Background: route refusals, field team reports of frontier silence. |
-| 2 | Jorath | "The Garage" | Jorath off-duty building his land-skiff. Caeleth through Jorath's eyes. Market scene together. Creature reversion incident at transport hub (Caeleth's fear). Jorath's physical competence and resourcefulness. The "engagement" joke starts here. Background: handler fears, merchants going silent. |
-| 3 | Drenna | "The Room" | Dinner with the seated. The Amarith Commander appears — meritocracy speech, the LOOK. Drenna reads the room. Mentor diminished. Background: the seated discuss route refusals, outer culture reports from the frontier. |
-| 4 | Vaelen | "The Voyage" | Commercial transport to Velanthra. Drenna on the flight — separates at landing (the visible fork). Vaelen's jealousy (Sorvyn notices). Jorath checks rigging, argues provisions with Sorvyn. Sorvyn's micro-fractures — watches Vaelen's jaw, the pause before warmth. The world from above. Background: merchant complaining about route refusals, a family relocated permanently. |
+| 5 | Vaelen | "The Base" | Solvarei compound. Daily life. Vaelen as star. Commander Essren: silence. Ceiling = Amarith. Sorvyn cooking at home. Assignment briefing for Velanthra. Caeleth navigating the compound (seen through Vaelen). Background: route refusals, field team reports of frontier silence. |
+| 6 | Jorath | "The Garage" | Jorath off-duty building his land-skiff. Caeleth through Jorath's eyes. Market scene together. Creature reversion incident at transport hub (Caeleth's fear). Jorath's physical competence and resourcefulness. The "engagement" joke starts here. Background: handler fears, merchants going silent. |
+| 7 | Drenna | "The Room" | Dinner with the seated. The Amarith Commander appears — meritocracy speech, the LOOK. Drenna reads the room. Mentor diminished. Background: the seated discuss route refusals, outer culture reports from the frontier. |
+| 8 | Vaelen | "The Voyage" | Commercial transport to Velanthra. Drenna on the flight — separates at landing (the visible fork). Vaelen's jealousy (Sorvyn notices). Jorath checks rigging, argues provisions with Sorvyn. Sorvyn's micro-fractures — watches Vaelen's jaw, the pause before warmth. The world from above. Background: merchant complaining about route refusals, a family relocated permanently. |
 
 **POV split:** Vaelen 2 (50%) · Jorath 1 (25%) · Drenna 1 (25%)
 
 ---
 
-### CHAPTER 1 — VAELEN: "The Base"
+### CHAPTER 5 — VAELEN: "The Base"
 
 **The Solvarei compound.** The team is between deployments. The reader sees the working world for the first time — where practitioners work, train, receive assignments, decompress. Not a barracks — a working campus. Workshops, practitioner training grounds, a good kitchen, equipment storage, creature dispatch for messaging. The Solvarei is a private firm with real infrastructure. (NOTE: The Solvarei is a PRIVATE organization — it does NOT contain academies, creature breeding/training, or government functions. Those are separate parts of Sorathel's society. Practitioners have homes/apartments in Darachet — nobody lives at the compound.)
 
@@ -73,7 +73,7 @@ The warmth of this scene is essential. Before the faith turns to resentment, the
 
 ---
 
-### CHAPTER 2 — JORATH: "The Garage"
+### CHAPTER 6 — JORATH: "The Garage"
 
 **Jorath's voice:** Precise. Transactional. Finds comfort in numbers and measurements. Humor through complaint and dry observation. He notices what things cost, what they're made of, how they fit together. The world is a series of problems to be solved and deals to be negotiated. But the DEFINING traits are physical competence and resourcefulness — money is ONE thing he tracks, not the only thing.
 
@@ -105,7 +105,7 @@ He says something practical to Caeleth — "Stay upwind" or "They're calmer afte
 
 ---
 
-### CHAPTER 3 — DRENNA: "The Room"
+### CHAPTER 7 — DRENNA: "The Room"
 
 **Completely different world.** Not the Solvarei, not the frontier — the upper class. Drenna has been invited into a room she was never supposed to enter.
 
@@ -149,7 +149,7 @@ He doesn't say anything else to her. She carries that look for the rest of the s
 
 ---
 
-### CHAPTER 4 — VAELEN: "The Voyage"
+### CHAPTER 8 — VAELEN: "The Voyage"
 
 **Commercial transport.** The team boards a long-distance carrier — Sorathel's commercial airline. Not practitioner-specific. A massive flying creature with a deck/cabin structure grown into its back. Multiple sets of wings for stability — drone-like. A handler/pilot pair guides it through rapport. Other passengers: merchants with cargo, a family relocating, a regional official, a group of students. The team is anonymous among them.
 
@@ -238,4 +238,4 @@ Sorvyn watches. Sees Vaelen's jaw. The episode ends with the team arriving at th
 
 ---
 
-*Episode 2 chapter outline v3. Updated March 19, 2026. Four chapters. Life, society, travel (no magic). Three POVs: Vaelen, Jorath, Drenna. Solvarei = private firm. The seated = upper class. Commander Essren silence. Amarith Commander introduced at dinner with the seated (meritocracy speech, the LOOK). Outer culture threat backgrounded in every chapter (route refusals, creature reversion, merchant silence). The "engagement" joke starts Ch2. Drenna's visible fork at Velanthra (Ch4). Sorvyn micro-fractures begin (Ch4). Jorath = physical competence + resourcefulness, not money-comedy. Caeleth beloved-building through witnesses (Vaelen + Jorath). Ready for prose.*
+*Episode 2 chapter outline v3. Updated March 19, 2026. Four chapters. Life, society, travel (no magic). Three POVs: Vaelen, Jorath, Drenna. Solvarei = private firm. The seated = upper class. Commander Essren silence. Amarith Commander introduced at dinner with the seated (meritocracy speech, the LOOK). Outer culture threat backgrounded in every chapter (route refusals, creature reversion, merchant silence). The "engagement" joke starts Ch2. Drenna's visible fork at Velanthra (Ch4). Sorvyn micro-fractures begin (Ch4). Jorath = physical competence + resourcefulness, not money-comedy. Caeleth beloved-building through witnesses (Vaelen + Jorath). Continuous chapter numbering: Ch5-8. Ready for prose.*

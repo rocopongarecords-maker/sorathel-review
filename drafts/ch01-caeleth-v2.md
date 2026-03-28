@@ -1,5 +1,6 @@
-# Chapter One
-## Caeleth
+# Episode One — Chapter One
+## The Ridge
+*Caeleth*
 
 *Version 2 — Revised Draft*
 *Created: 2026-02-24*

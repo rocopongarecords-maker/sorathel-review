@@ -16,7 +16,8 @@
       "episode": 1,
       "chapter": 1,
       "character": "Caeleth",
-      "label": "Ch01 — Caeleth",
+      "title": "The Ridge",
+      "label": "Ep1 Ch01 \"The Ridge\" — Caeleth",
       "file": "drafts/ch01-caeleth-v2.md",
       "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch01-caeleth-v2.md"
     },
@@ -25,7 +26,8 @@
       "episode": 1,
       "chapter": 2,
       "character": "Drenna",
-      "label": "Ch02 — Drenna",
+      "title": "The Path",
+      "label": "Ep1 Ch02 \"The Path\" — Drenna",
       "file": "drafts/ch02-drenna-v2.md",
       "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch02-drenna-v2.md"
     },
@@ -34,7 +36,8 @@
       "episode": 1,
       "chapter": 3,
       "character": "Vaelen",
-      "label": "Ch03 — Vaelen",
+      "title": "The Node",
+      "label": "Ep1 Ch03 \"The Node\" — Vaelen",
       "file": "drafts/ch03-vaelen-v3.md",
       "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch03-vaelen-v3.md"
     },
@@ -43,27 +46,50 @@
       "episode": 1,
       "chapter": 4,
       "character": "Vaelen",
-      "label": "Ch04 — Vaelen",
+      "title": "The Wayhouse",
+      "label": "Ep1 Ch04 \"The Wayhouse\" — Vaelen",
       "file": "drafts/ch04-vaelen-v2.md",
       "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch04-vaelen-v2.md"
     },
     {
-      "slug": "ep2-ch01",
+      "slug": "ep2-ch05",
       "episode": 2,
-      "chapter": 1,
+      "chapter": 5,
       "character": "Vaelen",
-      "label": "Ep2 Ch01 — Vaelen",
-      "file": "drafts/ep02-ch01-vaelen-v3.md",
-      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ep02-ch01-vaelen-v3.md"
+      "title": "The Base",
+      "label": "Ep2 Ch05 \"The Base\" — Vaelen",
+      "file": "drafts/ch05-vaelen-v4.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch05-vaelen-v4.md"
     },
     {
-      "slug": "ep2-ch02",
+      "slug": "ep2-ch06",
       "episode": 2,
-      "chapter": 2,
+      "chapter": 6,
       "character": "Jorath",
-      "label": "Ep2 Ch02 — Jorath",
-      "file": "drafts/ep02-ch02-jorath-v2.md",
-      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ep02-ch02-jorath-v2.md"
+      "title": "The Garage",
+      "label": "Ep2 Ch06 \"The Garage\" — Jorath",
+      "file": "drafts/ch06-jorath-v3.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch06-jorath-v3.md"
+    },
+    {
+      "slug": "ep2-ch07",
+      "episode": 2,
+      "chapter": 7,
+      "character": "Drenna",
+      "title": "The Room",
+      "label": "Ep2 Ch07 \"The Room\" — Drenna",
+      "file": "drafts/ch07-drenna-v2.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch07-drenna-v2.md"
+    },
+    {
+      "slug": "ep2-ch08",
+      "episode": 2,
+      "chapter": 8,
+      "character": "Vaelen",
+      "title": "The Voyage",
+      "label": "Ep2 Ch08 \"The Voyage\" — Vaelen",
+      "file": "drafts/ch08-vaelen-v1.md",
+      "fullPath": "/Volumes/Mac Mini T9/Opencode/Sorathel/drafts/ch08-vaelen-v1.md"
     }
   ]
 }
